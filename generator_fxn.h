@@ -4,7 +4,7 @@ class Generator{
   std::vector<std::string> sign;//includes the word "Sign" in it.
   std::vector<std::string> adj;
   std::vector<std::string> noun;
-  std::vector<std::string> action;
+  std::vector<std::string> noun2;
 
   Generator(std::string character);
   Generator(Generator& old);

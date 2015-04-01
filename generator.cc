@@ -43,7 +43,7 @@ int main(){
   int num;
   cin >> num;
   for(int i = 0; i < num; i++){
-    if(rand()%10!=0){
+    if(rand()%4!=0){
       gen.GenerateA1();
     }else{
       gen.GenerateA2();

@@ -14,7 +14,7 @@ using std::cin;
 using std::endl;
 using std::string;
 
-/*Generates: "<sign>: <noun> of <action>" or "<sign> Sign: <adj> <noun>"
+/*Generates: "<sign>: <noun> of <noun2>" or "<sign> Sign: <adj> <noun>"
 */
 
 Generator::Generator(string character){
@@ -48,7 +48,16 @@ Generator::Generator(string character){
     adj.push_back("Duplex");
     adj.push_back("Hakurei");
     adj.push_back("Yin-Yang");
+    adj.push_back("Sky-Conquering");
+    adj.push_back("Disaster-Dispelling");
+    adj.push_back("Dancing");
+    adj.push_back("Wild Exorcising");
+    adj.push_back("Expanding");
+    adj.push_back("Youkai-Repelling");
+    adj.push_back("Shrine Prosperity");
+    adj.push_back("Anti-Youkai");
     noun.push_back("Seal");
+    noun.push_back("Sign");
     noun.push_back("Circle");
     noun.push_back("Orb");
     noun.push_back("Treasured Orb");
@@ -56,8 +65,16 @@ Generator::Generator(string character){
     noun.push_back("Orb String");
     noun.push_back("Demon God Orb");
     noun.push_back("Barrier");
+    noun.push_back("Danmaku Barrier");
     noun.push_back("Illusion");
-    action.push_back("Exorcism");
+    noun.push_back("Wind-God Kick");
+    noun.push_back("Dimensional Kick");
+    noun.push_back("Scattering");
+    noun2.push_back("Exorcism");
+    noun2.push_back("Light");
+    noun2.push_back("Sealing");
+    //Touhou Fanon 
+
   }
   
 }
@@ -66,7 +83,7 @@ Generator::Generator(Generator& old){
   sign = old.sign;
   adj = old.adj;
   noun = old.noun;
-  action = old.action;
+  noun2 = old.noun2;
 }
 
 Generator::~Generator(){
@@ -79,7 +96,7 @@ void Generator::GenerateA1(){
 }
 
 void Generator::GenerateA2(){
-  string toprint = sign.at(rand()%sign.size()) + ": "+ noun.at(rand()%noun.size()) + " of " + action.at(rand()%action.size());
+  string toprint = sign.at(rand()%sign.size()) + ": "+ noun.at(rand()%noun.size()) + " of " + noun2.at(rand()%noun2.size());
   cout << toprint << endl;
 }
 

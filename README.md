@@ -11,6 +11,23 @@ To run:
 
 ./generator
 
-Supported Characters:
+## Supported Characters ##
+TOUHOU
 
 -Reimu Hakurei "Reimu"
+
+IDO
+
+N/A
+
+LEN'EN
+
+N/A
+
+SEITENTOUJI
+
+N/A
+
+NANSEI (LENK64)
+
+N/A
