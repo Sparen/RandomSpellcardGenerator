@@ -5,6 +5,7 @@
 #include <iostream>
 #include <list>
 #include <algorithm>
+#include "generator_fxn.h"
 
 using std::list;
 using std::vector;
@@ -17,56 +18,6 @@ using std::find;
 /****************************************************
  * RANDOM SPELLCARD NAME GENERATOR by Sparen, 2015  *
  ****************************************************/
-
-/*Generates: "<sign>: <noun2> of <noun>" or "<sign> Sign: <adj> <noun>"
- */
-class Generator{
-private:
-public:
-  vector<string> sign;//includes the word "Sign" in it.
-  vector<string> adj;
-  vector<string> noun;
-  vector<string> noun2;
-
-  Generator(string character){
-    //if character is DEFAULT, will use all available signs, adjectives, and nouns
-    if(character=="Reimu" || character=="DEFAULT"){//Covering: 
-      sign.push_back("Spirit Sign");
-      sign.push_back("Dream Sign");
-      sign.push_back("Divine Spirit");
-      adj.push_back("Fantasy");
-      adj.push_back("Omnidirectional");
-      adj.push_back("Demon-Binding");
-      adj.push_back("Dragon-Slaying");
-      noun.push_back("Seal");
-      noun.push_back("Circle");
-      noun2.push_back("Exorcism");
-    }
-
-  }
-
-  Generator(Generator& old){
-    sign = old.sign;
-    adj = old.adj;
-    noun = old.noun;
-    noun2 = old.noun2;
-  }
-
-  ~Generator(){
-
-  }
-
-  void GenerateA1(){
-    string toprint = sign.at(rand()%sign.size()) + ": " + adj.at(rand()%adj.size()) + " " + noun.at(rand()%noun.size());
-    cout << toprint << endl;
-  }
-
-  void GenerateA2(){
-    string toprint = sign.at(rand()%sign.size()) + ": "+ noun2.at(rand()%noun2.size()) + " of " + noun.at(rand()%noun.size());
-    cout << toprint << endl;
-  }
-
-};
 
 int main(){
   srand(time(NULL));
