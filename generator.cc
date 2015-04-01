@@ -30,8 +30,17 @@ public:
 
   Generator(string character){
     //if character is DEFAULT, will use all available signs, adjectives, and nouns
-    if(character=="Reimu" || character=="DEFAULT"){
-      
+    if(character=="Reimu" || character=="DEFAULT"){//Covering: 
+      sign.push_back("Spirit Sign");
+      sign.push_back("Dream Sign");
+      sign.push_back("Divine Spirit");
+      adj.push_back("Fantasy");
+      adj.push_back("Omnidirectional");
+      adj.push_back("Demon-Binding");
+      adj.push_back("Dragon-Slaying");
+      noun.push_back("Seal");
+      noun.push_back("Circle");
+      noun2.push_back("Exorcism");
     }
 
   }
@@ -46,9 +55,21 @@ public:
   ~Generator(){
 
   }
+
+  void GenerateA1(){
+    string toprint = sign.at(rand()%sign.size()) + ": " + adj.at(rand()%adj.size()) + " " + noun.at(rand()%noun.size());
+    cout << toprint << endl;
+  }
+
+  void GenerateA2(){
+    string toprint = sign.at(rand()%sign.size()) + ": "+ noun2.at(rand()%noun2.size()) + " of " + noun.at(rand()%noun.size());
+    cout << toprint << endl;
+  }
+
 };
 
 int main(){
+  srand(time(NULL));
   //Obtain input from user on character
   cout << "Please type the name of the character whose cards you want to generate." << endl << "Example: Reimu, Udonge, Rumia, Tewi, Shinmyoumaru, Minamitsu" << endl;
   string input;
@@ -67,7 +88,15 @@ int main(){
   //Create Generator
   Generator gen(input);
 
-  //Obtain num of spell names wanted
-  //Spit out the spell names
+  cout << "How many spellcard names do you want?" << endl;
+  int num;
+  cin >> num;
+  for(int i = 0; i < num; i++){
+    if(rand()%2==0){
+      gen.GenerateA1();
+    }else{
+      gen.GenerateA2();
+    }
+  }
   return 0;
 }
