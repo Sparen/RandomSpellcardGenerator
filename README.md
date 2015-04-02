@@ -14,7 +14,8 @@ To run:
 ## Supported Characters ##
 ###TOUHOU###
 
--Reimu Hakurei "Reimu"
+* Reimu Hakurei "Reimu"
+* Marisa Kirisame "Marisa" **WIP**
 
 ###IDO###
 
@@ -29,5 +30,9 @@ N/A
 N/A
 
 ###NANSEI (LENK64)###
+
+N/A
+
+###CHOUYOU (FLUFFY8X)###
 
 N/A
