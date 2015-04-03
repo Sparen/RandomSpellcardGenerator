@@ -23,6 +23,7 @@ Generator::Generator(string character){
   //if character is DEFAULT, will use all available signs, adjectives, and nouns 
   //There MUST be at least one of each category (sign, adj, noun, noun2)
   //Any non-canon words go under fanon. 
+  //Remember to cite sources for particularly interesting or creative words and phrases (see Yuuka for an example)
   /*****************************OFFICIAL ONLY*****************************/
   if(character=="Reimu" || character=="DEFAULT"){
     //Touhou Canon
@@ -559,7 +560,19 @@ Generator::Generator(string character){
   }
   if(character=="Shikieiki" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Guilt Sign");
+    sign.push_back("Judgement");
+    sign.push_back("Lie");
+    adj.push_back("Wandering");
+    adj.push_back("Last");
+    adj.push_back("Cleansed Crystal");
+    noun.push_back("Sin");
+    noun.push_back("Judgement");
+    noun.push_back("Tongue");
+    noun.push_back("Trial");
+    noun.push_back("Guilt");
+    noun2.push_back("Wolf");
+    noun2.push_back("the Ten Kings");
     //Touhou Fanon
   }
   if(character=="Shizuha" || character=="DEFAULT"){

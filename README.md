@@ -34,6 +34,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [08] Tewi Inaba "Tewi"					<br>
 [09] Medicine Melancholy "Medicine"			<br>
 [09] Yuuka Kazami "Yuuka" [+Darkness1]			<br>
+[09] Eiki Shiki Yamaxanadu "Shikieiki" 			<br>
 [10] Shizuha Aki "Shizuha"				<br>
 [10] Minoriko Aki "Minoriko"				<br>
 [10] Momiji Inubashiri "Momiji"				<br>
