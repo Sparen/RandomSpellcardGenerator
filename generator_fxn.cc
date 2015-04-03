@@ -406,8 +406,28 @@ Generator::Generator(string character){
   }
   if(character=="Wriggle" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Firefly Sign");
+    sign.push_back("Lamp Sign");
+    sign.push_back("Wriggle Sign");
+    sign.push_back("Butterfly Sign");
+    sign.push_back("Hidden Bug");
+    adj.push_back("Firefly");
+    adj.push_back("Little");
+    adj.push_back("Night");
+    adj.push_back("Nightbug");
+    adj.push_back("Endless Night");
+    adj.push_back("Fixed");
+    adj.push_back("Butterfly");
+    adj.push_back("Unseasonal");
+    noun.push_back("Bug");
+    noun.push_back("Phenomenon");
+    noun.push_back("Bug Storm");
+    noun.push_back("Tornado");
+    noun.push_back("Seclusion");
+    noun.push_back("Storm");
+    noun.push_back("Star");
     //Touhou Fanon
+    noun2.push_back("Insects");
   }
   if(character=="Mystia" || character=="DEFAULT"){
     //Touhou Canon
