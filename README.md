@@ -20,6 +20,7 @@ Please note that the names you type in are the ones in quotes.
 -Reimu Hakurei "Reimu"		<br>
 -Rumia "Rumia"			<br>
 -Letty Whiterock "Letty"	<br>
+-Chen "Chen"			<br>
 -Lyrica Prismriver "Lyrica"	<br>
 -Lunasa Prismriver "Lunasa"	<br>
 -Merlin Prismriver "Merlin"	<br>

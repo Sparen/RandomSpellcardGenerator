@@ -156,7 +156,38 @@ Generator::Generator(string character){
   }
   if(character=="Chen" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Hermit Sign");
+    sign.push_back("Shikigami Sign");
+    sign.push_back("Child Sign");
+    sign.push_back("Flight Sign");
+    sign.push_back("Heaven Sign");
+    sign.push_back("Oni Sign");
+    sign.push_back("Direction Sign");
+    sign.push_back("Star Sign");
+    sign.push_back("Yin Yang");
+    sign.push_back("Cat Monster");
+    sign.push_back("Oni God");
+    adj.push_back("Phoenix");
+    adj.push_back("Pentagram");
+    adj.push_back("Large Pentagram");
+    adj.push_back("Immortal Sage's");
+    adj.push_back("Incarnate");
+    adj.push_back("Soaring");
+    adj.push_back("Jumping Crossing");
+    adj.push_back("Rumbling");
+    noun.push_back("Egg");
+    noun.push_back("Spread Wings");
+    noun.push_back("Flight");
+    noun.push_back("Crest");
+    noun.push_back("Rumbling");
+    noun.push_back("Sage");
+    noun.push_back("Rampage");
+    noun.push_back("Konjin");
+    noun.push_back("Bishamonten");
+    noun.push_back("Scale");
+    noun.push_back("Jikoku-ten");
+    noun2.push_back("Idaten");
+    noun2.push_back("the Demon's Gate");
     //Touhou Fanon
   }
   if(character=="Alice" || character=="DEFAULT"){
