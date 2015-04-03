@@ -6,12 +6,15 @@
 #include <list>
 #include <algorithm>
 #include <time.h>
+#include <string.h>
 #include "generator_fxn.h"
+#include "config.h"
 
 using std::list;
 using std::vector;
 using std::cout;
 using std::cin;
+using std::cerr;
 using std::endl;
 using std::string;
 using std::find;
@@ -20,10 +23,46 @@ using std::find;
  * RANDOM SPELLCARD NAME GENERATOR by Sparen, 2015  *
  ****************************************************/
 
-int main(){
+int main(int argc, char** argv) {
+  Config c = ~(1 << F_EIRIN);
+  for (int i = 1; i < argc; ++i) {
+    char* arg = argv[i];
+    if (arg[0] == '-') {
+      switch (arg[1]) {
+        case '-': {
+          char* option = arg + 2;
+          if (!strcmp(option, "quiet")) RESET(c, F_VERBOSE);
+          else if (!strcmp(option, "verbose")) SET(c, F_VERBOSE);
+          else if (!strcmp(option, "help")) SET(c, F_EIRIN);
+          else {
+            cerr << "Unknown option " << option << "\n";
+            exit(EXIT_FAILURE);
+          }
+          break;
+        }
+        case 'q': RESET(c, F_VERBOSE); break;
+        case 'v': SET(c, F_VERBOSE); break;
+        case 'h': SET(c, F_EIRIN); break;
+        default: {
+          cerr << "Unknown option " << arg[1] << "\n";
+          exit(EXIT_FAILURE);
+        }
+      }
+    }
+  }
+  if (HAS(c, F_EIRIN)) {
+    cout << "\n\
+RANDOM SPELLCARD NAME GENERATOR BY SPAREN\n\
+  Options:\n\
+    -h (--help): displays this message\n\
+    -q (--quiet): only output the resultant spell names\n\
+    -v (--verbose): outputs guide text (default)" << "\n";
+    return 0;
+  }
+  bool verbose = HAS(c, F_VERBOSE);
   srand(time(NULL));
   //Obtain input from user on character
-  cout << "Please type the name of the character whose cards you want to generate." << endl << "Example: Reimu, Udonge, Rumia, Tewi, Shinmyoumaru, Minamitsu" << endl;
+  if (verbose) cout << "Please type the name of the character whose cards you want to generate.\nExample: Reimu, Udonge, Rumia, Tewi, Shinmyoumaru, Minamitsu\n";
   string input;
   cin >> input;
 
@@ -57,18 +96,20 @@ int main(){
   /*****************************SEITENTOUJI*****************************/
   /*****************************NANSEI*****************************/
   /*****************************CHOUYOU*****************************/
+  names.push_back("Rencron");
+  names.push_back("Reiri");
 
   vector<string>::iterator it;
   it = find(names.begin(), names.end(), input);
   if (it == names.end()) { // not found
-    cout << "Name not in list. Using Default" << endl;
+    if (verbose) cout << "Name not in list. Using Default" << endl;
     input = "DEFAULT";
   }
   
   //Create Generator
   Generator gen(input);
   
-  cout << "How many spellcard names do you want?" << endl;
+  if (verbose) cout << "How many spellcard names do you want?" << endl;
   int num;
   cin >> num;
   for(int i = 0; i < num; i++){

@@ -20,12 +20,13 @@ using std::set;
 */
 
 Generator::Generator(string character){
+  bool isDef = character == "DEFAULT";
   //if character is DEFAULT, will use all available signs, adjectives, and nouns 
   //There MUST be at least one of each category (sign, adj, noun, noun2)
   //Any non-canon words go under fanon. 
   //Remember to cite sources for particularly interesting or creative words and phrases (see Yuuka for an example)
   /*****************************OFFICIAL ONLY*****************************/
-  if(character=="Reimu" || character=="DEFAULT"){
+  if(character=="Reimu" || isDef){
     //Touhou Canon
     sign.push_back("Spirit Sign");
     sign.push_back("Dream Sign");
@@ -176,7 +177,7 @@ Generator::Generator(string character){
     noun2.push_back("the Stars");
     noun2.push_back("the Sky");
   }
-  if(character=="Rumia" || character=="DEFAULT"){
+  if(character=="Rumia" || isDef){
     //Touhou Canon
     sign.push_back("Moon Sign");
     sign.push_back("Night Sign");
@@ -191,43 +192,43 @@ Generator::Generator(string character){
     noun2.push_back("the Moon");
     //Touhou Fanon
   }
-  if(character=="Daiyousei" || character=="DEFAULT"){
+  if(character=="Daiyousei" || isDef){
     //Touhou Fanon
   }
-  if(character=="Cirno" || character=="DEFAULT"){
+  if(character=="Cirno" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Meiling" || character=="DEFAULT"){
+  if(character=="Meiling" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Koakuma" || character=="DEFAULT"){
+  if(character=="Koakuma" || isDef){
     //Touhou Fanon
   }
-  if(character=="Patchouli" || character=="DEFAULT"){
+  if(character=="Patchouli" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Sakuya" || character=="DEFAULT"){
+  if(character=="Sakuya" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Remilia" || character=="DEFAULT"){
+  if(character=="Remilia" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Flandre" || character=="DEFAULT"){
+  if(character=="Flandre" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Letty" || character=="DEFAULT"){
+  if(character=="Letty" || isDef){
     //Touhou Canon
     sign.push_back("Cold Sign");
     sign.push_back("Winter Sign");
@@ -246,7 +247,7 @@ Generator::Generator(string character){
     //Touhou Fanon
     noun2.push_back("Frost");
   }
-  if(character=="Chen" || character=="DEFAULT"){
+  if(character=="Chen" || isDef){
     //Touhou Canon
     sign.push_back("Hermit Sign");
     sign.push_back("Shikigami Sign");
@@ -282,15 +283,15 @@ Generator::Generator(string character){
     noun2.push_back("the Demon's Gate");
     //Touhou Fanon
   }
-  if(character=="Alice" || character=="DEFAULT"){
+  if(character=="Alice" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Lily" || character=="DEFAULT"){
+  if(character=="Lily" || isDef){
     //Touhou Fanon
   }
-  if(character=="Merlin" || character=="DEFAULT"){
+  if(character=="Merlin" || isDef){
     //Touhou Canon
     sign.push_back("Trumpet Spirit");
     sign.push_back("Nether Trumpet");
@@ -302,7 +303,7 @@ Generator::Generator(string character){
     noun.push_back("Clifford");
     //Touhou Fanon
   }
-  if(character=="Lyrica" || character=="DEFAULT"){
+  if(character=="Lyrica" || isDef){
     //Touhou Canon
     sign.push_back("Nether Keys");
     sign.push_back("Key Spirit");
@@ -315,7 +316,7 @@ Generator::Generator(string character){
     noun.push_back("Flow");
     //Touhou Fanon
   }
-  if(character=="Lunasa" || character=="DEFAULT"){
+  if(character=="Lunasa" || isDef){
     //Touhou Canon
     sign.push_back("String Performance");
     sign.push_back("Divine Strings");
@@ -327,7 +328,7 @@ Generator::Generator(string character){
     noun.push_back("Melancholy");
     //Touhou Fanon
   }
-  if(character=="Merlin" || character=="Lyrica" || character=="Lunasa" || character=="DEFAULT"){
+  if(character=="Merlin" || character=="Lyrica" || character=="Lunasa" || isDef){
     //Touhou Canon
     sign.push_back("Noise Sign");
     sign.push_back("Funeral Concert");
@@ -347,17 +348,17 @@ Generator::Generator(string character){
     noun2.push_back("Melody");
     noun2.push_back("Harmony");
   }
-  if(character=="Youmu" || character=="DEFAULT"){
+  if(character=="Youmu" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Yuyuko" || character=="DEFAULT"){
+  if(character=="Yuyuko" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Ran" || character=="DEFAULT"){
+  if(character=="Ran" || isDef){
     //Touhou Canon
     sign.push_back("Shikigami");
     sign.push_back("Shikigami's Radiance");
@@ -395,17 +396,17 @@ Generator::Generator(string character){
     noun2.push_back("Zenki and Goki");
     //Touhou Fanon
   }
-  if(character=="Yukari" || character=="DEFAULT"){
+  if(character=="Yukari" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Suika" || character=="DEFAULT"){
+  if(character=="Suika" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Wriggle" || character=="DEFAULT"){
+  if(character=="Wriggle" || isDef){
     //Touhou Canon
     sign.push_back("Firefly Sign");
     sign.push_back("Lamp Sign");
@@ -430,7 +431,7 @@ Generator::Generator(string character){
     //Touhou Fanon
     noun2.push_back("Insects");
   }
-  if(character=="Mystia" || character=="DEFAULT"){
+  if(character=="Mystia" || isDef){
     //Touhou Canon
     sign.push_back("Vocal Sign");
     sign.push_back("Moth Sign");
@@ -461,12 +462,12 @@ Generator::Generator(string character){
     noun2.push_back("the Night Sparrow");
     //Touhou Fanon
   }
-  if(character=="Keine" || character=="DEFAULT"){
+  if(character=="Keine" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Tewi" || character=="DEFAULT"){
+  if(character=="Tewi" || isDef){
     //Touhou Canon
     sign.push_back("Rabbit Sign");
     sign.push_back("Owing Sign");
@@ -481,32 +482,32 @@ Generator::Generator(string character){
     noun2.push_back("Ohnamuji-sama");
     //Touhou Fanon
   }
-  if(character=="Udonge" || character=="DEFAULT"){
+  if(character=="Udonge" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Eirin" || character=="DEFAULT"){
+  if(character=="Eirin" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Kaguya" || character=="DEFAULT"){
+  if(character=="Kaguya" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Mokou" || character=="DEFAULT"){
+  if(character=="Mokou" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Aya" || character=="DEFAULT"){
+  if(character=="Aya" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Medicine" || character=="DEFAULT"){
+  if(character=="Medicine" || isDef){
     //Touhou Canon
     sign.push_back("Poison Sign");
     sign.push_back("Fog Sign");
@@ -524,7 +525,7 @@ Generator::Generator(string character){
     noun.push_back("Neurotoxin");
     noun2.push_back("Toxicity");
   }
-  if(character=="Yuuka" || character=="DEFAULT"){
+  if(character=="Yuuka" || isDef){
     //Touhou Canon
     sign.push_back("Flower Sign");
     sign.push_back("Fantasy");
@@ -553,12 +554,12 @@ Generator::Generator(string character){
     noun.push_back("Petals");
     noun2.push_back("the Ageless FLower");//Darkness1 Yuuka
   }
-  if(character=="Komachi" || character=="DEFAULT"){
+  if(character=="Komachi" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Shikieiki" || character=="DEFAULT"){
+  if(character=="Shikieiki" || isDef){
     //Touhou Canon
     sign.push_back("Guilt Sign");
     sign.push_back("Judgement");
@@ -575,7 +576,7 @@ Generator::Generator(string character){
     noun2.push_back("the Ten Kings");
     //Touhou Fanon
   }
-  if(character=="Shizuha" || character=="DEFAULT"){
+  if(character=="Shizuha" || isDef){
     //Touhou Canon
     sign.push_back("Leaf Sign");
     sign.push_back("Autumn Sign");
@@ -588,7 +589,7 @@ Generator::Generator(string character){
     noun2.push_back("Madness");
     //Touhou Fanon
   }
-  if(character=="Minoriko" || character=="DEFAULT"){
+  if(character=="Minoriko" || isDef){
     //Touhou Canon
     sign.push_back("Autumn Sign");
     sign.push_back("Plenty Sign");
@@ -607,17 +608,17 @@ Generator::Generator(string character){
     noun2.push_back("the Wheat God");
     //Touhou Fanon
   }
-  if(character=="Hina" || character=="DEFAULT"){
+  if(character=="Hina" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Nitori" || character=="DEFAULT"){
+  if(character=="Nitori" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Momiji" || character=="DEFAULT"){
+  if(character=="Momiji" || isDef){
     //Touhou Canon
     sign.push_back("Dog Sign");
     sign.push_back("Mountain Nomad");
@@ -634,32 +635,32 @@ Generator::Generator(string character){
     noun.push_back("Crunch");
     noun2.push_back("the Wolf Tengu");
   }
-  if(character=="Sanae" || character=="DEFAULT"){
+  if(character=="Sanae" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Kanako" || character=="DEFAULT"){
+  if(character=="Kanako" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Suwako" || character=="DEFAULT"){
+  if(character=="Suwako" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Iku" || character=="DEFAULT"){
+  if(character=="Iku" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Tenshi" || character=="DEFAULT"){
+  if(character=="Tenshi" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Kisume" || character=="DEFAULT"){
+  if(character=="Kisume" || isDef){
     //Touhou Canon
     sign.push_back("Horror");
     sign.push_back("Well Bucket");
@@ -670,47 +671,47 @@ Generator::Generator(string character){
     //Touhou Fanon
     noun2.push_back("Fire");
   }
-  if(character=="Yamame" || character=="DEFAULT"){
+  if(character=="Yamame" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Parsee" || character=="DEFAULT"){
+  if(character=="Parsee" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Yuugi" || character=="DEFAULT"){
+  if(character=="Yuugi" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Satori" || character=="DEFAULT"){
+  if(character=="Satori" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Orin" || character=="DEFAULT"){
+  if(character=="Orin" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Utsuho" || character=="DEFAULT"){
+  if(character=="Utsuho" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Koishi" || character=="DEFAULT"){
+  if(character=="Koishi" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Nazrin" || character=="DEFAULT"){
+  if(character=="Nazrin" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Kogasa" || character=="DEFAULT"){
+  if(character=="Kogasa" || isDef){
     //Touhou Canon
     sign.push_back("Large Ring");
     sign.push_back("Umbrella Sign");
@@ -750,52 +751,52 @@ Generator::Generator(string character){
     noun2.push_back("Light");
     noun2.push_back("Rain");
   }
-  if(character=="Ichirin" || character=="DEFAULT"){
+  if(character=="Ichirin" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Minamitsu" || character=="DEFAULT"){
+  if(character=="Minamitsu" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Shou" || character=="DEFAULT"){
+  if(character=="Shou" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Byakuren" || character=="DEFAULT"){
+  if(character=="Byakuren" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Nue" || character=="DEFAULT"){
+  if(character=="Nue" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Hatate" || character=="DEFAULT"){
+  if(character=="Hatate" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Sunny" || character=="DEFAULT"){
+  if(character=="Sunny" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Luna" || character=="DEFAULT"){
+  if(character=="Luna" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Star" || character=="DEFAULT"){
+  if(character=="Star" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Kyouko" || character=="DEFAULT"){
+  if(character=="Kyouko" || isDef){
     //Touhou Canon
     sign.push_back("Echo Sign");
     sign.push_back("Mountain Echo");
@@ -823,42 +824,42 @@ Generator::Generator(string character){
     //Touhou Fanon
     noun2.push_back("the Yamabiko");
   }
-  if(character=="Yoshika" || character=="DEFAULT"){
+  if(character=="Yoshika" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Seiga" || character=="DEFAULT"){
+  if(character=="Seiga" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Tojiko" || character=="DEFAULT"){
+  if(character=="Tojiko" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Futo" || character=="DEFAULT"){
+  if(character=="Futo" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Miko" || character=="DEFAULT"){
+  if(character=="Miko" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Mamizou" || character=="DEFAULT"){
+  if(character=="Mamizou" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Kokoro" || character=="DEFAULT"){
+  if(character=="Kokoro" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Wakasagihime" || character=="DEFAULT"){
+  if(character=="Wakasagihime" || isDef){
     //Touhou Canon
     sign.push_back("Water Sign");
     sign.push_back("Scale Sign");
@@ -878,7 +879,7 @@ Generator::Generator(string character){
     noun2.push_back("Fish");
     //Touhou Fanon
   }
-  if(character=="Sekibanki" || character=="DEFAULT"){
+  if(character=="Sekibanki" || isDef){
     //Touhou Canon
     sign.push_back("Flight Sign");
     sign.push_back("Neck Sign");
@@ -902,52 +903,52 @@ Generator::Generator(string character){
     //Touhou Fanon
     noun2.push_back("the Dullahan");
   }
-  if(character=="Kagerou" || character=="DEFAULT"){
+  if(character=="Kagerou" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Benben" || character=="DEFAULT"){
+  if(character=="Benben" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Yatsuhashi" || character=="DEFAULT"){
+  if(character=="Yatsuhashi" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Seija" || character=="DEFAULT"){
+  if(character=="Seija" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Shinmyoumaru" || character=="DEFAULT"){
+  if(character=="Shinmyoumaru" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Raiko" || character=="DEFAULT"){
+  if(character=="Raiko" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
-  if(character=="Kasen" || character=="DEFAULT"){
+  if(character=="Kasen" || isDef){
     //Touhou Canon
 
     //Touhou Fanon
   }
   /*****************************SPINOFF ONLY*****************************/
-  if(character=="Akyuu" || character=="DEFAULT"){
+  if(character=="Akyuu" || isDef){
     //Touhou Fanon
   }
-  if(character=="Kosuzu" || character=="DEFAULT"){
+  if(character=="Kosuzu" || isDef){
     //Touhou Fanon
   }
-  if(character=="Toyohime" || character=="DEFAULT"){
+  if(character=="Toyohime" || isDef){
     //Touhou Fanon
   }
-  if(character=="Yorihime" || character=="DEFAULT"){
+  if(character=="Yorihime" || isDef){
     //Touhou Fanon
   }
   /*****************************IDO*****************************/
@@ -955,7 +956,25 @@ Generator::Generator(string character){
   /*****************************SEITENTOUJI*****************************/
   /*****************************NANSEI*****************************/
   /*****************************CHOUYOU*****************************/
-  
+  if (character == "Rencron" || character == "Reiri" || isDef) {
+    sign.push_back("Leaf Sign");
+    sign.push_back("Earth Sign");
+    sign.push_back("Wind Sign");
+    sign.push_back("Tree Sign");
+    adj.push_back("Leaf-Ejecting");
+    adj.push_back("Unknown");
+    adj.push_back("Wily");
+    adj.push_back("Silver");
+    noun.push_back("Salamander");
+    noun.push_back("Wind");
+    noun.push_back("Sword");
+    noun.push_back("Bow");
+    noun.push_back("Guard");
+    noun.push_back("Arrows");
+    noun.push_back("Sunrise");
+    noun2.push_back("the Deep Forest");
+    noun2.push_back("the Horizon");
+  }
 }
 
 Generator::Generator(Generator& old){
