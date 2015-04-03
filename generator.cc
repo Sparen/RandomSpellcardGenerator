@@ -28,8 +28,17 @@ int main(){
   cin >> input;
 
   vector<string> names;
+  /*Please push back in order of game # shown. See generator_fxn.cc for order*/
   names.push_back("Reimu");
   names.push_back("Marisa");
+  names.push_back("Rumia");
+  names.push_back("Letty");
+  names.push_back("Chen");
+  names.push_back("Lyrica"); names.push_back("Lunasa"); names.push_back("Merlin");
+  names.push_back("Ran");
+  names.push_back("Kisume");
+  names.push_back("Kogasa");
+  names.push_back("Wakasagihime");
 
   vector<string>::iterator it;
   it = find(names.begin(), names.end(), input);

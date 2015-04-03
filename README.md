@@ -12,10 +12,23 @@ To run:
 ./generator
 
 ## Supported Characters ##
+
+Please note that the names you type in are the ones in quotes.
+
 ###TOUHOU###
 
-* Reimu Hakurei "Reimu"
-* Marisa Kirisame "Marisa" **WIP**
+[01]Reimu Hakurei "Reimu"		<br>
+[02]Marisa Kirisame "Marisa"		<br>
+[06]Rumia "Rumia"			<br>
+[07]Letty Whiterock "Letty"		<br>
+[07]Chen "Chen"				<br>
+[07]Lyrica Prismriver "Lyrica"		<br>
+[07]Lunasa Prismriver "Lunasa"		<br>
+[07]Merlin Prismriver "Merlin"		<br>
+[07]Ran Yakumo "Ran"			<br>
+[11]Kisume "Kisume"			<br>
+[12]Kogasa Tatara "Kogasa"		<br>
+[14]Wakasagihime "Wakasagihime"		<br>
 
 ###IDO###
 
