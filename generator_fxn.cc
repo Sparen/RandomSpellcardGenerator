@@ -19,6 +19,7 @@ using std::string;
 
 Generator::Generator(string character){
   //if character is DEFAULT, will use all available signs, adjectives, and nouns 
+  //There MUST be at least one of each category (sign, adj, noun, noun2)
   /*****************************OFFICIAL ONLY*****************************/
   if(character=="Reimu" || character=="DEFAULT"){
     //Touhou Canon
@@ -247,6 +248,8 @@ Generator::Generator(string character){
     //Touhou Fanon
   }
   if(character=="Shizuha" || character=="DEFAULT"){
+    //Touhou Canon
+
     //Touhou Fanon
   }
   if(character=="Minoriko" || character=="DEFAULT"){
@@ -296,8 +299,14 @@ Generator::Generator(string character){
   }
   if(character=="Kisume" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Horror");
+    sign.push_back("Well Bucket");
+    adj.push_back("Tsurube-Otoshi");
+    adj.push_back("Well");
+    noun.push_back("Apparition");
+    noun.push_back("Destructor");
     //Touhou Fanon
+    noun2.push_back("Fire");
   }
   if(character=="Yamame" || character=="DEFAULT"){
     //Touhou Canon

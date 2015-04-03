@@ -18,6 +18,7 @@ Please note that the names you type in are the ones in quotes.
 ###TOUHOU###
 
 -Reimu Hakurei "Reimu"
+-Kisume "Kisume"
 -Kogasa Tatara "Kogasa"
 
 ###IDO###
