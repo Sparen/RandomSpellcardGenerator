@@ -46,21 +46,21 @@ int main(){
     cout << "Name not in list. Using Default" << endl;
     input = "DEFAULT";
   }
-
+  
   //Create Generator
   Generator gen(input);
-
+  
   cout << "How many spellcard names do you want?" << endl;
   int num;
   cin >> num;
   for(int i = 0; i < num; i++){
-    switch (rand() & 15) {
-	  case 0: gen.PrintA3(); break;
-	  case 1:
-	  case 2:
-	  case 3: gen.PrintA2(); break;
-	  default: gen.PrintA1();
-	}
+    switch (rand() & 15) {//rand % 16 - 1/16 A3, 3/16 A2, 12/16 A1
+    case 0: gen.PrintA3(); break;
+    case 1:
+    case 2:
+    case 3: gen.PrintA2(); break;
+    default: gen.PrintA1();
+    }
   }
   return 0;
 }
