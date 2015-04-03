@@ -527,7 +527,15 @@ Generator::Generator(string character){
   }
   if(character=="Shizuha" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Leaf Sign");
+    sign.push_back("Autumn Sign");
+    sign.push_back("Wilted Path");
+    adj.push_back("Falling");
+    adj.push_back("Lost");
+    noun.push_back("Falling Leaves");
+    noun.push_back("Blast");
+    noun.push_back("Windrow");
+    noun2.push_back("Madness");
     //Touhou Fanon
   }
   if(character=="Minoriko" || character=="DEFAULT"){
