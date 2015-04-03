@@ -490,7 +490,22 @@ Generator::Generator(string character){
   }
   if(character=="Wakasagihime" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Water Sign");
+    sign.push_back("Scale Sign");
+    sign.push_back("Tide Sign");
+    sign.push_back("Fish Sign");
+    adj.push_back("Tail Fin");
+    adj.push_back("Scale");
+    adj.push_back("Lunatic Red");
+    noun.push_back("Slap");
+    noun.push_back("Wave");
+    noun.push_back("Raging Waves");
+    noun.push_back("Great Raging Waves");
+    noun.push_back("Tidal Wave");
+    noun.push_back("School");
+    noun2.push_back("the Reversed Scale");
+    noun2.push_back("the Lake");
+    noun2.push_back("Fish");
     //Touhou Fanon
   }
   if(character=="Sekibanki" || character=="DEFAULT"){

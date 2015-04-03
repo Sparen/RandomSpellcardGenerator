@@ -17,10 +17,11 @@ Please note that the names you type in are the ones in quotes.
 
 ###TOUHOU###
 
--Reimu Hakurei "Reimu"		<br>
+-Reimu Hakurei 	"Reimu"		<br>
 -Letty Whiterock "Letty"	<br>
 -Kisume "Kisume"		<br>
--Kogasa Tatara "Kogasa"
+-Kogasa Tatara "Kogasa"		<br>
+-Wakasagihime "Wakasagihime"	<br>
 
 ###IDO###
 
