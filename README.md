@@ -17,17 +17,17 @@ Please note that the names you type in are the ones in quotes.
 
 ###TOUHOU###
 
--Reimu Hakurei "Reimu"		<br>
--Rumia "Rumia"			<br>
--Letty Whiterock "Letty"	<br>
--Chen "Chen"			<br>
--Lyrica Prismriver "Lyrica"	<br>
--Lunasa Prismriver "Lunasa"	<br>
--Merlin Prismriver "Merlin"	<br>
--Ran Yakumo "Ran"		<br>
--Kisume "Kisume"		<br>
--Kogasa Tatara "Kogasa"		<br>
--Wakasagihime "Wakasagihime"	<br>
+[01]Reimu Hakurei "Reimu"		<br>
+[06]Rumia "Rumia"			<br>
+[07]Letty Whiterock "Letty"		<br>
+[07]Chen "Chen"				<br>
+[07]Lyrica Prismriver "Lyrica"		<br>
+[07]Lunasa Prismriver "Lunasa"		<br>
+[07]Merlin Prismriver "Merlin"		<br>
+[07]Ran Yakumo "Ran"			<br>
+[11]Kisume "Kisume"			<br>
+[12]Kogasa Tatara "Kogasa"		<br>
+[14]Wakasagihime "Wakasagihime"		<br>
 
 ###IDO###
 
