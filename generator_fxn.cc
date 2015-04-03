@@ -547,8 +547,20 @@ Generator::Generator(string character){
   }
   if(character=="Momiji" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Dog Sign");
+    sign.push_back("Mountain Nomad");
+    sign.push_back("Fang Sign");
+    adj.push_back("Rabies");
+    adj.push_back("Expelee's");
+    adj.push_back("Chewing");
+    noun.push_back("Bite");
+    noun.push_back("Canaan");
+    noun.push_back("Satisfaction");
     //Touhou Fanon
+    sign.push_back("Wolf Tengu");
+    sign.push_back("Wolf Fang");
+    noun.push_back("Crunch");
+    noun2.push_back("the Wolf Tengu");
   }
   if(character=="Sanae" || character=="DEFAULT"){
     //Touhou Canon
