@@ -19,6 +19,7 @@ using std::string;
 
 Generator::Generator(string character){
   //if character is DEFAULT, will use all available signs, adjectives, and nouns 
+  /*****************************OFFICIAL ONLY*****************************/
   if(character=="Reimu" || character=="DEFAULT"){
     //Touhou Canon
     sign.push_back("Spirit Sign");
@@ -76,6 +77,421 @@ Generator::Generator(string character){
     //Touhou Fanon 
 
   }
+  if(character=="Marisa" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Rumia" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Daiyousei" || character=="DEFAULT"){
+    //Touhou Fanon
+  }
+  if(character=="Cirno" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Meiling" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Koakuma" || character=="DEFAULT"){
+    //Touhou Fanon
+  }
+  if(character=="Patchouli" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Sakuya" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Remilia" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Flandre" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Letty" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Chen" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Alice" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Lily" || character=="DEFAULT"){
+    //Touhou Fanon
+  }
+  if(character=="Merlin" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Lyrica" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Lunasa" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Youmu" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Yuyuko" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Ran" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Yukari" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Suika" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Wriggle" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Mystia" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Keine" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Tewi" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Udonge" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Eirin" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Kaguya" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Mokou" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Aya" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Medicine" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Yuuka" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Komachi" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Shikieiki" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Shizuha" || character=="DEFAULT"){
+    //Touhou Fanon
+  }
+  if(character=="Minoriko" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Hina" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Nitori" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Momiji" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Sanae" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Kanako" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Suwako" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Iku" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Tenshi" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Kisume" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Yamame" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Parsee" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Yuugi" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Satori" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Orin" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Utsuho" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Koishi" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Nazrin" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Kogasa" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Ichirin" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Minamitsu" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Shou" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Byakuren" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Nue" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Hatate" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Sunny" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Luna" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Star" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Kyouko" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Yoshika" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Seiga" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Tojiko" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Futo" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Miko" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Mamizou" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Kokoro" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Wakasagihime" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Sekibanki" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Kagerou" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Benben" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Yatsuhashi" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Seija" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Shinmyoumaru" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Raiko" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  if(character=="Kasen" || character=="DEFAULT"){
+    //Touhou Canon
+
+    //Touhou Fanon
+  }
+  /*****************************SPINOFF ONLY*****************************/
+  if(character=="Akyuu" || character=="DEFAULT"){
+    //Touhou Fanon
+  }
+  if(character=="Kosuzu" || character=="DEFAULT"){
+    //Touhou Fanon
+  }
+  if(character=="Toyohime" || character=="DEFAULT"){
+    //Touhou Fanon
+  }
+  if(character=="Yorihime" || character=="DEFAULT"){
+    //Touhou Fanon
+  }
+  /*****************************IDO*****************************/
+  /*****************************LEN'EN*****************************/
+  /*****************************SEITENTOUJI*****************************/
+  /*****************************NANSEI*****************************/
+  /*****************************CHOUYOU*****************************/
   
 }
 

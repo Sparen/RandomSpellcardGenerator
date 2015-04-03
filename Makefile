@@ -7,7 +7,7 @@
 
 # make variables let us avoid pasting these options in multiple places
 CC = g++ 
-CCFLAGS = -std=c++11 -Wall -Wextra -pedantic -O         # for final build
+CCFLAGS = -std=c++11 -Wall -Wextra -pedantic -O
 
 bin: gen
 
@@ -21,4 +21,4 @@ gen: generator.o generator_fxn.o
 	$(CC) $(CCFLAGS) -o generator generator.o generator_fxn.o
 
 clean: 
-	rm -f *.o generator *# *~
+	rm -f *.o generator *# *~ *.exe *.gcov *.gcda *.gcno
