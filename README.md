@@ -30,6 +30,7 @@ Please note that the names you type in are the ones in quotes.
 [08] Mystia Lorelei "Mystia"		<br>
 [08] Tewi Inaba "Tewi"			<br>
 [10] Shizuha Aki "Shizuha"		<br>
+[10] Minoriko Aki "Minoriko"		<br>
 [10] Momiji Inubashiri "Momiji"		<br>
 [11] Kisume "Kisume"			<br>
 [12] Kogasa Tatara "Kogasa"		<br>

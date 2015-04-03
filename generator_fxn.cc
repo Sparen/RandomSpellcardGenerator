@@ -540,7 +540,21 @@ Generator::Generator(string character){
   }
   if(character=="Minoriko" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Autumn Sign");
+    sign.push_back("Plenty Sign");
+    sign.push_back("Fruit Sign");
+    sign.push_back("Bumper Crop");
+    sign.push_back("Baked Sweet Potato");
+    adj.push_back("Autumn");
+    adj.push_back("Owotoshi");
+    adj.push_back("Warm Color");
+    adj.push_back("Sweet Potato");
+    noun.push_back("Sky");
+    noun.push_back("Heart");
+    noun.push_back("Promise");
+    noun.push_back("Harvest");
+    noun.push_back("Room");
+    noun2.push_back("the Wheat God");
     //Touhou Fanon
   }
   if(character=="Hina" || character=="DEFAULT"){

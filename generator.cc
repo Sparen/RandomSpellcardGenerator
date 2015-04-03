@@ -29,6 +29,7 @@ int main(){
 
   vector<string> names;
   /*Please push back in order of game # shown. See generator_fxn.cc for order*/
+  /*****************************OFFICIAL ONLY*****************************/
   names.push_back("Reimu");
   names.push_back("Marisa");
   names.push_back("Rumia");
@@ -40,11 +41,18 @@ int main(){
   names.push_back("Mystia");
   names.push_back("Tewi");
   names.push_back("Shizuha");
+  names.push_back("Minoriko");
   names.push_back("Momiji");
   names.push_back("Kisume");
   names.push_back("Kogasa");
   names.push_back("Wakasagihime");
   names.push_back("Sekibanki");
+  /*****************************SPINOFF ONLY*****************************/
+  /*****************************IDO*****************************/
+  /*****************************LEN'EN*****************************/
+  /*****************************SEITENTOUJI*****************************/
+  /*****************************NANSEI*****************************/
+  /*****************************CHOUYOU*****************************/
 
   vector<string>::iterator it;
   it = find(names.begin(), names.end(), input);
