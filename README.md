@@ -40,6 +40,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [10] Momiji Inubashiri "Momiji"				<br>
 [11] Kisume "Kisume"					<br>
 [12] Kogasa Tatara "Kogasa"				<br>
+[13] Kyouko Kasodani "Kyouko"				<br>
 [14] Wakasagihime "Wakasagihime"			<br>
 [14] Sekibanki "Sekibanki"				<br>
 

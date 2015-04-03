@@ -48,6 +48,7 @@ int main(){
   names.push_back("Momiji");
   names.push_back("Kisume");
   names.push_back("Kogasa");
+  names.push_back("Kyouko");
   names.push_back("Wakasagihime");
   names.push_back("Sekibanki");
   /*****************************SPINOFF ONLY*****************************/

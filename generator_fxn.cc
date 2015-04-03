@@ -797,8 +797,31 @@ Generator::Generator(string character){
   }
   if(character=="Kyouko" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Echo Sign");
+    sign.push_back("Mountain Echo");
+    sign.push_back("Great Voice");
+    sign.push_back("Scream");
+    sign.push_back("Piercing Sound");
+    sign.push_back("Sutra");
+    adj.push_back("Mountain");
+    adj.push_back("Power");
+    adj.push_back("Long-Range");
+    adj.push_back("Amplify");
+    adj.push_back("Charged");
+    adj.push_back("Primal");
+    adj.push_back("Piercing");
+    adj.push_back("Infinite");
+    noun.push_back("Echo");
+    noun.push_back("Echo Scramble");
+    noun.push_back("Resonance");
+    noun.push_back("Cry");
+    noun.push_back("Yahoo!");
+    noun.push_back("Demonstration");
+    noun.push_back("Scream");
+    noun.push_back("Circle");
+    noun.push_back("Nianfo");
     //Touhou Fanon
+    noun2.push_back("the Yamabiko");
   }
   if(character=="Yoshika" || character=="DEFAULT"){
     //Touhou Canon
