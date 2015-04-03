@@ -1,5 +1,7 @@
 class Generator{
  private:
+  template<typename T>
+  T pick(std::vector<T> v);
  public:
   std::vector<std::string> sign;//includes the word "Sign" in it.
   std::vector<std::string> adj;
@@ -9,6 +11,10 @@ class Generator{
   Generator(std::string character);
   Generator(Generator& old);
   ~Generator();
-  void GenerateA1();
-  void GenerateA2();
+  std::string GenerateA1();
+  std::string GenerateA2();
+  std::string GenerateA3();
+  void PrintA1();
+  void PrintA2();
+  void PrintA3();
 };

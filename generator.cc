@@ -5,6 +5,7 @@
 #include <iostream>
 #include <list>
 #include <algorithm>
+#include <time.h>
 #include "generator_fxn.h"
 
 using std::list;
@@ -29,6 +30,7 @@ int main(){
   vector<string> names;
   /*Please push back in order of game # shown. See generator_fxn.cc for order*/
   names.push_back("Reimu");
+  names.push_back("Marisa");
   names.push_back("Rumia");
   names.push_back("Letty");
   names.push_back("Chen");
@@ -40,7 +42,7 @@ int main(){
 
   vector<string>::iterator it;
   it = find(names.begin(), names.end(), input);
-  if(it == names.end()){//not found
+  if (it == names.end()) { // not found
     cout << "Name not in list. Using Default" << endl;
     input = "DEFAULT";
   }
@@ -52,11 +54,13 @@ int main(){
   int num;
   cin >> num;
   for(int i = 0; i < num; i++){
-    if(rand()%4!=0){
-      gen.GenerateA1();
-    }else{
-      gen.GenerateA2();
-    }
+    switch (rand() & 15) {
+	  case 0: gen.PrintA3(); break;
+	  case 1:
+	  case 2:
+	  case 3: gen.PrintA2(); break;
+	  default: gen.PrintA1();
+	}
   }
   return 0;
 }

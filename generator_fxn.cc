@@ -5,6 +5,7 @@
 #include <iostream>
 #include <list>
 #include <algorithm>
+#include <set>
 #include "generator_fxn.h"
 
 using std::list;
@@ -13,6 +14,7 @@ using std::cout;
 using std::cin;
 using std::endl;
 using std::string;
+using std::set;
 
 /*Generates: "<sign>: <noun> of <noun2>" or "<sign> Sign: <adj> <noun>"
 */
@@ -79,10 +81,41 @@ Generator::Generator(string character){
     //Touhou Fanon 
 
   }
-  if(character=="Marisa" || character=="DEFAULT"){
-    //Touhou Canon
-
-    //Touhou Fanon
+  if (character == "Marisa" || character == "DEFAULT") {
+    // Touhou Canon
+    sign.push_back("Light Sign");
+    sign.push_back("Love Sign");
+    sign.push_back("Star Sign");
+    sign.push_back("Magicannon");
+    adj.push_back("Earth");
+    adj.push_back("Dark");
+    adj.push_back("Master");
+    adj.push_back("Blazing");
+    adj.push_back("Light");
+    adj.push_back("Non-Directional");
+    noun.push_back("Spark");
+    noun.push_back("Laser");
+    noun.push_back("Light");
+    noun.push_back("Ray");
+    noun.push_back("Flashlight");
+    noun.push_back("Horizon");
+    noun.push_back("Event Horizon");
+    // Touhou Fanon
+    sign.push_back("Light Dance");
+    sign.push_back("Reflection");
+    sign.push_back("Refraction");
+    adj.push_back("Bright");
+    adj.push_back("Reflective");
+    adj.push_back("Refractive");
+    adj.push_back("Astral");
+    noun.push_back("Beam");
+    noun.push_back("Meteor");
+    noun.push_back("Comet");
+    noun.push_back("Star");
+    noun.push_back("Asteroid");
+    noun.push_back("Horizon");
+    noun2.push_back("Earth");
+    noun2.push_back("Sky");
   }
   if(character=="Rumia" || character=="DEFAULT"){
     //Touhou Canon
@@ -696,13 +729,44 @@ Generator::~Generator(){
 
 }
 
-void Generator::GenerateA1(){
-  string toprint = sign.at(rand()%sign.size()) + ": " + adj.at(rand()%adj.size()) + " " + noun.at(rand()%noun.size());
-  cout << toprint << endl;
+template<typename T>
+T Generator::pick(vector<T> v) {
+  return v.at(rand() % v.size());
 }
 
-void Generator::GenerateA2(){
-  string toprint = sign.at(rand()%sign.size()) + ": "+ noun.at(rand()%noun.size()) + " of " + noun2.at(rand()%noun2.size());
-  cout << toprint << endl;
+string Generator::GenerateA1(){
+  return pick(sign) + ": " + pick(adj) + " " + pick(noun);
 }
 
+string Generator::GenerateA2(){
+  return pick(sign) + ": "+ pick(noun) + " of " + pick(noun2);
+}
+
+string Generator::GenerateA3() {
+  int roll = rand() & 15;
+  int adjCount =
+    roll < 8 ? 1 :
+    roll < 12 ? 2 :
+    roll < 14 ? 3 : 4;
+  string res = "";
+  set<string> adjs;
+  for (int i = 0; i < adjCount; ++i) {
+    adjs.insert(pick(adj));
+  }
+  for (string s : adjs) {
+    res = res + s + " ";
+  }
+  return pick(sign) + ": " + res + pick(noun);
+}
+
+void Generator::PrintA1() {
+  cout << GenerateA1() << endl;
+}
+
+void Generator::PrintA2() {
+  cout << GenerateA2() << endl;
+}
+
+void Generator::PrintA3() {
+  cout << GenerateA3() << endl;
+}

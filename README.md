@@ -18,6 +18,7 @@ Please note that the names you type in are the ones in quotes.
 ###TOUHOU###
 
 [01]Reimu Hakurei "Reimu"		<br>
+[02]Marisa Kirisame "Marisa"		<br>
 [06]Rumia "Rumia"			<br>
 [07]Letty Whiterock "Letty"		<br>
 [07]Chen "Chen"				<br>
