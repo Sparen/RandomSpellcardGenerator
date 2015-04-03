@@ -86,7 +86,17 @@ Generator::Generator(string character){
   }
   if(character=="Rumia" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Moon Sign");
+    sign.push_back("Night Sign");
+    sign.push_back("Darkness Sign");
+    adj.push_back("Moonlight");
+    adj.push_back("Night");
+    adj.push_back("Midnight");
+    noun.push_back("Ray");
+    noun.push_back("Bird");
+    noun.push_back("Demarcation");
+    noun.push_back("Dark Side");
+    noun2.push_back("the Moon");
     //Touhou Fanon
   }
   if(character=="Daiyousei" || character=="DEFAULT"){

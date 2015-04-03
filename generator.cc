@@ -29,6 +29,7 @@ int main(){
   vector<string> names;
   /*Please push back in order of game # shown. See generator_fxn.cc for order*/
   names.push_back("Reimu");
+  names.push_back("Rumia");
   names.push_back("Letty");
   names.push_back("Kisume");
   names.push_back("Kogasa");
