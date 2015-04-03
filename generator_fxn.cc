@@ -525,8 +525,32 @@ Generator::Generator(string character){
   }
   if(character=="Yuuka" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Flower Sign");
+    sign.push_back("Fantasy");
+    noun.push_back("Reflowering");
+    noun.push_back("Spark");
+    noun.push_back("Beauty");
+    noun2.push_back("Gensokyo");
+    noun2.push_back("Nature");
     //Touhou Fanon
+    sign.push_back("Nature Sign");
+    sign.push_back("Magic Growth");//Darkness1 Yuuka
+    sign.push_back("Reawakening");//Darkness1 Yuuka
+    sign.push_back("Phantasm");
+    sign.push_back("Ultimate Magic");//Darkness1 Yuuka
+    adj.push_back("Dual");
+    adj.push_back("Netherworld");//Darkness1 Yuuka
+    adj.push_back("Infinite");
+    adj.push_back("Grasping");//Darkness1 Yuuka
+    adj.push_back("Energy");
+    adj.push_back("Floral");
+    noun.push_back("Blossom");
+    noun.push_back("Blooming");
+    noun.push_back("Thicket");//Darkness1 Yuuka
+    noun.push_back("Devourer");
+    noun.push_back("Illusion");//Darkness1 Yuuka
+    noun.push_back("Petals");
+    noun2.push_back("the Ageless FLower");//Darkness1 Yuuka
   }
   if(character=="Komachi" || character=="DEFAULT"){
     //Touhou Canon
