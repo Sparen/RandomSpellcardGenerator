@@ -1,4 +1,7 @@
-
+/**Configuration Flags**/
+/*
+ * Insert Information here on what the flags are
+ */
 
 typedef int Config;
 

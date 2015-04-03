@@ -11,6 +11,11 @@ To run:
 
 ./generator
 
+Options:
+-q (--quiet): will not spit out all of the extra text
+-v (--verbose): default, tells user how to use program
+-h (--help): displays acceptable flags
+
 ## Supported Characters ##
 
 Please note that the names you type in are the ones in quotes.<br>
@@ -62,4 +67,5 @@ N/A
 
 ###CHOUYOU (FLUFFY8X)###
 
-[05] Elssecisso Rencron "Rencron" / Akiyari Reiri "Reiri"
+[05] Elssecisso Rencron "Rencron"			<br>
+[05] Akiyari Reiri "Reiri"				<br>

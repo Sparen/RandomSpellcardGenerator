@@ -24,6 +24,7 @@ using std::find;
  ****************************************************/
 
 int main(int argc, char** argv) {
+  /***START OF FLAGS. Code by Fluffy8x***/
   Config c = ~(1 << F_EIRIN);
   for (int i = 1; i < argc; ++i) {
     char* arg = argv[i];
@@ -35,7 +36,7 @@ int main(int argc, char** argv) {
           else if (!strcmp(option, "verbose")) SET(c, F_VERBOSE);
           else if (!strcmp(option, "help")) SET(c, F_EIRIN);
           else {
-            cerr << "Unknown option " << option << "\n";
+            cerr << "Unknown option " << option << endl;
             exit(EXIT_FAILURE);
           }
           break;
@@ -44,22 +45,23 @@ int main(int argc, char** argv) {
         case 'v': SET(c, F_VERBOSE); break;
         case 'h': SET(c, F_EIRIN); break;
         default: {
-          cerr << "Unknown option " << arg[1] << "\n";
+          cerr << "Unknown option " << arg[1] << endl;
           exit(EXIT_FAILURE);
         }
       }
     }
   }
   if (HAS(c, F_EIRIN)) {
-    cout << "\n\
-RANDOM SPELLCARD NAME GENERATOR BY SPAREN\n\
-  Options:\n\
+    cout << endl << "RANDOM SPELLCARD NAME GENERATOR BY SPAREN" << endl;
+    cout << "Options:\n\
     -h (--help): displays this message\n\
     -q (--quiet): only output the resultant spell names\n\
-    -v (--verbose): outputs guide text (default)" << "\n";
+    -v (--verbose): outputs guide text (default)" << endl;
     return 0;
   }
   bool verbose = HAS(c, F_VERBOSE);
+  /***END OF FLAGS***/
+
   srand(time(NULL));
   //Obtain input from user on character
   if (verbose) cout << "Please type the name of the character whose cards you want to generate.\nExample: Reimu, Udonge, Rumia, Tewi, Shinmyoumaru, Minamitsu\n";
