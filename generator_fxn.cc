@@ -20,6 +20,7 @@ using std::string;
 Generator::Generator(string character){
   //if character is DEFAULT, will use all available signs, adjectives, and nouns 
   //There MUST be at least one of each category (sign, adj, noun, noun2)
+  //Any non-canon words go under fanon. 
   /*****************************OFFICIAL ONLY*****************************/
   if(character=="Reimu" || character=="DEFAULT"){
     //Touhou Canon
@@ -126,8 +127,22 @@ Generator::Generator(string character){
   }
   if(character=="Letty" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Cold Sign");
+    sign.push_back("Winter Sign");
+    sign.push_back("White Sign");
+    sign.push_back("Mystic Sign");
+    adj.push_back("Lingering");
+    adj.push_back("Flower");
+    adj.push_back("Undulation");
+    adj.push_back("Cold");
+    adj.push_back("Northern");
+    noun.push_back("Cold");
+    noun.push_back("Wither Away");
+    noun.push_back("Ray");
+    noun.push_back("Snap");
+    noun.push_back("Winter");
     //Touhou Fanon
+    noun2.push_back("Frost");
   }
   if(character=="Chen" || character=="DEFAULT"){
     //Touhou Canon
@@ -384,9 +399,9 @@ Generator::Generator(string character){
     noun.push_back("Traveler");
     noun.push_back("Cyclone");
     noun.push_back("Flash");
+    //Touhou Fanon
     noun2.push_back("Light");
     noun2.push_back("Rain");
-    //Touhou Fanon
   }
   if(character=="Ichirin" || character=="DEFAULT"){
     //Touhou Canon
