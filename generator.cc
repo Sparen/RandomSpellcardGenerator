@@ -27,7 +27,9 @@ int main(){
   cin >> input;
 
   vector<string> names;
+  /*Please push back in order of game # shown. See generator_fxn.cc for order*/
   names.push_back("Reimu");
+  names.push_back("Kogasa");
 
   vector<string>::iterator it;
   it = find(names.begin(), names.end(), input);

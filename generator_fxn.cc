@@ -341,7 +341,42 @@ Generator::Generator(string character){
   }
   if(character=="Kogasa" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Large Ring");
+    sign.push_back("Umbrella Sign");
+    sign.push_back("Rain Sign");
+    sign.push_back("Umbrella");
+    sign.push_back("Monster Sign");
+    sign.push_back("Monster Train");
+    sign.push_back("Surprising Rain");
+    sign.push_back("Halo");
+    sign.push_back("Rainbow Sign");
+    adj.push_back("Umbrella");
+    adj.push_back("Hello Forgotten");
+    adj.push_back("Parasol Star");
+    adj.push_back("A Rainy Night's");
+    adj.push_back("Super Water-Repelling Bone-Dry");
+    adj.push_back("A Forgotten Umbrella's");
+    adj.push_back("Spare Umbrella Express");
+    adj.push_back("Lightly Falling Large");
+    adj.push_back("Guerilla");
+    adj.push_back("Karakasa Surprising");
+    adj.push_back("Flurry");
+    adj.push_back("One-Legged");
+    noun.push_back("World");
+    noun.push_back("Halo");
+    noun.push_back("Ghost Story");
+    noun.push_back("Memories");
+    noun.push_back("Symphony");
+    noun.push_back("Night Train");
+    noun.push_back("Night Carnival");
+    noun.push_back("Typhoon");
+    noun.push_back("Raindrops");
+    noun.push_back("Rainbow");
+    noun.push_back("Traveler");
+    noun.push_back("Cyclone");
+    noun.push_back("Flash");
+    noun2.push_back("Light");
+    noun2.push_back("Rain");
     //Touhou Fanon
   }
   if(character=="Ichirin" || character=="DEFAULT"){
