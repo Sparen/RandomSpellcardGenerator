@@ -169,18 +169,60 @@ Generator::Generator(string character){
   }
   if(character=="Merlin" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Trumpet Spirit");
+    sign.push_back("Nether Trumpet");
+    sign.push_back("Noise Sign");
+    adj.push_back("Hino");
+    adj.push_back("Ghost");
+    adj.push_back("Merlin Happy");
+    noun.push_back("Phantasm");
+    noun.push_back("Clifford");
     //Touhou Fanon
   }
   if(character=="Lyrica" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Nether Keys");
+    sign.push_back("Key Spirit");
+    sign.push_back("Noise Sign");
+    adj.push_back("Fazioli");
+    adj.push_back("Bosendorfer");
+    adj.push_back("Soul Noise");
+    noun.push_back("Nether Performance");
+    noun.push_back("Divine Performance");
+    noun.push_back("Flow");
     //Touhou Fanon
   }
   if(character=="Lunasa" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("String Performance");
+    sign.push_back("Divine Strings");
+    sign.push_back("Fake Strings");
+    sign.push_back("Noise Sign");
+    adj.push_back("Pseudo");
+    adj.push_back("Noise");
+    noun.push_back("Stradivarius");
+    noun.push_back("Melancholy");
     //Touhou Fanon
+  }
+  if(character=="Merlin" || character=="Lyrica" || character=="Lunasa" || character=="DEFAULT"){
+    //Touhou Canon
+    sign.push_back("Noise Sign");
+    sign.push_back("Funeral Concert");
+    sign.push_back("Noisy Funeral");
+    sign.push_back("Great Funeral Concert");
+    adj.push_back("Phantom");
+    adj.push_back("Live");
+    adj.push_back("Prism");
+    adj.push_back("Stygian");
+    adj.push_back("Ghostly Wheel");
+    noun.push_back("Dinning");
+    noun.push_back("Poltergeist");
+    noun.push_back("Concerto");
+    noun.push_back("Riverside");
+    noun.push_back("Concerto Grosso");
+    //Touhou Fanon
+    noun2.push_back("Melody");
+    noun2.push_back("Harmony");
   }
   if(character=="Youmu" || character=="DEFAULT"){
     //Touhou Canon
