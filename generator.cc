@@ -40,6 +40,7 @@ int main(){
   names.push_back("Wriggle");
   names.push_back("Mystia");
   names.push_back("Tewi");
+  names.push_back("Medicine");
   names.push_back("Shizuha");
   names.push_back("Minoriko");
   names.push_back("Momiji");

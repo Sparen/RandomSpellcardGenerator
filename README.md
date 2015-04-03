@@ -29,6 +29,7 @@ Please note that the names you type in are the ones in quotes.
 [08] Wriggle Nightbug "Wriggle"		<br>
 [08] Mystia Lorelei "Mystia"		<br>
 [08] Tewi Inaba "Tewi"			<br>
+[09] Medicine Melancholy "Medicine"	<br>
 [10] Shizuha Aki "Shizuha"		<br>
 [10] Minoriko Aki "Minoriko"		<br>
 [10] Momiji Inubashiri "Momiji"		<br>
@@ -41,11 +42,11 @@ Please note that the names you type in are the ones in quotes.
 
 N/A
 
-###LEN'EN###
+###LEN'EN (JYNX)###
 
 N/A
 
-###SEITENTOUJI###
+###SEITENTOUJI (SPAREN)###
 
 N/A
 

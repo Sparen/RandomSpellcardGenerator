@@ -507,8 +507,21 @@ Generator::Generator(string character){
   }
   if(character=="Medicine" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Poison Sign");
+    sign.push_back("Fog Sign");
+    sign.push_back("Delusion");
+    adj.push_back("Nerve");
+    adj.push_back("Melancholy");
+    adj.push_back("Gassing");
+    adj.push_back("Poison");
+    noun.push_back("Poison");
+    noun.push_back("Garden");
+    noun.push_back("Breath");
+    noun.push_back("Delirium");
     //Touhou Fanon
+    adj.push_back("Toxic");
+    noun.push_back("Neurotoxin");
+    noun2.push_back("Toxicity");
   }
   if(character=="Yuuka" || character=="DEFAULT"){
     //Touhou Canon
