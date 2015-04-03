@@ -467,7 +467,17 @@ Generator::Generator(string character){
   }
   if(character=="Tewi" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Rabbit Sign");
+    sign.push_back("Owing Sign");
+    sign.push_back("Runaway Rabbit");
+    adj.push_back("Great Fortune");
+    adj.push_back("Fluster");
+    noun.push_back("Crest");
+    noun.push_back("Escape");
+    noun.push_back("Bare White Rabbit");
+    noun.push_back("Vulnerary");
+    noun2.push_back("Inaba");
+    noun2.push_back("Ohnamuji-sama");
     //Touhou Fanon
   }
   if(character=="Udonge" || character=="DEFAULT"){
