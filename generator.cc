@@ -42,6 +42,7 @@ int main(){
   names.push_back("Kisume");
   names.push_back("Kogasa");
   names.push_back("Wakasagihime");
+  names.push_back("Sekibanki");
 
   vector<string>::iterator it;
   it = find(names.begin(), names.end(), input);

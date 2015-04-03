@@ -773,8 +773,27 @@ Generator::Generator(string character){
   }
   if(character=="Sekibanki" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Flight Sign");
+    sign.push_back("Neck Sign");
+    sign.push_back("Flying Head");
+    sign.push_back("Glinting Eyes");
+    sign.push_back("Flying Neck");
+    adj.push_back("Flying");
+    adj.push_back("Close-Eye");
+    adj.push_back("Rokurokubi");
+    adj.push_back("Multiplicative");
+    adj.push_back("Dullahan");
+    adj.push_back("Extreme");
+    adj.push_back("Hell's");
+    adj.push_back("Twin Rokuro");
+    noun.push_back("Head");
+    noun.push_back("Shot");
+    noun.push_back("Flight");
+    noun.push_back("Night");
+    noun.push_back("Long Neck");
+    noun.push_back("Ray");
     //Touhou Fanon
+    noun2.push_back("the Dullahan");
   }
   if(character=="Kagerou" || character=="DEFAULT"){
     //Touhou Canon
