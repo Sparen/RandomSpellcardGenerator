@@ -267,7 +267,40 @@ Generator::Generator(string character){
   }
   if(character=="Ran" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Shikigami");
+    sign.push_back("Shikigami's Radiance");
+    sign.push_back("Shikigami's Shot");
+    sign.push_back("Illusion God");
+    sign.push_back("Secret Sign");
+    sign.push_back("Austerity Sign");
+    sign.push_back("Superman");
+    adj.push_back("Hermit Fox");
+    adj.push_back("Fox-Tanuki Youkai");
+    adj.push_back("Charming");
+    adj.push_back("Princess");
+    adj.push_back("Ultimate");
+    adj.push_back("Unilateral");
+    adj.push_back("Kokkuri-san's");
+    adj.push_back("Heavenly");
+    adj.push_back("O-Daishi-sama's");
+    adj.push_back("Eighty Million");
+    adj.push_back("Soaring");
+    noun.push_back("Thoughts");
+    noun.push_back("Banquet");
+    noun.push_back("Laser");
+    noun.push_back("Seige");
+    noun.push_back("Tenko");
+    noun.push_back("Buddhist");
+    noun.push_back("Contact");
+    noun.push_back("Descent");
+    noun.push_back("Protection");
+    noun.push_back("Possession");
+    noun.push_back("Arcanum");
+    noun.push_back("Holy Boards");
+    noun.push_back("En no Ozuno");
+    noun2.push_back("Twelve General Gods");
+    noun2.push_back("Izuna Gongen");
+    noun2.push_back("Zenki and Goki");
     //Touhou Fanon
   }
   if(character=="Yukari" || character=="DEFAULT"){

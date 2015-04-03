@@ -24,6 +24,7 @@ Please note that the names you type in are the ones in quotes.
 -Lyrica Prismriver "Lyrica"	<br>
 -Lunasa Prismriver "Lunasa"	<br>
 -Merlin Prismriver "Merlin"	<br>
+-Ran Yakumo "Ran"		<br>
 -Kisume "Kisume"		<br>
 -Kogasa Tatara "Kogasa"		<br>
 -Wakasagihime "Wakasagihime"	<br>
