@@ -27,6 +27,7 @@ Please note that the names you type in are the ones in quotes.
 [07]Merlin Prismriver "Merlin"		<br>
 [07]Ran Yakumo "Ran"			<br>
 [08]Wriggle Nightbug "Wriggle"		<br>
+[08]Mystia Lorelei "Mystia"		<br>
 [11]Kisume "Kisume"			<br>
 [12]Kogasa Tatara "Kogasa"		<br>
 [14]Wakasagihime "Wakasagihime"		<br>

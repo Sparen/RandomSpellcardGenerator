@@ -431,7 +431,33 @@ Generator::Generator(string character){
   }
   if(character=="Mystia" || character=="DEFAULT"){
     //Touhou Canon
-
+    sign.push_back("Vocal Sign");
+    sign.push_back("Moth Sign");
+    sign.push_back("Toxin Sign");
+    sign.push_back("Deadly Toxin");
+    sign.push_back("Hawk Sign");
+    sign.push_back("Night-Blindness");
+    sign.push_back("Night Sparrow");
+    sign.push_back("Bird Sign");
+    adj.push_back("Sphingid's");
+    adj.push_back("Poisonous Moth's");
+    adj.push_back("Ill-Starred");
+    adj.push_back("Midnight");
+    adj.push_back("Blind");
+    adj.push_back("Human");
+    adj.push_back("Mysterious");
+    noun.push_back("Hooting");
+    noun.push_back("Howl");
+    noun.push_back("Wingbeats");
+    noun.push_back("Scales");
+    noun.push_back("Dance in the Dark");
+    noun.push_back("Drive");
+    noun.push_back("Song");
+    noun.push_back("Chorus Master");
+    noun.push_back("Nightbird");
+    noun.push_back("Cage");
+    noun2.push_back("the Horned Owl");
+    noun2.push_back("the Night Sparrow");
     //Touhou Fanon
   }
   if(character=="Keine" || character=="DEFAULT"){

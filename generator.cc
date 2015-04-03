@@ -37,6 +37,7 @@ int main(){
   names.push_back("Lyrica"); names.push_back("Lunasa"); names.push_back("Merlin");
   names.push_back("Ran");
   names.push_back("Wriggle");
+  names.push_back("Mystia");
   names.push_back("Kisume");
   names.push_back("Kogasa");
   names.push_back("Wakasagihime");
