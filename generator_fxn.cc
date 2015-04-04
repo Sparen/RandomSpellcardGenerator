@@ -950,8 +950,6 @@ Generator::Generator(set<string> characters){
     }
     if (character=="Star"){
       //Touhou Canon
-
-      //Touhou Fanon
     }
     if (character=="Kyouko"){
       //Touhou Canon
@@ -998,6 +996,10 @@ Generator::Generator(set<string> characters){
       noun.push_back("Murderer");
       noun.push_back("Claw");
       //Touhou Fanon
+      sign.push_back("Consumption");//PhantomSong Seiga
+      adj.push_back("Spirit");
+      noun.push_back("Miasma");//PhantomSong Seiga
+      noun.push_back("Feast");//PhantomSong Seiga
       noun2.push_back("the Jiangshi");
     }
     if (character=="Seiga"){
@@ -1026,6 +1028,11 @@ Generator::Generator(set<string> characters){
       noun.push_back("Runner");
       noun.push_back("Wormhole");
       //Touhou Fanon
+      sign.push_back("Corruption");//PhantomSong Seiga
+      sign.push_back("Hermit Sign");
+      adj.push_back("Wicked");//PhantomSong Seiga
+      adj.push_back("Divine");//PhantomSong Seiga
+      noun.push_back("Spirit");//PhantomSong Seiga
       noun2.push_back("the Evil Hermit");
     }
     if (character=="Tojiko"){

@@ -11,9 +11,9 @@ To run:
 
 ./generator
 
-Options:
--q (--quiet): will not spit out all of the extra text
--v (--verbose): default, tells user how to use program
+Options:<br>
+-q (--quiet): will not spit out all of the extra text<br>
+-v (--verbose): default, tells user how to use program<br>
 -h (--help): displays acceptable flags
 
 ## Supported Characters ##
@@ -25,39 +25,39 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 
 ###TOUHOU###
 
-[01] Reimu Hakurei "Reimu"				<br>
-[02] Marisa Kirisame "Marisa"				<br>
-[06] Rumia "Rumia"					<br>
-[07] Letty Whiterock "Letty"				<br>
-[07] Chen "Chen"					<br>
-[07] Lyrica Prismriver "Lyrica"				<br>
-[07] Lunasa Prismriver "Lunasa"				<br>
-[07] Merlin Prismriver "Merlin"				<br>
-[07] Ran Yakumo "Ran"					<br>
-[08] Wriggle Nightbug "Wriggle"				<br>
-[08] Mystia Lorelei "Mystia"				<br>
-[08] Tewi Inaba "Tewi"					<br>
-[09] Medicine Melancholy "Medicine"			<br>
-[09] Yuuka Kazami "Yuuka" [+Darkness1]			<br>
-[09] Eiki Shiki Yamaxanadu "Shikieiki" 			<br>
-[10] Shizuha Aki "Shizuha"				<br>
-[10] Minoriko Aki "Minoriko"				<br>
-[10] Momiji Inubashiri "Momiji"				<br>
-[11] Kisume "Kisume"					<br>
-[11] Yamame Kurodani "Yamame"				<br>
-[11] Parsee Mizuhashi "Parsee"				<br>
-[11] Yuugi Hoshiguma "Yuugi"				<br>
-[11] Satori Komeiji "Satori"				<br>
-[12] Nazrin "Nazrin"					<br>
-[12] Kogasa Tatara "Kogasa"				<br>
-[12] Minamitsu Murasa "Minamitsu"			<br>
-[12] Shou Toramaru "Shou"				<br>
-[12.5] Hatate Himekaidou "Hatate"			<br>
-[13] Kyouko Kasodani "Kyouko"				<br>
-[13] Yoshika Miyako "Yoshika"				<br>
-[13] Seiga Kaku "Seiga"					<br>
-[14] Wakasagihime "Wakasagihime"			<br>
-[14] Sekibanki "Sekibanki"				<br>
+[01] Reimu Hakurei "Reimu"						<br>
+[02] Marisa Kirisame "Marisa"						<br>
+[06] Rumia "Rumia"							<br>
+[07] Letty Whiterock "Letty"						<br>
+[07] Chen "Chen"							<br>
+[07] Lyrica Prismriver "Lyrica"						<br>
+[07] Lunasa Prismriver "Lunasa"						<br>
+[07] Merlin Prismriver "Merlin"						<br>
+[07] Ran Yakumo "Ran"							<br>
+[08] Wriggle Nightbug "Wriggle"						<br>
+[08] Mystia Lorelei "Mystia"						<br>
+[08] Tewi Inaba "Tewi"							<br>
+[09] Medicine Melancholy "Medicine"					<br>
+[09] Yuuka Kazami "Yuuka" [+Darkness1]					<br>
+[09] Eiki Shiki Yamaxanadu "Shikieiki" 					<br>
+[10] Shizuha Aki "Shizuha"						<br>
+[10] Minoriko Aki "Minoriko"						<br>
+[10] Momiji Inubashiri "Momiji"						<br>
+[11] Kisume "Kisume"							<br>
+[11] Yamame Kurodani "Yamame"						<br>
+[11] Parsee Mizuhashi "Parsee"						<br>
+[11] Yuugi Hoshiguma "Yuugi"						<br>
+[11] Satori Komeiji "Satori"						<br>
+[12] Nazrin "Nazrin"							<br>
+[12] Kogasa Tatara "Kogasa"						<br>
+[12] Minamitsu Murasa "Minamitsu"					<br>
+[12] Shou Toramaru "Shou"						<br>
+[12.5] Hatate Himekaidou "Hatate"					<br>
+[13] Kyouko Kasodani "Kyouko"						<br>
+[13] Yoshika Miyako "Yoshika" [+PhantomSong]				<br>
+[13] Seiga Kaku "Seiga" [+PhantomSong]					<br>
+[14] Wakasagihime "Wakasagihime"					<br>
+[14] Sekibanki "Sekibanki"						<br>
 
 ###IDO###
 
