@@ -12,8 +12,8 @@ To run:
 ./generator
 
 Options:
--q (--quiet): will not spit out all of the extra text
--v (--verbose): default, tells user how to use program
+-q (--quiet): will not spit out all of the extra text<br>
+-v (--verbose): default, tells user how to use program<br>
 -h (--help): displays acceptable flags
 
 ## Supported Characters ##
