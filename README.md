@@ -16,11 +16,11 @@ or
 <code>./generator [-Options] </code>
 
 Options:<br>
--q (--quiet): will not spit out all of the extra text<br>
--v (--verbose): default, tells user how to use program<br>
--h (--help): displays acceptable flags<br>
--s (--strict): will not allow default generation<br>
--l (--list-names): list all possible names
+<code>-q (--quiet)</code>: will not spit out all of the extra text<br>
+<code>-v (--verbose)</code>: default, tells user how to use program<br>
+<code>-h (--help)</code>: displays acceptable flags<br>
+<code>-s (--strict)</code>: will not allow default generation<br>
+<code>-l (--list-names)</code>: list all possible names
 
 ## Supported Characters ##
 
