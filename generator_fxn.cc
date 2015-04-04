@@ -777,8 +777,30 @@ Generator::Generator(string character){
   }
   if(character=="Nazrin" || isDef){
     //Touhou Canon
-
+    sign.push_back("Rod Sign");
+    sign.push_back("Search Sign");
+    sign.push_back("Vision Sign");
+    sign.push_back("Defense Sign");
+    sign.push_back("Jeweled Pagoda");
+    sign.push_back("Treasure");
+    adj.push_back("Busy");
+    adj.push_back("Rare Metal");
+    adj.push_back("Gold");
+    adj.push_back("High Sensitivity");
+    adj.push_back("Nazrin");
+    adj.push_back("Pendulum");
+    adj.push_back("Greatest");
+    noun.push_back("Rod");
+    noun.push_back("Detector");
+    noun.push_back("Pendulum");
+    noun.push_back("Guard");
+    noun.push_back("Treasure");
+    noun.push_back("Rush");
     //Touhou Fanon
+    sign.push_back("Dowsing");
+    sign.push_back("Treasure Sign");
+    noun2.push_back("the Treasure Hunter");
+    noun2.push_back("the Dowser");
   }
   if(character=="Kogasa" || isDef){
     //Touhou Canon
@@ -832,7 +854,33 @@ Generator::Generator(string character){
   }
   if(character=="Shou" || isDef){
     //Touhou Canon
-
+    sign.push_back("Jeweled Pagoda");
+    sign.push_back("Light Sign");
+    sign.push_back("Buddhist Art");
+    sign.push_back("Buddha's Light");
+    sign.push_back("Tiger Sign");
+    sign.push_back("Heaven Sign");
+    sign.push_back("Treasure Sign");
+    adj.push_back("Radiant");
+    adj.push_back("Absolute");
+    adj.push_back("Most Valuable");
+    adj.push_back("Complete");
+    adj.push_back("Hungry");
+    adj.push_back("Scorched Earth");
+    adj.push_back("Dazzling");
+    noun.push_back("Treasure");
+    noun.push_back("Treasure Gun");
+    noun.push_back("Justice");
+    noun.push_back("Aura");
+    noun.push_back("Vajra");
+    noun.push_back("Demon");
+    noun.push_back("Clarification");
+    noun.push_back("Tiger");
+    noun.push_back("Mandala");
+    noun.push_back("Gold");
+    noun2.push_back("Perfect Buddhism");
+    noun2.push_back("Justice");
+    noun2.push_back("Purification");
     //Touhou Fanon
   }
   if(character=="Byakuren" || isDef){
