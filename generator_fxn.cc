@@ -225,7 +225,22 @@ Generator::Generator(set<string> characters){
     }
     if (character=="Flandre"){
       //Touhou Canon
-
+      sign.push_back("Taboo");
+      sign.push_back("Forbidden Barrage");
+      sign.push_back("Secret Barrage");
+      sign.push_back("Q.E.D.");
+      adj.push_back("Cranberry");
+      adj.push_back("Starbow");
+      adj.push_back("Forbidden");
+      noun.push_back("Trap");
+      noun.push_back("Maze");
+      noun.push_back("Catadioptric");
+      noun.push_back("Clock");
+      noun.push_back("Ripples");
+      noun.push_back("Fruit");
+      noun.push_back("Games");
+      noun2.push_back("Love");
+      noun2.push_back("495 Years");
       //Touhou Fanon
     }
     if (character=="Letty"){

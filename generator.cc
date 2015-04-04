@@ -67,6 +67,7 @@ int main(int argc, char** argv) {
   names.insert("Reimu");
   names.insert("Marisa");
   names.insert("Rumia");
+  names.insert("Flandre");
   names.insert("Letty");
   names.insert("Chen");
   names.insert("Lyrica"); names.insert("Lunasa"); names.insert("Merlin");
