@@ -63,7 +63,8 @@ int main(int argc, char** argv) {
     cout << "Options:\n\
     -h (--help): displays this message\n\
     -q (--quiet): only output the resultant spell names\n\
-    -v (--verbose): outputs guide text (default)" << endl;
+    -v (--verbose): outputs guide text (default)\n\
+    -s (--strict): does not allow default option" << endl;
     return 0;
   }
   bool verbose = HAS(c, F_VERBOSE);
@@ -72,7 +73,10 @@ int main(int argc, char** argv) {
 
   srand(time(NULL));
   //Obtain input from user on character
-  if (verbose) cout << "Please type the name of the character whose cards you want to generate.\nExample: Reimu, Udonge, Rumia, Tewi, Shinmyoumaru, Minamitsu\n";
+  if (verbose) cout << "Please type the name of the character whose cards you want to generate." << endl;
+  if (verbose) cout << "Example: Reimu, Udonge, Rumia, Tewi, Shinmyoumaru, Minamitsu" << endl;
+  if (verbose) cout << "You can type multiple names to mix and match signs and phrases between multiple characters." << endl;
+  if (verbose) cout << "If you decide to use this option, please use the option -s, as if a name is not found, default will be added." << endl;
   string input;
   getline(cin, input);
 
@@ -146,7 +150,7 @@ int main(int argc, char** argv) {
   int num;
   cin >> num;
   for(int i = 0; i < num; i++){
-    switch (rand() & 15) {//rand % 16 - 1/16 A3, 3/16 A2, 1/16 A4, 11/16 A1
+    switch (rand() & 17) {//rand % 18 - 1/18 A3, 3/18 A2, 1/18 A4, 13/18 A1
     case 0: gen.PrintA3(); break;
     case 1:
     case 2:
