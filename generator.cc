@@ -30,7 +30,7 @@ using std::getline;
 
 int main(int argc, char** argv) {
   /***START OF FLAGS. Code by Fluffy8x***/
-  Config c = ~(1 << F_HELP);
+  Config c = ~(1 << F_HELP | 1 << F_LIST_NAMES);
   for (int i = 1; i < argc; ++i) {
     char* arg = argv[i];
     if (arg[0] == '-') {
@@ -41,6 +41,7 @@ int main(int argc, char** argv) {
           else if (!strcmp(option, "verbose")) SET(c, F_VERBOSE);
           else if (!strcmp(option, "help")) SET(c, F_HELP);
           else if (!strcmp(option, "strict")) RESET(c, F_INVALID_AS_DEFAULT);
+          else if (!strcmp(option, "list-names")) SET(c, F_LIST_NAMES);
           else {
             cerr << "Unknown option " << option << endl;
             exit(EXIT_FAILURE);
@@ -51,6 +52,7 @@ int main(int argc, char** argv) {
         case 'v': SET(c, F_VERBOSE); break;
         case 'h': SET(c, F_HELP); break;
         case 's': RESET(c, F_INVALID_AS_DEFAULT); break;
+        case 'l': SET(c, F_LIST_NAMES); break;
         default: {
           cerr << "Unknown option " << arg[1] << endl;
           exit(EXIT_FAILURE);
@@ -58,28 +60,7 @@ int main(int argc, char** argv) {
       }
     }
   }
-  if (HAS(c, F_HELP)) {
-    cout << endl << "RANDOM SPELLCARD NAME GENERATOR BY SPAREN" << endl;
-    cout << "Options:\n\
-    -h (--help): displays this message\n\
-    -q (--quiet): only output the resultant spell names\n\
-    -v (--verbose): outputs guide text (default)\n\
-    -s (--strict): does not allow default option" << endl;
-    return 0;
-  }
-  bool verbose = HAS(c, F_VERBOSE);
-  bool strict = !HAS(c, F_INVALID_AS_DEFAULT);
-  /***END OF FLAGS***/
-
-  srand(time(NULL));
-  //Obtain input from user on character
-  if (verbose) cout << "Please type the name of the character whose cards you want to generate." << endl;
-  if (verbose) cout << "Example: Reimu, Udonge, Rumia, Tewi, Shinmyoumaru, Minamitsu" << endl;
-  if (verbose) cout << "You can type multiple names to mix and match signs and phrases between multiple characters." << endl;
-  if (verbose) cout << "If you decide to use this option, please use the option -s, as if a name is not found, default will be added." << endl;
-  string input;
-  getline(cin, input);
-
+  // Moved the name declaration here so we can list all the names if the user prompts to do so.
   set<string> names;
   /*Please push back in order of game # shown. See generator_fxn.cc for order*/
   /*****************************OFFICIAL ONLY*****************************/
@@ -128,6 +109,35 @@ int main(int argc, char** argv) {
   names.insert("Rygen");
   names.insert("Nikou");
   
+  
+  if (HAS(c, F_HELP)) {
+    cout << endl << "RANDOM SPELLCARD NAME GENERATOR BY SPAREN" << endl;
+    cout << "Options:\n\
+    -h (--help): displays this message\n\
+    -q (--quiet): only output the resultant spell names\n\
+    -v (--verbose): outputs guide text (default)\n\
+    -s (--strict): does not allow default option\n\
+    -l (--list-names): list all included names and exit" << endl;
+    return 0;
+  } else if (HAS(c, F_LIST_NAMES)) {
+    for (string s : names) {
+      cout << endl << s;
+    }
+    cout << endl;
+    return 0;
+  }
+  bool verbose = HAS(c, F_VERBOSE);
+  bool strict = !HAS(c, F_INVALID_AS_DEFAULT);
+  /***END OF FLAGS***/
+
+  srand(time(NULL));
+  //Obtain input from user on character
+  if (verbose) cout << "Please type the name of the character whose cards you want to generate." << endl;
+  if (verbose) cout << "Example: Reimu, Udonge, Rumia, Tewi, Shinmyoumaru, Minamitsu" << endl;
+  if (verbose) cout << "You can type multiple names to mix and match signs and phrases between multiple characters." << endl;
+  if (verbose) cout << "If you decide to use this option, please use the option -s, as if a name is not found, default will be added." << endl;
+  string input;
+  getline(cin, input);
   set<string> includedNames;
   includedNames = split(input);
   for (string n : includedNames) {
