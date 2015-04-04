@@ -673,12 +673,49 @@ Generator::Generator(string character){
   }
   if(character=="Yamame" || isDef){
     //Touhou Canon
-
+    sign.push_back("Trap Sign");
+    sign.push_back("Spider");
+    sign.push_back("Miasma Sign");
+    sign.push_back("Miasma");
+    sign.push_back("Small Thread");
+    sign.push_back("Poison Sign");
+    adj.push_back("Capture");
+    adj.push_back("Cave Spider's");
+    adj.push_back("Filled");
+    adj.push_back("Unexplained");
+    adj.push_back("Kandata's");
+    adj.push_back("Japanese Foliage");
+    noun.push_back("Web");
+    noun.push_back("Nest");
+    noun.push_back("Miasma");
+    noun.push_back("Fever");
+    noun.push_back("Rope");
+    noun.push_back("Spider");
     //Touhou Fanon
+    noun2.push_back("the Earth Spider");
   }
   if(character=="Parsee" || isDef){
     //Touhou Canon
-
+    sign.push_back("Jealousy Sign");
+    sign.push_back("Malice Sign");
+    sign.push_back("Jealousy");
+    sign.push_back("Resentment Art");
+    sign.push_back("Envy");
+    sign.push_back("Grandpa Hanasaka");
+    sign.push_back("Tongue-Cut Sparrow");
+    adj.push_back("Green-Eyed");
+    adj.push_back("Invisible");
+    adj.push_back("Shiro's");
+    adj.push_back("Jealousy");
+    adj.push_back("Grudge");
+    noun.push_back("Monster");
+    noun.push_back("Jealousy");
+    noun.push_back("Ashes");
+    noun.push_back("Bomber");
+    noun.push_back("Returning");
+    noun.push_back("Hate");
+    noun2.push_back("the Kind and Lovely");
+    noun2.push_back("the Humble and Rich");
     //Touhou Fanon
   }
   if(character=="Yuugi" || isDef){

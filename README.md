@@ -44,6 +44,8 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [10] Minoriko Aki "Minoriko"				<br>
 [10] Momiji Inubashiri "Momiji"				<br>
 [11] Kisume "Kisume"					<br>
+[11] Yamame Kurodani "Yamame"				<br>
+[11] Parsee Mizuhashi "Parsee"				<br>
 [12] Kogasa Tatara "Kogasa"				<br>
 [13] Kyouko Kasodani "Kyouko"				<br>
 [14] Wakasagihime "Wakasagihime"			<br>
