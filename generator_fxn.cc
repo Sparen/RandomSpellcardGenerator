@@ -745,8 +745,20 @@ Generator::Generator(string character){
   }
   if(character=="Satori" || isDef){
     //Touhou Canon
-
+    sign.push_back("Recollection");
+    sign.push_back("Vague Recollection");
+    sign.push_back("Brain Sign");
+    sign.push_back("Heart Flower");
+    adj.push_back("Terrible");
+    adj.push_back("Terrifying");
+    adj.push_back("Brain");
+    adj.push_back("Camera-Shy");
+    noun.push_back("Souvenir");
+    noun.push_back("Hypnotism");
+    noun.push_back("Fingerprint");
+    noun.push_back("Rose");
     //Touhou Fanon
+    noun2.push_back("the Mind Reader");
   }
   if(character=="Orin" || isDef){
     //Touhou Canon
