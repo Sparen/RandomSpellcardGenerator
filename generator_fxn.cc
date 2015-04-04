@@ -922,8 +922,21 @@ Generator::Generator(string character){
   }
   if(character=="Hatate" || isDef){
     //Touhou Canon
-
+    sign.push_back("Reporting");
+    sign.push_back("Continuous Shooting");
+    sign.push_back("Far-sightedness");
+    sign.push_back("Photography");
+    adj.push_back("Reporting");
+    adj.push_back("Rapid");
+    adj.push_back("Tengu");
+    adj.push_back("Full Panoramic");
+    adj.push_back("Secluded");
+    noun.push_back("Training");
+    noun.push_back("Shot");
+    noun.push_back("Psychography");
+    noun.push_back("Paparazzi");
     //Touhou Fanon
+    noun2.push_back("the Crow Tengu");
   }
   if(character=="Sunny" || isDef){
     //Touhou Canon

@@ -96,6 +96,7 @@ int main(int argc, char** argv) {
   names.push_back("Kogasa");
   names.push_back("Minamitsu");
   names.push_back("Shou");
+  names.push_back("Hatate");
   names.push_back("Kyouko");
   names.push_back("Wakasagihime");
   names.push_back("Sekibanki");
