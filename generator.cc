@@ -90,6 +90,7 @@ int main(int argc, char** argv) {
   names.push_back("Kisume");
   names.push_back("Yamame");
   names.push_back("Parsee");
+  names.push_back("Yuugi");
   names.push_back("Kogasa");
   names.push_back("Kyouko");
   names.push_back("Wakasagihime");

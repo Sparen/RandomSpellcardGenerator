@@ -720,7 +720,27 @@ Generator::Generator(string character){
   }
   if(character=="Yuugi" || isDef){
     //Touhou Canon
-
+    sign.push_back("Oni Sign");
+    sign.push_back("Shackles Sign");
+    sign.push_back("Mysterious Ring");
+    sign.push_back("Feat of Strength");
+    sign.push_back("Big Four Arcanum");
+    sign.push_back("Light Oni");
+    sign.push_back("Oni's Voice");
+    adj.push_back("Adamant");
+    adj.push_back("Dreadful Raging");
+    adj.push_back("Annihilating");
+    noun.push_back("Strength");
+    noun.push_back("Disorder");
+    noun.push_back("Hell's Wheel");
+    noun.push_back("Shackles");
+    noun.push_back("Storm");
+    noun.push_back("Knock Out");
+    noun.push_back("Helix");
+    noun.push_back("Waves");
+    noun.push_back("Roar");
+    noun2.push_back("Pain");
+    noun2.push_back("Mt. Ooe");
     //Touhou Fanon
   }
   if(character=="Satori" || isDef){
