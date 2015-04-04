@@ -25,7 +25,7 @@ using std::find;
 
 int main(int argc, char** argv) {
   /***START OF FLAGS. Code by Fluffy8x***/
-  Config c = ~(1 << F_EIRIN);
+  Config c = ~(1 << F_HELP);
   for (int i = 1; i < argc; ++i) {
     char* arg = argv[i];
     if (arg[0] == '-') {
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
           char* option = arg + 2;
           if (!strcmp(option, "quiet")) RESET(c, F_VERBOSE);
           else if (!strcmp(option, "verbose")) SET(c, F_VERBOSE);
-          else if (!strcmp(option, "help")) SET(c, F_EIRIN);
+          else if (!strcmp(option, "help")) SET(c, F_HELP);
           else {
             cerr << "Unknown option " << option << endl;
             exit(EXIT_FAILURE);
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
         }
         case 'q': RESET(c, F_VERBOSE); break;
         case 'v': SET(c, F_VERBOSE); break;
-        case 'h': SET(c, F_EIRIN); break;
+        case 'h': SET(c, F_HELP); break;
         default: {
           cerr << "Unknown option " << arg[1] << endl;
           exit(EXIT_FAILURE);
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
       }
     }
   }
-  if (HAS(c, F_EIRIN)) {
+  if (HAS(c, F_HELP)) {
     cout << endl << "RANDOM SPELLCARD NAME GENERATOR BY SPAREN" << endl;
     cout << "Options:\n\
     -h (--help): displays this message\n\
