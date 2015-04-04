@@ -1,7 +1,5 @@
 #include "wordsep.h"
 
-#include <iostream>
-using std::cout;
 
 // SO http://stackoverflow.com/questions/5607589/right-way-to-split-an-stdstring-into-a-vectorstring
 // Given a space-separated string, returns the individual words
