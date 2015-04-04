@@ -101,6 +101,8 @@ int main(int argc, char** argv) {
   names.insert("Wakasagihime");
   names.insert("Sekibanki");
   names.insert("Kagerou");
+  names.insert("Benben");
+  names.insert("Yatsuhashi");
   /*****************************SPINOFF ONLY*****************************/
   /*****************************IDO*****************************/
   /*****************************LEN'EN*****************************/

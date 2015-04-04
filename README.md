@@ -70,6 +70,8 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [14] Wakasagihime "Wakasagihime"					<br>
 [14] Sekibanki "Sekibanki"						<br>
 [14] Kagerou Imaizumi "Kagerou"						<br>
+[14] Benben Tsukumo "Benben"						<br>
+[14] Yatsuhashi Tsukumo "Yatsuhashi"					<br>
 
 ###IDO###
 

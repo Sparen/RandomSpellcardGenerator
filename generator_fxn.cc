@@ -1328,12 +1328,57 @@ Generator::Generator(set<string> characters){
     }
     if (character=="Benben"){
       //Touhou Canon
-
+      sign.push_back("Heikyoku");
+      sign.push_back("Vengeful Spirit");
+      sign.push_back("Music Sign");
+      sign.push_back("Noise Sign");
+      sign.push_back("Score");
+      adj.push_back("Earless");
+      adj.push_back("Taira's Great");
+      adj.push_back("Wicked");
+      adj.push_back("Malicious");
+      adj.push_back("Double");
+      adj.push_back("Score");
+      adj.push_back("Earless");
+      noun.push_back("Sounds");
+      noun.push_back("Hoichi");
+      noun.push_back("Vengeful Spirit");
+      noun.push_back("Musical Score");
+      noun.push_back("Score");
+      noun.push_back("Biwa");
+      noun.push_back("Web");
+      noun2.push_back("Jetavana's Bell");
       //Touhou Fanon
     }
     if (character=="Yatsuhashi"){
       //Touhou Canon
-
+      sign.push_back("Koto Sign");
+      sign.push_back("Echo Sign");
+      sign.push_back("Koto Music");
+      sign.push_back("Elegy");
+      adj.push_back("Heian's");
+      adj.push_back("Echo");
+      adj.push_back("Social Upheaval");
+      noun.push_back("Norigoto");
+      noun.push_back("Sounds");
+      noun.push_back("Reverberation");
+      noun.push_back("Chamber");
+      noun.push_back("Koto Music Complement");
+      noun.push_back("Requiem");
+      noun2.push_back("Heaven");
+      noun2.push_back("Anicca's Koto");
+      //Touhou Fanon
+    }
+    if (character=="Benben" || character=="Yatsuhashi"){
+      //Touhou Canon
+      sign.push_back("String Music");
+      sign.push_back("Double Chant");
+      adj.push_back("Storm");
+      adj.push_back("Joruri");
+      noun.push_back("Ensemble");
+      noun.push_back("World");
+      noun.push_back("Song");
+      noun2.push_back("Falling Stars");
       //Touhou Fanon
     }
     if (character=="Seija"){
