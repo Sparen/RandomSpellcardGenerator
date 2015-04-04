@@ -1,14 +1,17 @@
 #include <cstdlib>
+#include <ctime>
+#include <cstring>
+#include <cstdio>
 #include <string>
 #include <map>
 #include <vector>
 #include <iostream>
 #include <list>
 #include <algorithm>
-#include <time.h>
-#include <string.h>
+#include <set>
 #include "generator_fxn.h"
 #include "config.h"
+#include "wordsep.h"
 
 using std::list;
 using std::vector;
@@ -18,6 +21,8 @@ using std::cerr;
 using std::endl;
 using std::string;
 using std::find;
+using std::set;
+using std::getline;
 
 /****************************************************
  * RANDOM SPELLCARD NAME GENERATOR by Sparen, 2015  *
@@ -35,6 +40,7 @@ int main(int argc, char** argv) {
           if (!strcmp(option, "quiet")) RESET(c, F_VERBOSE);
           else if (!strcmp(option, "verbose")) SET(c, F_VERBOSE);
           else if (!strcmp(option, "help")) SET(c, F_HELP);
+          else if (!strcmp(option, "strict")) RESET(c, F_INVALID_AS_DEFAULT);
           else {
             cerr << "Unknown option " << option << endl;
             exit(EXIT_FAILURE);
@@ -44,6 +50,7 @@ int main(int argc, char** argv) {
         case 'q': RESET(c, F_VERBOSE); break;
         case 'v': SET(c, F_VERBOSE); break;
         case 'h': SET(c, F_HELP); break;
+        case 's': RESET(c, F_INVALID_AS_DEFAULT); break;
         default: {
           cerr << "Unknown option " << arg[1] << endl;
           exit(EXIT_FAILURE);
@@ -60,76 +67,91 @@ int main(int argc, char** argv) {
     return 0;
   }
   bool verbose = HAS(c, F_VERBOSE);
+  bool strict = !HAS(c, F_INVALID_AS_DEFAULT);
   /***END OF FLAGS***/
 
   srand(time(NULL));
   //Obtain input from user on character
   if (verbose) cout << "Please type the name of the character whose cards you want to generate.\nExample: Reimu, Udonge, Rumia, Tewi, Shinmyoumaru, Minamitsu\n";
   string input;
-  cin >> input;
+  getline(cin, input);
 
-  vector<string> names;
+  set<string> names;
   /*Please push back in order of game # shown. See generator_fxn.cc for order*/
   /*****************************OFFICIAL ONLY*****************************/
-  names.push_back("Reimu");
-  names.push_back("Marisa");
-  names.push_back("Rumia");
-  names.push_back("Letty");
-  names.push_back("Chen");
-  names.push_back("Lyrica"); names.push_back("Lunasa"); names.push_back("Merlin");
-  names.push_back("Ran");
-  names.push_back("Wriggle");
-  names.push_back("Mystia");
-  names.push_back("Tewi");
-  names.push_back("Medicine");
-  names.push_back("Yuuka");
-  names.push_back("Shikieiki");
-  names.push_back("Shizuha");
-  names.push_back("Minoriko");
-  names.push_back("Momiji");
-  names.push_back("Kisume");
-  names.push_back("Yamame");
-  names.push_back("Parsee");
-  names.push_back("Yuugi");
-  names.push_back("Satori");
-  names.push_back("Nazrin");
-  names.push_back("Kogasa");
-  names.push_back("Minamitsu");
-  names.push_back("Shou");
-  names.push_back("Hatate");
-  names.push_back("Kyouko");
-  names.push_back("Yoshika");
-  names.push_back("Seiga");
-  names.push_back("Wakasagihime");
-  names.push_back("Sekibanki");
+  names.insert("Reimu");
+  names.insert("Marisa");
+  names.insert("Rumia");
+  names.insert("Letty");
+  names.insert("Chen");
+  names.insert("Lyrica"); names.insert("Lunasa"); names.insert("Merlin");
+  names.insert("Ran");
+  names.insert("Wriggle");
+  names.insert("Mystia");
+  names.insert("Tewi");
+  names.insert("Medicine");
+  names.insert("Yuuka");
+  names.insert("Shikieiki");
+  names.insert("Shizuha");
+  names.insert("Minoriko");
+  names.insert("Momiji");
+  names.insert("Kisume");
+  names.insert("Yamame");
+  names.insert("Parsee");
+  names.insert("Yuugi");
+  names.insert("Satori");
+  names.insert("Nazrin");
+  names.insert("Kogasa");
+  names.insert("Minamitsu");
+  names.insert("Shou");
+  names.insert("Hatate");
+  names.insert("Kyouko");
+  names.insert("Yoshika");
+  names.insert("Seiga");
+  names.insert("Wakasagihime");
+  names.insert("Sekibanki");
   /*****************************SPINOFF ONLY*****************************/
   /*****************************IDO*****************************/
   /*****************************LEN'EN*****************************/
   /*****************************SEITENTOUJI*****************************/
   /*****************************NANSEI*****************************/
   /*****************************CHOUYOU*****************************/
-  names.push_back("Rencron");
-  names.push_back("Reiri");
-
-  vector<string>::iterator it;
-  it = find(names.begin(), names.end(), input);
-  if (it == names.end()) { // not found
-    if (verbose) cout << "Name not in list. Using Default" << endl;
-    input = "DEFAULT";
+  names.insert("Rencron");
+  names.insert("Reiri");
+  names.insert("Rygen");
+  names.insert("Nikou");
+  
+  set<string> includedNames;
+  includedNames = split(input);
+  for (string n : includedNames) {
+    if (names.count(n) == 0) { // not found
+      if (strict) {
+        cerr << "Name " << n << " not in list." << endl;
+        exit(EXIT_FAILURE);
+      } else {
+        if (verbose) cout << "Name " << n << " not in list. Using Default" << endl;
+        includedNames = names;
+        break;
+      }
+    }
   }
   
   //Create Generator
-  Generator gen(input);
+  Generator gen(includedNames);
+  
+  // Flush stdin so it doesn't skip asking for spellcard count
+  fflush(stdin);
   
   if (verbose) cout << "How many spellcard names do you want?" << endl;
   int num;
   cin >> num;
   for(int i = 0; i < num; i++){
-    switch (rand() & 15) {//rand % 16 - 1/16 A3, 3/16 A2, 12/16 A1
+    switch (rand() & 15) {//rand % 16 - 1/16 A3, 3/16 A2, 1/16 A4, 11/16 A1
     case 0: gen.PrintA3(); break;
     case 1:
     case 2:
     case 3: gen.PrintA2(); break;
+    case 4: gen.PrintA4(); break;
     default: gen.PrintA1();
     }
   }
