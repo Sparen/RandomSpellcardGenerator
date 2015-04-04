@@ -98,6 +98,8 @@ int main(int argc, char** argv) {
   names.push_back("Shou");
   names.push_back("Hatate");
   names.push_back("Kyouko");
+  names.push_back("Yoshika");
+  names.push_back("Seiga");
   names.push_back("Wakasagihime");
   names.push_back("Sekibanki");
   /*****************************SPINOFF ONLY*****************************/

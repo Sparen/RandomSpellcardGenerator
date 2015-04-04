@@ -983,13 +983,54 @@ Generator::Generator(string character){
   }
   if(character=="Yoshika" || isDef){
     //Touhou Canon
-
+    sign.push_back("Recovery");
+    sign.push_back("Poison Nail");
+    sign.push_back("Desire Sign");
+    adj.push_back("Poison");
+    adj.push_back("Desire Spirit's");
+    adj.push_back("Score Desire");
+    adj.push_back("Undead");
+    adj.push_back("Zombie");
+    noun.push_back("Raze");
+    noun.push_back("Murder");
+    noun.push_back("Invitation");
+    noun.push_back("Eater");
+    noun.push_back("Murderer");
+    noun.push_back("Claw");
     //Touhou Fanon
+    noun2.push_back("the Jiangshi");
   }
   if(character=="Seiga" || isDef){
     //Touhou Canon
-
+    sign.push_back("Evil Sign");
+    sign.push_back("Demonify");
+    sign.push_back("Necromancy");
+    sign.push_back("Spirit Link");
+    sign.push_back("Path Sign");
+    sign.push_back("Hermit Arts");
+    if(!isDef){ 
+        adj.push_back("Yang");
+        adj.push_back("Guhun");
+        adj.push_back("Zuohuo");
+        adj.push_back("Tongling");
+    }
+    adj.push_back("Corpse");
+    adj.push_back("Fetal");
+    adj.push_back("Excessive");
+    adj.push_back("Wall");
+    adj.push_back("Wall-Phasing");
+    if(!isDef){
+        noun.push_back("Xiaogui");
+        noun.push_back("Yegui");
+        noun.push_back("Rumo");
+        noun.push_back("Tongji");
+        noun.push_back("Yoshika");
+    }
+    noun.push_back("Movement");
+    noun.push_back("Runner");
+    noun.push_back("Wormhole");
     //Touhou Fanon
+    noun2.push_back("the Evil Hermit");
   }
   if(character=="Tojiko" || isDef){
     //Touhou Canon

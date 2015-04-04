@@ -54,6 +54,8 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [12] Shou Toramaru "Shou"				<br>
 [12.5] Hatate Himekaidou "Hatate"			<br>
 [13] Kyouko Kasodani "Kyouko"				<br>
+[13] Yoshika Miyako "Yoshika"				<br>
+[13] Seiga Kaku "Seiga"					<br>
 [14] Wakasagihime "Wakasagihime"			<br>
 [14] Sekibanki "Sekibanki"				<br>
 
