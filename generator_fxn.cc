@@ -1275,7 +1275,7 @@ string Generator::GenerateA4() {
   int r1 = rand() % 15;
   int r2 = rand() % 15;
   return (r1 == 0 ? GenerateA3() : r1 < 4 ? GenerateA2() : GenerateA1())
-    + " " + (r2 == 0 ? GenerateB3() : r2 < 4 ? GenerateB2() : GenerateB1());
+    + " - " + (r2 == 0 ? GenerateB3() : r2 < 4 ? GenerateB2() : GenerateB1());
 }
 
 void Generator::PrintA1() {
