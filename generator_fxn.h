@@ -8,7 +8,7 @@ class Generator{
   std::vector<std::string> noun;
   std::vector<std::string> noun2;
 
-  Generator(std::string character);
+  Generator(std::set<std::string> characters);
   Generator(Generator& old);
   ~Generator();
   std::string GenerateB1();
