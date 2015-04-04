@@ -65,6 +65,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [13] Seiga Kaku "Seiga" [+PhantomSong]					<br>
 [14] Wakasagihime "Wakasagihime"					<br>
 [14] Sekibanki "Sekibanki"						<br>
+[14] Kagerou Imaizumi "Kagerou"						<br>
 
 ###IDO###
 

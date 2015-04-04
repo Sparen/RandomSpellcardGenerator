@@ -1204,8 +1204,29 @@ Generator::Generator(set<string> characters){
     }
     if (character=="Kagerou"){
       //Touhou Canon
-
+      sign.push_back("Fang Sign");
+      sign.push_back("Transformation");
+      sign.push_back("Roar");
+      sign.push_back("Wolf Sign");
+      sign.push_back("Sirius");
+      sign.push_back("Full Moon");
+      sign.push_back("Wolf Fang");
+      adj.push_back("Canine");
+      adj.push_back("Triangle");
+      adj.push_back("Star");
+      adj.push_back("Strange");
+      adj.push_back("Star Ring");
+      adj.push_back("High-Speed");
+      adj.push_back("Bloodthirsty Wolf");
+      adj.push_back("Full Moon");
+      noun.push_back("Teeth");
+      noun.push_back("Fang");
+      noun.push_back("Roar");
+      noun.push_back("Howling");
+      noun.push_back("Pounce");
+      noun2.push_back("the Full Moon");
       //Touhou Fanon
+      noun2.push_back("the Werewolf");
     }
     if (character=="Benben"){
       //Touhou Canon

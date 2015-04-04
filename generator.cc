@@ -116,6 +116,7 @@ int main(int argc, char** argv) {
   names.insert("Seiga");
   names.insert("Wakasagihime");
   names.insert("Sekibanki");
+  names.insert("Kagerou");
   /*****************************SPINOFF ONLY*****************************/
   /*****************************IDO*****************************/
   /*****************************LEN'EN*****************************/
@@ -136,7 +137,7 @@ int main(int argc, char** argv) {
         exit(EXIT_FAILURE);
       } else {
         if (verbose) cout << "Name " << n << " not in list. Using Default" << endl;
-        includedNames = names;
+        includedNames = names; //default, everything goes
         break;
       }
     }
