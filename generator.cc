@@ -153,7 +153,7 @@ int main(int argc, char** argv) {
   int num;
   cin >> num;
   for(int i = 0; i < num; i++){
-    switch (rand() & 17) {//rand % 18 - 1/18 A3, 3/18 A2, 1/18 A4, 13/18 A1
+    switch (rand() % 18) { // 1/18 A3, 3/18 A2, 1/18 A4, 13/18 A1
     case 0: gen.PrintA3(); break;
     case 1:
     case 2:
