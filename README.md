@@ -50,6 +50,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [11] Satori Komeiji "Satori"				<br>
 [12] Nazrin "Nazrin"					<br>
 [12] Kogasa Tatara "Kogasa"				<br>
+[12] Minamitsu Murasa "Minamitsu"			<br>
 [12] Shou Toramaru "Shou"				<br>
 [13] Kyouko Kasodani "Kyouko"				<br>
 [14] Wakasagihime "Wakasagihime"			<br>

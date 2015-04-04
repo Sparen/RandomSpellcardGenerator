@@ -849,8 +849,35 @@ Generator::Generator(string character){
   }
   if(character=="Minamitsu" || isDef){
     //Touhou Canon
-
+    sign.push_back("Capsize");
+    sign.push_back("Drowning Sign");
+    sign.push_back("Harbor Sign");
+    sign.push_back("Ghost");
+    sign.push_back("Anchor Sign");
+    sign.push_back("Flood");
+    adj.push_back("Dragging");
+    adj.push_back("Foundering");
+    adj.push_back("Sinking");
+    adj.push_back("Deep");
+    adj.push_back("Sinkable");
+    adj.push_back("Phantom Ship");
+    adj.push_back("Ghost Ship's");
+    adj.push_back("Eternally Anchored");
+    adj.push_back("Sinker");
+    noun.push_back("Anchor");
+    noun.push_back("Vortex");
+    noun.push_back("Harbor");
+    noun.push_back("Port");
+    noun.push_back("Ghost Ship");
+    noun.push_back("Ghost");
+    noun.push_back("Dipper");
+    noun.push_back("Long Moorings");
+    noun.push_back("Venus");
+    noun.push_back("Sinker");
+    noun2.push_back("the Bilge");
     //Touhou Fanon
+    sign.push_back("Shipwreck");
+    noun2.push_back("the Phantom Ship");
   }
   if(character=="Shou" || isDef){
     //Touhou Canon
