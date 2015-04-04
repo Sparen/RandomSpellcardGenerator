@@ -140,15 +140,25 @@ int main(int argc, char** argv) {
   getline(cin, input);
   set<string> includedNames;
   includedNames = split(input);
-  for (string n : includedNames) {
-    if (names.count(n) == 0) { // not found
-      if (strict) {
-        cerr << "Name " << n << " not in list." << endl;
-        exit(EXIT_FAILURE);
-      } else {
-        if (verbose) cout << "Name " << n << " not in list. Using Default" << endl;
-        includedNames = names; //default, everything goes
-        break;
+  if (includedNames.empty()) {
+    if (strict) {
+      cerr << "No names included." << endl;
+      exit(EXIT_FAILURE);
+    } else {
+      if (verbose) cout << "No names included. Using Default" << endl;
+      includedNames = names;
+    }
+  } else {
+    for (string n : includedNames) {
+      if (names.count(n) == 0) { // not found
+        if (strict) {
+          cerr << "Name " << n << " not in list." << endl;
+          exit(EXIT_FAILURE);
+        } else {
+          if (verbose) cout << "Name " << n << " not in list. Using Default" << endl;
+          includedNames = names; //default, everything goes
+          break;
+        }
       }
     }
   }
