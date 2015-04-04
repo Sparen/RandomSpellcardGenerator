@@ -76,6 +76,7 @@ int main(int argc, char** argv) {
   names.insert("Mystia");
   names.insert("Keine");
   names.insert("Tewi");
+  names.insert("Mokou");
   names.insert("Medicine");
   names.insert("Yuuka");
   names.insert("Shikieiki");

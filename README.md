@@ -45,6 +45,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [08] Mystia Lorelei "Mystia"						<br>
 [08] Keine Kamishirasawa "Keine"					<br>
 [08] Tewi Inaba "Tewi"							<br>
+[08] Fujiwara no Mokou "Mokou"						<br>
 [09] Medicine Melancholy "Medicine"					<br>
 [09] Yuuka Kazami "Yuuka" [+Darkness1]					<br>
 [09] Eiki Shiki Yamaxanadu "Shikieiki" 					<br>

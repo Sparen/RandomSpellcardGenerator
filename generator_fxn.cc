@@ -560,8 +560,45 @@ Generator::Generator(set<string> characters){
     }
     if (character=="Mokou"){
       //Touhou Canon
-
+      sign.push_back("Limiting Edict");
+      sign.push_back("Immortal");
+      sign.push_back("Fujiwara");
+      sign.push_back("Deathless");
+      sign.push_back("Forgiveness");
+      sign.push_back("Hollow Giant");
+      sign.push_back("Everlasting");
+      sign.push_back("Hourai");
+      sign.push_back("Exalted Personage");
+      sign.push_back("Regretful Life");
+      adj.push_back("Fire");
+      adj.push_back("Flying");
+      adj.push_back("Xu Fu's");
+      adj.push_back("Honest Man's");
+      adj.push_back("Phoenix's");
+      adj.push_back("Fujiyama");
+      adj.push_back("Hourai");
+      adj.push_back("Imperishable");
+      adj.push_back("Phoenix");
+      adj.push_back("Immortality's");
+      noun.push_back("Curse");
+      noun.push_back("Bird");
+      noun.push_back("Phoenix");
+      noun.push_back("Flaw");
+      noun.push_back("Dimension");
+      noun.push_back("Death");
+      noun.push_back("Tail");
+      noun.push_back("Volcano");
+      noun.push_back("Doll");
+      noun.push_back("Shooting");
+      noun.push_back("Rebirth");
+      noun.push_back("Forewarning");
+      noun.push_back("Reckless Sacrifice");
+      noun.push_back("Legend");
+      noun2.push_back("Tsuki-no-Iwasaka");
+      noun2.push_back("Forgiving Shrine");
+      noun2.push_back("St. Germain");
       //Touhou Fanon
+      noun2.push_back("the Phoenix");
     }
     if (character=="Aya"){
       //Touhou Canon
