@@ -1155,6 +1155,7 @@ Generator::Generator(string character){
   /*****************************NANSEI*****************************/
   /*****************************CHOUYOU*****************************/
   if (character == "Rencron" || character == "Reiri" || isDef) {
+    // TODO add more stuff
     sign.push_back("Leaf Sign");
     sign.push_back("Earth Sign");
     sign.push_back("Wind Sign");
@@ -1172,6 +1173,48 @@ Generator::Generator(string character){
     noun.push_back("Sunrise");
     noun2.push_back("the Deep Forest");
     noun2.push_back("the Horizon");
+  }
+  if (character == "Rygen" || character == "Nikou" || isDef) {
+    sign.push_back("Light Sign");
+    sign.push_back("Rainbow Sign");
+    sign.push_back("Red Sign");
+    sign.push_back("Green Sign");
+    sign.push_back("Blue Sign");
+    sign.push_back("Cyan Sign");
+    sign.push_back("Magenta Sign");
+    sign.push_back("Yellow Sign");
+    sign.push_back("Nine Colors");
+    adj.push_back("Superluminal");
+    adj.push_back("Mystic");
+    adj.push_back("Spectrum");
+    adj.push_back("Impulse");
+    adj.push_back("Experimental");
+    adj.push_back("Fox's");
+    adj.push_back("Stygian");
+    adj.push_back("Mirror");
+    adj.push_back("Spherical");
+    adj.push_back("Great");
+    adj.push_back("Sinusoidal");
+    adj.push_back("First");
+    adj.push_back("Second");
+    adj.push_back("Spiral");
+    adj.push_back("Cumulonimbus-Ascending");
+    noun.push_back("Beam");
+    noun.push_back("Quake");
+    noun.push_back("Expansion");
+    noun.push_back("Laser");
+    noun.push_back("Familiar");
+    noun.push_back("Wall");
+    noun.push_back("Cave-Searching");
+    noun.push_back("Blue");
+    noun.push_back("Mirror");
+    noun.push_back("Reflection");
+    noun.push_back("Optics");
+    noun.push_back("Paddle");
+    noun.push_back("Clock");
+    noun.push_back("Ladder");
+    noun2.push_back("Nine Colors");
+    noun2.push_back("the Rainbow");
   }
 }
 
@@ -1191,15 +1234,15 @@ T Generator::pick(vector<T> v) {
   return v.at(rand() % v.size());
 }
 
-string Generator::GenerateA1(){
-  return pick(sign) + ": " + pick(adj) + " " + pick(noun);
+string Generator::GenerateB1() {
+  return pick(adj) + " " + pick(noun);
 }
 
-string Generator::GenerateA2(){
-  return pick(sign) + ": "+ pick(noun) + " of " + pick(noun2);
+string Generator::GenerateB2() {
+  return pick(noun) + " of " + pick(noun2);
 }
 
-string Generator::GenerateA3() {
+string Generator::GenerateB3() {
   int roll = rand() & 15;
   int adjCount =
     roll < 8 ? 1 :
@@ -1213,7 +1256,26 @@ string Generator::GenerateA3() {
   for (string s : adjs) {
     res = res + s + " ";
   }
-  return pick(sign) + ": " + res + pick(noun);
+  return res + pick(noun);
+}
+
+string Generator::GenerateA1(){
+  return pick(sign) + ": " + GenerateB1();
+}
+
+string Generator::GenerateA2(){
+  return pick(sign) + ": " + GenerateB2();
+}
+
+string Generator::GenerateA3() {
+  return pick(sign) + ": " + GenerateB3();
+}
+
+string Generator::GenerateA4() {
+  int r1 = rand() % 15;
+  int r2 = rand() % 15;
+  return (r1 == 0 ? GenerateA3() : r1 < 4 ? GenerateA2() : GenerateA1())
+    + " " + (r2 == 0 ? GenerateB3() : r2 < 4 ? GenerateB2() : GenerateB1());
 }
 
 void Generator::PrintA1() {
@@ -1226,4 +1288,8 @@ void Generator::PrintA2() {
 
 void Generator::PrintA3() {
   cout << GenerateA3() << endl;
+}
+
+void Generator::PrintA4() {
+  cout << GenerateA4() << endl;
 }

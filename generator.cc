@@ -110,6 +110,8 @@ int main(int argc, char** argv) {
   /*****************************CHOUYOU*****************************/
   names.push_back("Rencron");
   names.push_back("Reiri");
+  names.push_back("Rygen");
+  names.push_back("Nikou");
 
   vector<string>::iterator it;
   it = find(names.begin(), names.end(), input);
@@ -125,11 +127,12 @@ int main(int argc, char** argv) {
   int num;
   cin >> num;
   for(int i = 0; i < num; i++){
-    switch (rand() & 15) {//rand % 16 - 1/16 A3, 3/16 A2, 12/16 A1
+    switch (rand() & 15) {//rand % 16 - 1/16 A3, 3/16 A2, 1/16 A4, 11/16 A1
     case 0: gen.PrintA3(); break;
     case 1:
     case 2:
     case 3: gen.PrintA2(); break;
+    case 4: gen.PrintA4(); break;
     default: gen.PrintA1();
     }
   }
