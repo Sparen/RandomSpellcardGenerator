@@ -77,5 +77,4 @@ N/A
 
 ###CHOUYOU (FLUFFY8X)###
 
-[05] Elssecisso Rencron "Rencron"			<br>
-[05] Akiyari Reiri "Reiri"				<br>
+[05] Elssecisso Rencron "Rencron"/Akiyari Reiri "Reiri"			<br>
