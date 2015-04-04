@@ -479,7 +479,53 @@ Generator::Generator(set<string> characters){
     }
     if (character=="Keine"){
       //Touhou Canon
-
+      sign.push_back("Spiritual Birth");
+      sign.push_back("Origin Sign");
+      sign.push_back("Ambition Sign");
+      sign.push_back("Land Sign");
+      sign.push_back("Land Scheme");
+      sign.push_back("Ending Sign");
+      sign.push_back("Pseudo-History");
+      sign.push_back("Future");
+      sign.push_back("Past");
+      sign.push_back("Reincarnation");
+      sign.push_back("Light Sign");
+      sign.push_back("Shroud Sign");
+      sign.push_back("Japan Sign");
+      sign.push_back("Hollyhock Sign");
+      sign.push_back("20XX");
+      sign.push_back("Great Fire");
+      adj.push_back("First");
+      adj.push_back("Buretsu");
+      adj.push_back("Masakado");
+      adj.push_back("Yoshimitsu");
+      adj.push_back("General Headquarters");
+      adj.push_back("Three Sacred");
+      adj.push_back("Phantasmal");
+      adj.push_back("God's");
+      adj.push_back("Ancient");
+      adj.push_back("Returning-Bridge");
+      adj.push_back("Total");
+      adj.push_back("Yamato");
+      noun.push_back("Pyramid");
+      noun.push_back("Ephemerality");
+      noun.push_back("Crisis");
+      noun.push_back("Treasures");
+      noun.push_back("Emperor");
+      noun.push_back("Legend");
+      noun.push_back("Realm");
+      noun.push_back("History");
+      noun.push_back("Ichijo");
+      noun.push_back("New History");
+      noun.push_back("Purification");
+      noun.push_back("Amaterasu");
+      noun.push_back("Kindgdom");
+      noun.push_back("Odyssey");
+      noun.push_back("Flower");
+      noun2.push_back("Gensokyo");
+      noun2.push_back("Phantasm");
+      noun2.push_back("the East");
+      noun2.push_back("Edo");
       //Touhou Fanon
     }
     if (character=="Tewi"){
