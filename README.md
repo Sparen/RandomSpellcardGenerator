@@ -53,6 +53,8 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [11] Parsee Mizuhashi "Parsee"						<br>
 [11] Yuugi Hoshiguma "Yuugi"						<br>
 [11] Satori Komeiji "Satori"						<br>
+[11] Rin Kaenbyou "Orin"						<br>
+[11] Utsuho Reiuji "Utsuho"						<br>
 [12] Nazrin "Nazrin"							<br>
 [12] Kogasa Tatara "Kogasa"						<br>
 [12] Minamitsu Murasa "Minamitsu"					<br>

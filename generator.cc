@@ -104,6 +104,8 @@ int main(int argc, char** argv) {
   names.insert("Parsee");
   names.insert("Yuugi");
   names.insert("Satori");
+  names.insert("Orin");
+  names.insert("Utsuho");
   names.insert("Nazrin");
   names.insert("Kogasa");
   names.insert("Minamitsu");
