@@ -1,11 +1,12 @@
-#include <sstream>
-#include <set>
-#include <string>
-#include <iterator>
-#include <cstring>
+#ifndef WORDSEP_H_
+#define WORDSEP_H_
 
-using std::stringstream;
+#include <string>
+#include <set>
+
 using std::set;
 using std::string;
 
-set<string> split(string s);
+set<string> split(const string &s);
+
+#endif // WORDSEP_H_

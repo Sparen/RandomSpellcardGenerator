@@ -1,14 +1,11 @@
 #include <cstdlib>
 #include <string>
-#include <map>
 #include <vector>
 #include <iostream>
-#include <list>
 #include <algorithm>
 #include <set>
 #include "generator_fxn.h"
 
-using std::list;
 using std::vector;
 using std::cout;
 using std::cin;
@@ -19,13 +16,13 @@ using std::set;
 /*Generates: "<sign>: <noun> of <noun2>" or "<sign> Sign: <adj> <noun>"
 */
 
-Generator::Generator(set<string> characters){
+Generator::Generator(const set<string> &characters){
   //if character is DEFAULT, will use all available signs, adjectives, and nouns 
   //There MUST be at least one of each category (sign, adj, noun, noun2)
   //Any non-canon words go under fanon. 
   //Remember to cite sources for particularly interesting or creative words and phrases (see Yuuka for an example)
   /*****************************OFFICIAL ONLY*****************************/
-  for (string character : characters) {
+  for (const string &character : characters) {
     if (character=="Reimu"){
       //Touhou Canon
       sign.push_back("Spirit Sign");
@@ -1485,22 +1482,6 @@ Generator::Generator(set<string> characters){
   
 }
 
-Generator::Generator(Generator& old){
-  sign = old.sign;
-  adj = old.adj;
-  noun = old.noun;
-  noun2 = old.noun2;
-}
-
-Generator::~Generator(){
-
-}
-
-template<typename T>
-T Generator::pick(vector<T> v) {
-  return v.at(rand() % v.size());
-}
-
 string Generator::GenerateB1() {
   return pick(adj) + " " + pick(noun);
 }
@@ -1520,8 +1501,8 @@ string Generator::GenerateB3() {
   for (int i = 0; i < adjCount; ++i) {
     adjs.insert(pick(adj));
   }
-  for (string s : adjs) {
-    res = res + s + " ";
+  for (const string &s : adjs) {
+    res += s + " ";
   }
   return res + pick(noun);
 }

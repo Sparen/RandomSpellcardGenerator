@@ -1,16 +1,23 @@
+#ifndef GENERATOR_FXN_H
+#define GENERATOR_FXN_H
+
+#include <vector>
+#include <string>
+#include <cstdlib>
+
 class Generator{
  private:
   template<typename T>
-  T pick(std::vector<T> v);
+  T pick(const std::vector<T> &v) {
+    return v[rand() % v.size()];
+  }
  public:
   std::vector<std::string> sign;//includes the word "Sign" in it.
   std::vector<std::string> adj;
   std::vector<std::string> noun;
   std::vector<std::string> noun2;
 
-  Generator(std::set<std::string> characters);
-  Generator(Generator& old);
-  ~Generator();
+  Generator(const std::set<std::string> &characters);
   std::string GenerateB1();
   std::string GenerateB2();
   std::string GenerateB3();
@@ -23,3 +30,5 @@ class Generator{
   void PrintA3();
   void PrintA4();
 };
+
+#endif // GENERATOR_FXN_H

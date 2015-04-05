@@ -1,26 +1,21 @@
 #include <cstdlib>
 #include <ctime>
 #include <cstring>
-#include <cstdio>
 #include <string>
-#include <map>
 #include <vector>
 #include <iostream>
-#include <list>
 #include <algorithm>
 #include <set>
 #include "generator_fxn.h"
 #include "config.h"
 #include "wordsep.h"
 
-using std::list;
 using std::vector;
 using std::cout;
 using std::cin;
 using std::cerr;
 using std::endl;
 using std::string;
-using std::find;
 using std::set;
 using std::getline;
 
@@ -44,7 +39,7 @@ int main(int argc, char** argv) {
           else if (!strcmp(option, "list-names")) SET(c, F_LIST_NAMES);
           else {
             cerr << "Unknown option " << option << endl;
-            exit(EXIT_FAILURE);
+            return 1;
           }
           break;
         }
@@ -55,65 +50,65 @@ int main(int argc, char** argv) {
         case 'l': SET(c, F_LIST_NAMES); break;
         default: {
           cerr << "Unknown option " << arg[1] << endl;
-          exit(EXIT_FAILURE);
+          return 1;
         }
       }
     }
   }
   // Moved the name declaration here so we can list all the names if the user prompts to do so.
-  set<string> names;
-  /*Please push back in order of game # shown. See generator_fxn.cc for order*/
+  /*Please add in order of game # shown. See generator_fxn.cc for order*/
   /*****************************OFFICIAL ONLY*****************************/
-  names.insert("Reimu");
-  names.insert("Marisa");
-  names.insert("Rumia");
-  names.insert("Flandre");
-  names.insert("Letty");
-  names.insert("Chen");
-  names.insert("Lyrica"); names.insert("Lunasa"); names.insert("Merlin");
-  names.insert("Ran");
-  names.insert("Wriggle");
-  names.insert("Mystia");
-  names.insert("Keine");
-  names.insert("Tewi");
-  names.insert("Mokou");
-  names.insert("Medicine");
-  names.insert("Yuuka");
-  names.insert("Shikieiki");
-  names.insert("Shizuha");
-  names.insert("Minoriko");
-  names.insert("Momiji");
-  names.insert("Kisume");
-  names.insert("Yamame");
-  names.insert("Parsee");
-  names.insert("Yuugi");
-  names.insert("Satori");
-  names.insert("Orin");
-  names.insert("Utsuho");
-  names.insert("Nazrin");
-  names.insert("Kogasa");
-  names.insert("Minamitsu");
-  names.insert("Shou");
-  names.insert("Hatate");
-  names.insert("Kyouko");
-  names.insert("Yoshika");
-  names.insert("Seiga");
-  names.insert("Wakasagihime");
-  names.insert("Sekibanki");
-  names.insert("Kagerou");
-  names.insert("Benben");
-  names.insert("Yatsuhashi");
-  /*****************************SPINOFF ONLY*****************************/
-  /*****************************IDO*****************************/
-  /*****************************LEN'EN*****************************/
-  /*****************************SEITENTOUJI*****************************/
-  /*****************************NANSEI*****************************/
-  /*****************************CHOUYOU*****************************/
-  names.insert("Rencron");
-  names.insert("Reiri");
-  names.insert("Rygen");
-  names.insert("Nikou");
-  
+  set<string> names = {
+    "Reimu",
+    "Marisa",
+    "Rumia",
+    "Flandre",
+    "Letty",
+    "Chen",
+    "Lyrica", "Lunasa", "Merlin",
+    "Ran",
+    "Wriggle",
+    "Mystia",
+    "Keine",
+    "Tewi",
+    "Mokou",
+    "Medicine",
+    "Yuuka",
+    "Shikieiki",
+    "Shizuha",
+    "Minoriko",
+    "Momiji",
+    "Kisume",
+    "Yamame",
+    "Parsee",
+    "Yuugi",
+    "Satori",
+    "Orin",
+    "Utsuho",
+    "Nazrin",
+    "Kogasa",
+    "Minamitsu",
+    "Shou",
+    "Hatate",
+    "Kyouko",
+    "Yoshika",
+    "Seiga",
+    "Wakasagihime",
+    "Sekibanki",
+    "Kagerou",
+    "Benben",
+    "Yatsuhashi",
+    /*****************************SPINOFF ONLY*****************************/
+    /*****************************IDO*****************************/
+    /*****************************LEN'EN*****************************/
+    /*****************************SEITENTOUJI*****************************/
+    /*****************************NANSEI*****************************/
+    /*****************************CHOUYOU*****************************/
+    "Rencron",
+    "Reiri",
+    "Rygen",
+    "Nikou",
+  };
   
   if (HAS(c, F_HELP)) {
     cout << endl << "RANDOM SPELLCARD NAME GENERATOR BY SPAREN" << endl;
@@ -125,7 +120,7 @@ int main(int argc, char** argv) {
     -l (--list-names): list all included names and exit" << endl;
     return 0;
   } else if (HAS(c, F_LIST_NAMES)) {
-    for (string s : names) {
+    for (const string &s : names) {
       cout << endl << s;
     }
     cout << endl;
@@ -135,32 +130,35 @@ int main(int argc, char** argv) {
   bool strict = !HAS(c, F_INVALID_AS_DEFAULT);
   /***END OF FLAGS***/
 
-  srand(time(NULL));
+  srand(time(nullptr));
   //Obtain input from user on character
-  if (verbose) cout << "Please type the name of the character whose cards you want to generate." << endl;
-  if (verbose) cout << "Example: Reimu, Udonge, Rumia, Tewi, Shinmyoumaru, Minamitsu" << endl;
-  if (verbose) cout << "You can type multiple names to mix and match signs and phrases between multiple characters." << endl;
-  if (verbose) cout << "If you decide to use this option, please use the option -s, as if a name is not found, default will be added." << endl;
+  if (verbose) {
+    cout << "Please type the name of the character whose cards you want to generate." << endl;
+    cout << "Example: Reimu, Udonge, Rumia, Tewi, Shinmyoumaru, Minamitsu" << endl;
+    cout << "You can type multiple names to mix and match signs and phrases between multiple characters." << endl;
+    cout << "If you decide to use this option, please use the option -s, as if a name is not found, default will be added." << endl;
+  }
   string input;
   getline(cin, input);
-  set<string> includedNames;
-  includedNames = split(input);
+  set<string> includedNames = split(input);
   if (includedNames.empty()) {
     if (strict) {
       cerr << "No names included." << endl;
-      exit(EXIT_FAILURE);
+      return 1;
     } else {
-      if (verbose) cout << "No names included. Using Default" << endl;
+      if (verbose)
+        cout << "No names included. Using Default" << endl;
       includedNames = names;
     }
   } else {
-    for (string n : includedNames) {
+    for (const string &n : includedNames) {
       if (names.count(n) == 0) { // not found
         if (strict) {
           cerr << "Name " << n << " not in list." << endl;
           exit(EXIT_FAILURE);
         } else {
-          if (verbose) cout << "Name " << n << " not in list. Using Default" << endl;
+          if (verbose)
+            cout << "Name " << n << " not in list. Using Default" << endl;
           includedNames = names; //default, everything goes
           break;
         }
@@ -172,7 +170,7 @@ int main(int argc, char** argv) {
   Generator gen(includedNames);
   
   // Flush stdin so it doesn't skip asking for spellcard count
-  fflush(stdin);
+  cout << std::flush;
   
   if (verbose) cout << "How many spellcard names do you want?" << endl;
   int num;
@@ -187,5 +185,4 @@ int main(int argc, char** argv) {
     default: gen.PrintA1();
     }
   }
-  return 0;
 }
