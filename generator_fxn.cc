@@ -1517,8 +1517,37 @@ Generator::Generator(const set<string> &characters){
       noun2.push_back("Nine Colors");
       noun2.push_back("the Rainbow");
     }
+    if (character == "Mernen") {
+      sign.push_back("Grass Sign");
+      sign.push_back("Starry Sky");
+      sign.push_back("Short Grass");
+      sign.push_back("Flower Sign");
+      sign.push_back("Grass's Anger");
+      adj.push_back("Resting");
+      adj.push_back("Starlight");
+      adj.push_back("Grass");
+      adj.push_back("Little");
+      adj.push_back("Sleeping");
+      adj.push_back("Pure");
+      adj.push_back("Corrupted");
+      adj.push_back("Golden");
+      noun.push_back("Butterfly");
+      noun.push_back("Wave");
+      noun.push_back("Grass");
+      noun.push_back("Flower");
+      noun.push_back("Pollen-Scattering");
+      noun.push_back("Buds");
+      noun.push_back("Leaves");
+      noun.push_back("Shooting");
+      noun.push_back("Darkness");
+      noun.push_back("Forest");
+      formatterList.push_back("Near the _");
+      formatterList.push_back("The _ Below Us");
+      formatterList.push_back("_ in the _");
+      noun2.push_back("the Wind");
+      noun2.push_back("the Trees");
+    }
   }
-  
 }
 
 string Generator::GenerateB1() {
@@ -1565,6 +1594,25 @@ string Generator::GenerateA4() {
     + " - " + (r2 == 0 ? GenerateB3() : r2 < 4 ? GenerateB2() : GenerateB1());
 }
 
+// Name with formatter
+string Generator::GenerateA5() {
+  // so we don't get single word names
+  if (formatterList.empty())
+    return GenerateA1();
+  string formatter = pick(formatterList);
+  int formL = formatter.length();
+  string res = pick(sign) + ": ";
+  for (int i = 0; i < formL; ++i) {
+    char c = formatter[i];
+    if (c != '_') {
+      res += c;
+    } else {
+      res += GenerateA5H();
+    }
+  }
+  return res;
+}
+
 void Generator::PrintA1() {
   cout << GenerateA1() << endl;
 }
@@ -1579,4 +1627,8 @@ void Generator::PrintA3() {
 
 void Generator::PrintA4() {
   cout << GenerateA4() << endl;
+}
+
+void Generator::PrintA5() {
+  cout << GenerateA5() << endl;
 }
