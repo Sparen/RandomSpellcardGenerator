@@ -62,6 +62,7 @@ int main(int argc, char** argv) {
     "Reimu",
     "Marisa",
     "Rumia",
+    "Cirno",
     "Flandre",
     "Letty",
     "Chen",

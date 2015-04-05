@@ -194,8 +194,47 @@ Generator::Generator(const set<string> &characters){
     }
     if (character=="Cirno"){
       //Touhou Canon
-
+      sign.push_back("Ice Sign");
+      sign.push_back("Hail Sign");
+      sign.push_back("Freeze Sign");
+      sign.push_back("Snow Sign");
+      sign.push_back("Frost Sign");
+      sign.push_back("Ice Clump");
+      sign.push_back("Cold Body");
+      sign.push_back("Cold Sign");
+      sign.push_back("Blowing Ice");
+      sign.push_back("Ice King");
+      adj.push_back("Icicle");
+      adj.push_back("Hail");
+      adj.push_back("Perfect");
+      adj.push_back("Diamond");
+      adj.push_back("Frost");
+      adj.push_back("Cold");
+      adj.push_back("Minus");
+      adj.push_back("Fairy");
+      adj.push_back("Sword");
+      adj.push_back("Insta-Freeze");
+      adj.push_back("Ultimate");
+      noun.push_back("Fall");
+      noun.push_back("Storm");
+      noun.push_back("Freeze");
+      noun.push_back("Blizzard");
+      noun.push_back("Columns");
+      noun.push_back("Divinity");
+      noun.push_back("K");
+      noun.push_back("Machine Gun");
+      noun.push_back("Fairy");
+      noun.push_back("Sprinkler");
+      noun.push_back("Freezer");
+      noun.push_back("Atmosphere");
+      noun.push_back("Beam");
+      noun.push_back("Tornado");
+      noun.push_back("Crusher");
+      noun.push_back("Glacialist");
+      noun.push_back("King");
       //Touhou Fanon
+      noun2.push_back("Absolute Zero");
+      noun2.push_back("Permafrost");
     }
     if (character=="Meiling"){
       //Touhou Canon
