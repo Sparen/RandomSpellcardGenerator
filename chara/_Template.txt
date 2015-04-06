@@ -1,0 +1,10 @@
+# Touhou Canon
+:sign
+:adj
+:noun
+:noun2
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
