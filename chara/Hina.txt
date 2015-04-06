@@ -1,0 +1,37 @@
+# Touhou Canon
+:sign
+Bad Luck Sign
+Flawed Sign
+Scar
+Evil Spirit
+Fate
+Wound Sign
+Cursed Field
+Calamity
+:adj
+Bad
+Misfortune's
+Old Lady Ohgane's
+Pain
+Exiled
+Purification
+Cursed Hina
+:noun
+Fortune
+Biorhythm
+Amulet
+Broken Charm
+Wheel
+Fire
+Flow
+Doll
+River Deposit
+Dolls
+:noun2
+the Misfortune God
+Protection
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2

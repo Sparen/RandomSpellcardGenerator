@@ -9,6 +9,8 @@ Formatters use underscores for parts that are replaced by random phrases.
 
 For each major category (Touhou Canon, Touhou Fanon, etc), please use a separate sign:, etc. Also, you MUST have one entry for each category except :formatter, or there will be errors.
 
+Please refer to _Template.txt when starting out.
+
 All you need to do is send a pull request, and add the character into the main README.md and the manifest.txt in the correct position.
 
 Note on citing sources:

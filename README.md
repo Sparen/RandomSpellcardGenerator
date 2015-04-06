@@ -53,6 +53,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [09] Eiki Shiki Yamaxanadu "Shikieiki", "Eiki" 				<br>
 [10] Shizuha Aki "Shizuha"						<br>
 [10] Minoriko Aki "Minoriko"						<br>
+[10] Hina Kagiyama "Hina"						<br>
 [10] Nitori Kawashiro "Nitori"						<br>
 [10] Momiji Inubashiri "Momiji"						<br>
 [11] Kisume "Kisume"							<br>
