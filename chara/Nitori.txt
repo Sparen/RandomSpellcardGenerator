@@ -53,7 +53,7 @@ Gun
 :adj
 Megawatt
 # Byzantheryx Nitori
-Articifial
+Artificial
 # Byzantheryx Nitori
 Stealth
 # Byzantheryx Nitori
