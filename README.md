@@ -24,7 +24,7 @@ Options:<br>
 
 ## Supported Characters ##
 
-Please note that the names you type in are the ones in quotes.<br>
+Please note that the names you type in are the ones in quotes. Any of the names in quotes is acceptable<br>
 Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br>
 [+Name] means that spellcard names from the given scripter's work have been added into the database. e.g. [+Darkness1, AJS]<br>
 {+Name} means that spellcard names from the given game have been added into the database. e.g. {+CtC, FoS, WNSP}
