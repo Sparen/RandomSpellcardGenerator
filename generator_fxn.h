@@ -5,6 +5,8 @@
 #include <string>
 #include <cstdlib>
 
+enum FileReadMode {FR_SIGN, FR_ADJ, FR_NOUN, FR_NOUN2, FR_FORMATTER};
+
 class Generator{
  private:
   template<typename T>
@@ -27,6 +29,7 @@ class Generator{
   std::vector<std::string> formatterList;
 
   Generator(const std::set<std::string> &characters);
+  void load(const std::string &character);
   std::string GenerateB1();
   std::string GenerateB2();
   std::string GenerateB3();

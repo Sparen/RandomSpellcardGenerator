@@ -1,0 +1,58 @@
+#Touhou Canon
+:sign
+Spirit Sign
+Dream Sign
+Divine Spirit
+Divine Arts
+Scattered Spirit
+Migrating Spirit
+Dream Land
+Treasure Sign
+Holy Relic
+Power Sign
+Dream Battle
+Jewel Sign
+Prayer
+Light Spirit
+Barrier
+Treasure
+Charm
+Talisman
+Amulet
+Omikuji
+:adj
+Fantasy
+Omnidirectional
+Demon-Binding
+Dragon-Slaying
+Duplex
+Hakurei
+Yin-Yang
+Sky-Conquering
+Disaster-Dispelling
+Dancing
+Wild Exorcising
+Expanding
+Youkai-Repelling
+Shrine Prosperity
+Anti-Youkai
+:noun
+Seal
+Sign
+Circle
+Orb
+Treasured Orb
+Moon
+Orb String
+Demon God Orb
+Barrier
+Danmaku Barrier
+Illusion
+Wind-God Kick
+Dimensional Kick
+Scattering
+:noun2
+Exorcism
+Light
+Sealing
+#Touhou Fanon

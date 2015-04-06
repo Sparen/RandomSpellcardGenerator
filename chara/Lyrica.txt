@@ -1,0 +1,37 @@
+# Touhou Canon
+:sign
+Nether Keys
+Key Spirit
+Noise Sign
+:adj
+Fazioli
+Bosendorfer
+Soul Noise
+:noun
+Nether Performance
+Divine Performance
+Flow
+# Touhou Fanon
+# Common
+# Touhou Canon
+:sign
+Noise Sign
+Funeral Concert
+Noisy Funeral
+Great Funeral Concert
+:adj
+Phantom
+Live
+Prism
+Stygian
+Ghostly Wheel
+:noun
+Dinning
+Poltergeist
+Concerto
+Riverside
+Concerto Grosso
+# Touhou Fanon
+:noun2
+Melody
+Harmony

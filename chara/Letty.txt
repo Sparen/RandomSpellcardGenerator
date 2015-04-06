@@ -1,0 +1,21 @@
+# Touhou Canon'
+:sign
+Cold Sign
+Winter Sign
+White Sign
+Mystic Sign
+:adj
+Lingering
+Flower
+Undulation
+Cold
+Northern
+:noun
+Cold
+Wither Away
+Ray
+Snap
+Winter
+# Touhou Fanon
+:noun2
+Frost

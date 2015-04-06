@@ -1,0 +1,99 @@
+# Touhou Canon
+:sign
+Light Sign
+Light Blast
+Love Sign
+Love Storm
+Star Sign
+Ritual Sign
+Ritualic Space
+Magic Space
+Magic Waste
+Black Magic
+Astronomical Instrument
+Magicannon
+Loving Heart
+Comet
+Armillary
+Light Flow
+Magic Bullet
+Closure Sign
+Unsealed Magic
+Magic Cross
+Shooting Star
+:adj
+Earth
+Earthlight
+Dark
+Master
+Dragon
+Blazing
+Asteroid
+Milky
+Final
+Double
+Event
+Light
+Non-Directional
+Stardust
+Starlight
+Illusion
+Orreries
+Escape
+Meteonic
+Luminous
+Ultimate
+Gravity
+Ecological
+Eccentric
+Shooting
+Magical
+Mysterious
+Grand
+Super
+Satellite
+:noun
+Spark
+Laser
+Light
+Star
+Sun
+Belt
+Solar System
+Ray
+Reverie
+Way
+Flashlight
+Horizon
+Typhoon
+Meteor
+Velocity
+Shower
+Strike
+Universe
+Shortwave
+Bomb
+Beam
+Asteroid
+Echo
+Moon
+Flashlight
+Cross
+Perseid
+Illusion
+Pulsar
+# Touhou Fanon
+:sign
+Light Dance
+Reflection
+Refraction
+:adj
+Bright
+Reflective
+Refractive
+Astral
+:noun
+Comet
+:noun2
+the Stars
+the Sky

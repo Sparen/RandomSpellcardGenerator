@@ -1,0 +1,36 @@
+# Touhou Canon
+:sign
+Trumpet Spirit
+Nether Trumpet
+Noise Sign
+:adj
+Hino
+Ghost
+Merlin Happy
+:noun
+Phantasm
+Clifford
+# Touhou Fanon
+# Common
+# Touhou Canon
+:sign
+Noise Sign
+Funeral Concert
+Noisy Funeral
+Great Funeral Concert
+:adj
+Phantom
+Live
+Prism
+Stygian
+Ghostly Wheel
+:noun
+Dinning
+Poltergeist
+Concerto
+Riverside
+Concerto Grosso
+# Touhou Fanon
+:noun2
+Melody
+Harmony

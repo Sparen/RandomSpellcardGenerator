@@ -1,14 +1,19 @@
+#include <cstring>
+#include <cstdlib>
 #include <string>
 #include <vector>
 #include <iostream>
 #include <set>
+#include <fstream>
 #include "generator_fxn.h"
 
 using std::vector;
 using std::cout;
+using std::cerr;
 using std::endl;
 using std::string;
 using std::set;
+using std::ifstream;
 
 /*Generates: "<sign>: <noun> of <noun2>" or "<sign> Sign: <adj> <noun>"
 */
@@ -20,218 +25,9 @@ Generator::Generator(const set<string> &characters){
   //Remember to cite sources for particularly interesting or creative words and phrases (see Yuuka for an example)
   /*****************************OFFICIAL ONLY*****************************/
   for (const string &character : characters) {
-    if (character=="Reimu"){
-      //Touhou Canon
-      sign.push_back("Spirit Sign");
-      sign.push_back("Dream Sign");
-      sign.push_back("Divine Spirit");
-      sign.push_back("Divine Arts");
-      sign.push_back("Scattered Spirit");
-      sign.push_back("Migrating Spirit");
-      sign.push_back("Dream Land");
-      sign.push_back("Treasure Sign");
-      sign.push_back("Holy Relic");
-      sign.push_back("Power Sign");
-      sign.push_back("Dream Battle");
-      sign.push_back("Jewel Sign");
-      sign.push_back("Prayer");
-      sign.push_back("Light Spirit");
-      sign.push_back("Barrier");
-      sign.push_back("Treasure");
-      sign.push_back("Charm");
-      sign.push_back("Talisman");
-      sign.push_back("Amulet");
-      sign.push_back("Omikuji");
-      adj.push_back("Fantasy");
-      adj.push_back("Omnidirectional");
-      adj.push_back("Demon-Binding");
-      adj.push_back("Dragon-Slaying");
-      adj.push_back("Duplex");
-      adj.push_back("Hakurei");
-      adj.push_back("Yin-Yang");
-      adj.push_back("Sky-Conquering");
-      adj.push_back("Disaster-Dispelling");
-      adj.push_back("Dancing");
-      adj.push_back("Wild Exorcising");
-      adj.push_back("Expanding");
-      adj.push_back("Youkai-Repelling");
-      adj.push_back("Shrine Prosperity");
-      adj.push_back("Anti-Youkai");
-      noun.push_back("Seal");
-      noun.push_back("Sign");
-      noun.push_back("Circle");
-      noun.push_back("Orb");
-      noun.push_back("Treasured Orb");
-      noun.push_back("Moon");
-      noun.push_back("Orb String");
-      noun.push_back("Demon God Orb");
-      noun.push_back("Barrier");
-      noun.push_back("Danmaku Barrier");
-      noun.push_back("Illusion");
-      noun.push_back("Wind-God Kick");
-      noun.push_back("Dimensional Kick");
-      noun.push_back("Scattering");
-      noun2.push_back("Exorcism");
-      noun2.push_back("Light");
-      noun2.push_back("Sealing");
-      //Touhou Fanon 
-
-    }
-    if (character == "Marisa" || character == "DEFAULT") {
-      // Touhou Canon
-      sign.push_back("Light Sign");
-      sign.push_back("Light Blast");
-      sign.push_back("Love Sign");
-      sign.push_back("Love Storm");
-      sign.push_back("Star Sign");
-      sign.push_back("Ritual Sign");
-      sign.push_back("Ritualic Space");
-      sign.push_back("Magic Space");
-      sign.push_back("Magic Waste");
-      sign.push_back("Black Magic");
-      sign.push_back("Astronomical Instrument");
-      sign.push_back("Magicannon");
-      sign.push_back("Loving Heart");
-      sign.push_back("Comet");
-      sign.push_back("Armillary");
-      sign.push_back("Light Flow");
-      sign.push_back("Magic Bullet");
-      sign.push_back("Closure Sign");
-      sign.push_back("Unsealed Magic");
-      sign.push_back("Magic Cross");
-      sign.push_back("Shooting Star");
-      adj.push_back("Earth");
-      adj.push_back("Earthlight");
-      adj.push_back("Dark");
-      adj.push_back("Master");
-      adj.push_back("Dragon");
-      adj.push_back("Blazing");
-      adj.push_back("Asteroid");
-      adj.push_back("Milky");
-      adj.push_back("Final");
-      adj.push_back("Double");
-      adj.push_back("Event");
-      adj.push_back("Light");
-      adj.push_back("Non-Directional");
-      adj.push_back("Stardust");
-      adj.push_back("Starlight");
-      adj.push_back("Illusion");
-      adj.push_back("Orreries");
-      adj.push_back("Escape");
-      adj.push_back("Meteonic");
-      adj.push_back("Luminous");
-      adj.push_back("Ultimate");
-      adj.push_back("Gravity");
-      adj.push_back("Ecological");
-      adj.push_back("Eccentric");
-      adj.push_back("Shooting");
-      adj.push_back("Magical");
-      adj.push_back("Mysterious");
-      adj.push_back("Grand");
-      adj.push_back("Super");
-      adj.push_back("Satellite");
-      noun.push_back("Spark");
-      noun.push_back("Laser");
-      noun.push_back("Light");
-      noun.push_back("Star");
-      noun.push_back("Sun");
-      noun.push_back("Belt");
-      noun.push_back("Solar System");
-      noun.push_back("Ray");
-      noun.push_back("Reverie");
-      noun.push_back("Way");
-      noun.push_back("Flashlight");
-      noun.push_back("Horizon");
-      noun.push_back("Typhoon");
-      noun.push_back("Meteor");
-      noun.push_back("Velocity");
-      noun.push_back("Shower");
-      noun.push_back("Strike");
-      noun.push_back("Universe");
-      noun.push_back("Shortwave");
-      noun.push_back("Bomb");
-      noun.push_back("Beam");
-      noun.push_back("Asteroid");
-      noun.push_back("Echo");
-      noun.push_back("Moon");
-      noun.push_back("Flashlight");
-      noun.push_back("Cross");
-      noun.push_back("Perseid");
-      noun.push_back("Illusion");
-      noun.push_back("Pulsar");
-      // Touhou Fanon
-      sign.push_back("Light Dance");
-      sign.push_back("Reflection");
-      sign.push_back("Refraction");
-      adj.push_back("Bright");
-      adj.push_back("Reflective");
-      adj.push_back("Refractive");
-      adj.push_back("Astral");
-      noun.push_back("Comet");
-      noun2.push_back("the Stars");
-      noun2.push_back("the Sky");
-    }
-    if (character=="Rumia"){
-      //Touhou Canon
-      sign.push_back("Moon Sign");
-      sign.push_back("Night Sign");
-      sign.push_back("Darkness Sign");
-      adj.push_back("Moonlight");
-      adj.push_back("Night");
-      adj.push_back("Midnight");
-      noun.push_back("Ray");
-      noun.push_back("Bird");
-      noun.push_back("Demarcation");
-      noun.push_back("Dark Side");
-      noun2.push_back("the Moon");
-      //Touhou Fanon
-    }
+    load(character);
     if (character=="Daiyousei"){
       //Touhou Fanon
-    }
-    if (character=="Cirno"){
-      //Touhou Canon
-      sign.push_back("Ice Sign");
-      sign.push_back("Hail Sign");
-      sign.push_back("Freeze Sign");
-      sign.push_back("Snow Sign");
-      sign.push_back("Frost Sign");
-      sign.push_back("Ice Clump");
-      sign.push_back("Cold Body");
-      sign.push_back("Cold Sign");
-      sign.push_back("Blowing Ice");
-      sign.push_back("Ice King");
-      adj.push_back("Icicle");
-      adj.push_back("Hail");
-      adj.push_back("Perfect");
-      adj.push_back("Diamond");
-      adj.push_back("Frost");
-      adj.push_back("Cold");
-      adj.push_back("Minus");
-      adj.push_back("Fairy");
-      adj.push_back("Sword");
-      adj.push_back("Insta-Freeze");
-      adj.push_back("Ultimate");
-      noun.push_back("Fall");
-      noun.push_back("Storm");
-      noun.push_back("Freeze");
-      noun.push_back("Blizzard");
-      noun.push_back("Columns");
-      noun.push_back("Divinity");
-      noun.push_back("K");
-      noun.push_back("Machine Gun");
-      noun.push_back("Fairy");
-      noun.push_back("Sprinkler");
-      noun.push_back("Freezer");
-      noun.push_back("Atmosphere");
-      noun.push_back("Beam");
-      noun.push_back("Tornado");
-      noun.push_back("Crusher");
-      noun.push_back("Glacialist");
-      noun.push_back("King");
-      //Touhou Fanon
-      noun2.push_back("Absolute Zero");
-      noun2.push_back("Permafrost");
     }
     if (character=="Meiling"){
       //Touhou Canon
@@ -256,81 +52,6 @@ Generator::Generator(const set<string> &characters){
 
       //Touhou Fanon
     }
-    if (character=="Flandre"){
-      //Touhou Canon
-      sign.push_back("Taboo");
-      sign.push_back("Forbidden Barrage");
-      sign.push_back("Secret Barrage");
-      sign.push_back("Q.E.D.");
-      adj.push_back("Cranberry");
-      adj.push_back("Starbow");
-      adj.push_back("Forbidden");
-      noun.push_back("Trap");
-      noun.push_back("Maze");
-      noun.push_back("Catadioptric");
-      noun.push_back("Clock");
-      noun.push_back("Ripples");
-      noun.push_back("Fruit");
-      noun.push_back("Games");
-      noun2.push_back("Love");
-      noun2.push_back("495 Years");
-      //Touhou Fanon
-    }
-    if (character=="Letty"){
-      //Touhou Canon
-      sign.push_back("Cold Sign");
-      sign.push_back("Winter Sign");
-      sign.push_back("White Sign");
-      sign.push_back("Mystic Sign");
-      adj.push_back("Lingering");
-      adj.push_back("Flower");
-      adj.push_back("Undulation");
-      adj.push_back("Cold");
-      adj.push_back("Northern");
-      noun.push_back("Cold");
-      noun.push_back("Wither Away");
-      noun.push_back("Ray");
-      noun.push_back("Snap");
-      noun.push_back("Winter");
-      //Touhou Fanon
-      noun2.push_back("Frost");
-    }
-    if (character=="Chen"){
-      //Touhou Canon
-      sign.push_back("Hermit Sign");
-      sign.push_back("Shikigami Sign");
-      sign.push_back("Child Sign");
-      sign.push_back("Flight Sign");
-      sign.push_back("Heaven Sign");
-      sign.push_back("Oni Sign");
-      sign.push_back("Direction Sign");
-      sign.push_back("Star Sign");
-      sign.push_back("Yin Yang");
-      sign.push_back("Cat Monster");
-      sign.push_back("Oni God");
-      adj.push_back("Phoenix");
-      adj.push_back("Pentagram");
-      adj.push_back("Large Pentagram");
-      adj.push_back("Immortal Sage's");
-      adj.push_back("Incarnate");
-      adj.push_back("Soaring");
-      adj.push_back("Jumping Crossing");
-      adj.push_back("Rumbling");
-      noun.push_back("Egg");
-      noun.push_back("Spread Wings");
-      noun.push_back("Flight");
-      noun.push_back("Crest");
-      noun.push_back("Rumbling");
-      noun.push_back("Sage");
-      noun.push_back("Rampage");
-      noun.push_back("Konjin");
-      noun.push_back("Bishamonten");
-      noun.push_back("Scale");
-      noun.push_back("Jikoku-ten");
-      noun2.push_back("Idaten");
-      noun2.push_back("the Demon's Gate");
-      //Touhou Fanon
-    }
     if (character=="Alice"){
       //Touhou Canon
 
@@ -338,63 +59,6 @@ Generator::Generator(const set<string> &characters){
     }
     if (character=="Lily"){
       //Touhou Fanon
-    }
-    if (character=="Merlin"){
-      //Touhou Canon
-      sign.push_back("Trumpet Spirit");
-      sign.push_back("Nether Trumpet");
-      sign.push_back("Noise Sign");
-      adj.push_back("Hino");
-      adj.push_back("Ghost");
-      adj.push_back("Merlin Happy");
-      noun.push_back("Phantasm");
-      noun.push_back("Clifford");
-      //Touhou Fanon
-    }
-    if (character=="Lyrica"){
-      //Touhou Canon
-      sign.push_back("Nether Keys");
-      sign.push_back("Key Spirit");
-      sign.push_back("Noise Sign");
-      adj.push_back("Fazioli");
-      adj.push_back("Bosendorfer");
-      adj.push_back("Soul Noise");
-      noun.push_back("Nether Performance");
-      noun.push_back("Divine Performance");
-      noun.push_back("Flow");
-      //Touhou Fanon
-    }
-    if (character=="Lunasa"){
-      //Touhou Canon
-      sign.push_back("String Performance");
-      sign.push_back("Divine Strings");
-      sign.push_back("Fake Strings");
-      sign.push_back("Noise Sign");
-      adj.push_back("Pseudo");
-      adj.push_back("Noise");
-      noun.push_back("Stradivarius");
-      noun.push_back("Melancholy");
-      //Touhou Fanon
-    }
-    if (character=="Merlin" || character=="Lyrica" || character=="Lunasa"){
-      //Touhou Canon
-      sign.push_back("Noise Sign");
-      sign.push_back("Funeral Concert");
-      sign.push_back("Noisy Funeral");
-      sign.push_back("Great Funeral Concert");
-      adj.push_back("Phantom");
-      adj.push_back("Live");
-      adj.push_back("Prism");
-      adj.push_back("Stygian");
-      adj.push_back("Ghostly Wheel");
-      noun.push_back("Dinning");
-      noun.push_back("Poltergeist");
-      noun.push_back("Concerto");
-      noun.push_back("Riverside");
-      noun.push_back("Concerto Grosso");
-      //Touhou Fanon
-      noun2.push_back("Melody");
-      noun2.push_back("Harmony");
     }
     if (character=="Youmu"){
       //Touhou Canon
@@ -404,44 +68,6 @@ Generator::Generator(const set<string> &characters){
     if (character=="Yuyuko"){
       //Touhou Canon
 
-      //Touhou Fanon
-    }
-    if (character=="Ran"){
-      //Touhou Canon
-      sign.push_back("Shikigami");
-      sign.push_back("Shikigami's Radiance");
-      sign.push_back("Shikigami's Shot");
-      sign.push_back("Illusion God");
-      sign.push_back("Secret Sign");
-      sign.push_back("Austerity Sign");
-      sign.push_back("Superman");
-      adj.push_back("Hermit Fox");
-      adj.push_back("Fox-Tanuki Youkai");
-      adj.push_back("Charming");
-      adj.push_back("Princess");
-      adj.push_back("Ultimate");
-      adj.push_back("Unilateral");
-      adj.push_back("Kokkuri-san's");
-      adj.push_back("Heavenly");
-      adj.push_back("O-Daishi-sama's");
-      adj.push_back("Eighty Million");
-      adj.push_back("Soaring");
-      noun.push_back("Thoughts");
-      noun.push_back("Banquet");
-      noun.push_back("Laser");
-      noun.push_back("Seige");
-      noun.push_back("Tenko");
-      noun.push_back("Buddhist");
-      noun.push_back("Contact");
-      noun.push_back("Descent");
-      noun.push_back("Protection");
-      noun.push_back("Possession");
-      noun.push_back("Arcanum");
-      noun.push_back("Holy Boards");
-      noun.push_back("En no Ozuno");
-      noun2.push_back("Twelve General Gods");
-      noun2.push_back("Izuna Gongen");
-      noun2.push_back("Zenki and Goki");
       //Touhou Fanon
     }
     if (character=="Yukari"){
@@ -1545,6 +1171,38 @@ Generator::Generator(const set<string> &characters){
       noun2.push_back("the Trees");
     }
   }
+}
+
+void Generator::load(const string &character) {
+  char lineBuff[256];
+  ifstream inFile("chara/" + character + ".txt");
+  int mode = FR_SIGN;
+  while (!inFile.eof()) {
+    inFile.getline(lineBuff, 256);
+    if (*lineBuff == '#') continue;
+    if (*lineBuff == ':') {
+      char* label = lineBuff + 1;
+      if (!strcmp(label, "sign")) mode = FR_SIGN;
+      else if (!strcmp(label, "adj")) mode = FR_ADJ;
+      else if (!strcmp(label, "noun")) mode = FR_NOUN;
+      else if (!strcmp(label, "noun2")) mode = FR_NOUN2;
+      else if (!strcmp(label, "formatter")) mode = FR_FORMATTER;
+      else {
+        cerr << lineBuff << " is not a valid label" << endl;
+        inFile.close();
+        exit(EXIT_FAILURE);
+      }
+    } else {
+      switch (mode) {
+        case FR_SIGN: sign.push_back(lineBuff); break;
+        case FR_ADJ: adj.push_back(lineBuff); break;
+        case FR_NOUN: noun.push_back(lineBuff); break;
+        case FR_NOUN2: noun2.push_back(lineBuff); break;
+        case FR_FORMATTER: formatterList.push_back(lineBuff);
+      }
+    }
+  }
+  inFile.close();
 }
 
 string Generator::GenerateB1() {
