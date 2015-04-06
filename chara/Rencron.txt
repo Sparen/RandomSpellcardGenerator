@@ -1,0 +1,25 @@
+# TODO add more stuff
+:sign
+Leaf Sign
+Earth Sign
+Wind Sign
+Tree Sign
+Seed Sign
+Grass Sign
+:adj
+Leaf-Ejecting
+Unknown
+Wily
+Silver
+:noun
+Salamander
+Wind
+Sword
+Bow
+Guard
+Arrows
+Sunrise
+Namu-Tori
+:noun2
+the Deep Forest
+the Horizon

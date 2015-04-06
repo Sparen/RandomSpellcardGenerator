@@ -1,0 +1,33 @@
+:sign
+Grass Sign
+Starry Sky
+Short Grass
+Flower Sign
+Grass's Anger
+:adj
+Resting
+Starlight
+Grass
+Little
+Sleeping
+Pure
+Corrupted
+Golden
+:noun
+Butterfly
+Wave
+Grass
+Flower
+Pollen-Scattering
+Buds
+Leaves
+Shooting
+Darkness
+Forest
+:formatter
+Near the _
+The _ Below Us
+_ in the _
+:noun2
+the Wind
+the Trees

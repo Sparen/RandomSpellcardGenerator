@@ -1,42 +1,42 @@
 # Touhou Canon
 :sign
-sign.push_back("Evil Sign");
-sign.push_back("Demonify");
-sign.push_back("Necromancy");
-sign.push_back("Spirit Link");
-sign.push_back("Path Sign");
-sign.push_back("Hermit Arts");
+Evil Sign
+Demonify
+Necromancy
+Spirit Link
+Path Sign
+Hermit Arts
 :adj
-adj.push_back("Yang");
-adj.push_back("Guhun");
-adj.push_back("Zuohuo");
-adj.push_back("Tongling");
-adj.push_back("Corpse");
-adj.push_back("Fetal");
-adj.push_back("Excessive");
-adj.push_back("Wall");
-adj.push_back("Wall-Phasing");
+Yang
+Guhun
+Zuohuo
+Tongling
+Corpse
+Fetal
+Excessive
+Wall
+Wall-Phasing
 :noun
-noun.push_back("Xiaogui");
-noun.push_back("Yegui");
-noun.push_back("Rumo");
-noun.push_back("Tongji");
-noun.push_back("Yoshika");
-noun.push_back("Movement");
-noun.push_back("Runner");
-noun.push_back("Wormhole");
+Xiaogui
+Yegui
+Rumo
+Tongji
+Yoshika
+Movement
+Runner
+Wormhole
 # Touhou Fanon
 :sign
 # PhantomSong Seiga
-sign.push_back("Corruption");
-sign.push_back("Hermit Sign");
+Corruption
+Hermit Sign
 :adj
 # PhantomSong Seiga
-adj.push_back("Wicked");
+Wicked
 # PhantomSong Seiga
-adj.push_back("Divine");
+Divine
 :noun
 # PhantomSong Seiga
-noun.push_back("Spirit");
+Spirit
 :noun2
-noun2.push_back("the Evil Hermit");
+the Evil Hermit

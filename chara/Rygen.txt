@@ -1,0 +1,44 @@
+:sign
+Light Sign
+Rainbow Sign
+Red Sign
+Green Sign
+Blue Sign
+Cyan Sign
+Magenta Sign
+Yellow Sign
+Nine Colors
+:adj
+Superluminal
+Mystic
+Spectrum
+Impulse
+Experimental
+Fox's
+Stygian
+Mirror
+Spherical
+Great
+Sinusoidal
+First
+Second
+Spiral
+Cumulonimbus-Ascending
+:noun
+Beam
+Quake
+Expansion
+Laser
+Familiar
+Wall
+Cave-Searching
+Blue
+Mirror
+Reflection
+Optics
+Paddle
+Clock
+Ladder
+:noun2
+Nine Colors
+the Rainbow
