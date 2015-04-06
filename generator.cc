@@ -94,10 +94,11 @@ int main(int argc, char** argv) {
   srand(time(nullptr));
   //Obtain input from user on character
   if (verbose) {
-    cout << "Please type the name of the character whose cards you want to generate." << endl;
-    cout << "Example: Reimu, Udonge, Rumia, Tewi, Shinmyoumaru, Minamitsu" << endl;
+    cout << "Please type the name of the character(s) whose cards you want to generate." << endl;
+    cout << "Example: Reimu Marisa" << endl;
     cout << "You can type multiple names to mix and match signs and phrases between multiple characters." << endl;
     cout << "If you decide to use this option, please use the option -s, as if a name is not found, default will be added." << endl;
+    cout << "If you want the default (everything goes) option, type literally anything that's not a name." << endl;
   }
 
   string input;

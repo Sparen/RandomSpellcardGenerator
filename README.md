@@ -1,5 +1,5 @@
 ## Random Spellcard Name Generator ##
-This is a program that will generate spellcard names based on existing ones.
+This is a program that will generate spellcard names based on existing ones. Need a spellcard for a dual boss? Want to laugh? Well then, this program is for you!
 
 To compile:
 
