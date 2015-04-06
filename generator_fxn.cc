@@ -23,6 +23,7 @@ Generator::Generator(const set<string> &characters){
   //There MUST be at least one of each category (sign, adj, noun, noun2)
   //Any non-canon words go under fanon. 
   //Remember to cite sources for particularly interesting or creative words and phrases (see Yuuka for an example)
+  // XXX: please do not add data here; instead, use text files. <3, Fluffy8x.
   /*****************************OFFICIAL ONLY*****************************/
   for (const string &character : characters) {
     load(character);

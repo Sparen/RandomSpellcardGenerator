@@ -4,6 +4,8 @@
 #include <vector>
 #include <iostream>
 #include <set>
+#include <map>
+#include <fstream>
 #include "generator_fxn.h"
 #include "config.h"
 #include "wordsep.h"
@@ -16,6 +18,10 @@ using std::endl;
 using std::string;
 using std::set;
 using std::getline;
+using std::map;
+using std::ifstream;
+
+void getNames(set<string> &names, map<string, string> &aliases);
 
 /****************************************************
  * RANDOM SPELLCARD NAME GENERATOR by Sparen, 2015  *
@@ -56,60 +62,9 @@ int main(int argc, char** argv) {
   // Moved the name declaration here so we can list all the names if the user prompts to do so.
   /*Please add in order of game # shown. See generator_fxn.cc for order*/
   /*****************************OFFICIAL ONLY*****************************/
-  set<string> names = {
-    "Reimu",
-    "Marisa",
-    "Rumia",
-    "Cirno",
-    "Flandre",
-    "Letty",
-    "Chen",
-    "Lyrica", "Lunasa", "Merlin",
-    "Ran",
-    "Wriggle",
-    "Mystia",
-    "Keine",
-    "Tewi",
-    "Mokou",
-    "Medicine",
-    "Yuuka",
-    "Shikieiki",
-    "Shizuha",
-    "Minoriko",
-    "Momiji",
-    "Kisume",
-    "Yamame",
-    "Parsee",
-    "Yuugi",
-    "Satori",
-    "Orin",
-    "Utsuho",
-    "Nazrin",
-    "Kogasa",
-    "Minamitsu",
-    "Shou",
-    "Hatate",
-    "Kyouko",
-    "Yoshika",
-    "Seiga",
-    "Wakasagihime",
-    "Sekibanki",
-    "Kagerou",
-    "Benben",
-    "Yatsuhashi",
-    /*****************************SPINOFF ONLY*****************************/
-    /*****************************IDO*****************************/
-    /*****************************LEN'EN*****************************/
-    /*****************************SEITENTOUJI*****************************/
-    /*****************************NANSEI*****************************/
-    /*****************************CHOUYOU*****************************/
-    "Rencron",
-    //"Reiri",
-    "Rygen",
-    //"Nikou",
-    "Mernen",
-  };
-  
+  set<string> names;
+  map<string, string> aliases;
+  getNames(names, aliases);
   if (HAS(c, F_HELP)) {
     cout << endl << "RANDOM SPELLCARD NAME GENERATOR BY SPAREN" << endl;
     cout << "Options:\n\
@@ -153,7 +108,13 @@ int main(int argc, char** argv) {
   } else {
     for (const string &n : includedNames) {
       if (names.count(n) == 0) { // not found
-        if (strict) {
+        string alias;
+        //  Yes, this is a single equals sign.         --v Not a derp or a typo.
+        if (aliases.count(n) != 0 && names.count(alias = aliases[n]) != 0) { // search for aliases
+          includedNames.erase(n);
+          includedNames.insert(alias);
+        }
+        else if (strict) {
           cerr << "Name " << n << " not in list." << endl;
           exit(EXIT_FAILURE);
         } else {
@@ -186,4 +147,21 @@ int main(int argc, char** argv) {
     default: gen.PrintA1();
     }
   }
+}
+
+void getNames(set<string> &names, map<string, string> &aliases) {
+  char lineBuff[256];
+  ifstream inFile("chara/manifest.txt");
+  while (!inFile.eof()) {
+    inFile.getline(lineBuff, 256);
+    if (*lineBuff == '#') continue;
+    char* curr = strtok(lineBuff, " ,");
+    char* first = curr;
+    names.insert(curr);
+    while (curr != nullptr) {
+      curr = strtok(nullptr, " ,");
+      if (curr != nullptr) aliases[string(curr)] = string(first);
+    }
+  }
+  inFile.close();
 }
