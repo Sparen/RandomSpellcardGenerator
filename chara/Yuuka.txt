@@ -10,29 +10,33 @@ Beauty
 Gensokyo
 Nature
 # Touhou Fanon
+:sign
 Nature Sign
-# Darkness 1 Yuuka
+# Darkness1 Yuuka
 Magic Growth
-# Darkness 1 Yuuka
+# Darkness1 Yuuka
 Reawakening
 Phantasm
-# Darkness 1 Yuuka
+# Darkness1 Yuuka
 Ultimate Magic
+:adj
 Dual
-# Darkness 1 Yuuka
+# Darkness1 Yuuka
 Netherworld
 Infinite
-# Darkness 1 Yuuka
+# Darkness1 Yuuka
 Grasping
 Energy
 Floral
+:noun
 Blossom
 Blooming
-# Darkness 1 Yuuka
+# Darkness1 Yuuka
 Thicket
 Devourer
-# Darkness 1 Yuuka
+# Darkness1 Yuuka
 Illusion
 Petals
-# Darkness 1 Yuuka
-the Ageless FLower
+:noun2
+# Darkness1 Yuuka
+the Ageless Flower

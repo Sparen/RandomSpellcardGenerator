@@ -25,4 +25,5 @@ Pounce
 :noun2
 the Full Moon
 # Touhou Fanon
+:noun2
 the Werewolf
