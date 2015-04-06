@@ -35,7 +35,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [02] Marisa Kirisame "Marisa"						<br>
 [06] Rumia "Rumia"							<br>
 [06] Cirno "Cirno"							<br>
-[06] Flandre Scarlet "Flandre"						<br>
+[06] Flandre Scarlet "Flandre" [+PhantomSong]				<br>
 [07] Letty Whiterock "Letty"						<br>
 [07] Chen "Chen"							<br>
 [07] Lyrica Prismriver "Lyrica"						<br>
