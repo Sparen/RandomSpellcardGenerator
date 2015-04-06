@@ -55,7 +55,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [10] Shizuha Aki "Shizuha"						<br>
 [10] Minoriko Aki "Minoriko"						<br>
 [10] Hina Kagiyama "Hina"						<br>
-[10] Nitori Kawashiro "Nitori"						<br>
+[10] Nitori Kawashiro "Nitori" [+Byzantheryx]				<br>
 [10] Momiji Inubashiri "Momiji"						<br>
 [10] Sanae Kochiya "Sanae"						<br>
 [10] Kanako Yasaka "Kanako"						<br>
@@ -65,7 +65,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [11] Yuugi Hoshiguma "Yuugi", "Yugi"					<br>
 [11] Satori Komeiji "Satori"						<br>
 [11] Rin Kaenbyou "Orin"						<br>
-[11] Utsuho Reiuji "Utsuho", "Okuu"					<br>
+[11] Utsuho Reiuji "Utsuho", "Okuu" [+Rogus]				<br>
 [12] Nazrin "Nazrin"							<br>
 [12] Kogasa Tatara "Kogasa"						<br>
 [12] Minamitsu Murasa "Minamitsu", "Murasa"				<br>

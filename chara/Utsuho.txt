@@ -65,5 +65,23 @@ Fall
 Septentrion
 Great Stars
 # Touhou Fanon
+:sign
+# Rogus Utsuho
+Solar Flare
+# Rogus Utsuho
+Astronomical Heirarchy
+Nuclear Meltdown
+:adj
+# Rogus Utsuho
+Immeasurable
+# Rogus Utsuho
+Multistellar
+Blazing Power
+:noun
+Nuclear Energy
+# Rogus Utsuho
+Orbital System
+# Rogus Utsuho
+Excursion
 :noun2
 the Yatagarasu
