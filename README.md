@@ -1,7 +1,5 @@
 ## Random Spellcard Name Generator ##
-This is a little project of mine that will generate spellcard names. Although it's mainly for fun, I may expand it/contort it.
-
-Note that the 'sign' portion of the spell name is random - 'Dream Sign' has the same likelihood of appearing that 'Light Spirit' has.
+This is a program that will generate spellcard names based on existing ones.
 
 To compile:
 
@@ -26,7 +24,7 @@ Options:<br>
 
 ## Supported Characters ##
 
-Please note that the names you type in are the ones in quotes. Any of the names in quotes is acceptable<br>
+Please note that the names you type in are the ones in quotes. Any of the names in quotes is acceptable. Try to use the first one, however.<br>
 Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br>
 [+Name] means that spellcard names from the given scripter's work have been added into the database. e.g. [+Darkness1, AJS]<br>
 {+Name} means that spellcard names from the given game have been added into the database. e.g. {+CtC, FoS, WNSP}
