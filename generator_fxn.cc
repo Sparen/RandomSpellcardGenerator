@@ -1,14 +1,11 @@
-#include <cstdlib>
 #include <string>
 #include <vector>
 #include <iostream>
-#include <algorithm>
 #include <set>
 #include "generator_fxn.h"
 
 using std::vector;
 using std::cout;
-using std::cin;
 using std::endl;
 using std::string;
 using std::set;
