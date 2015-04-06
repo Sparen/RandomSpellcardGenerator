@@ -38,7 +38,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [06] Koakuma "Koakuma" [+Lunarethic]					<br>
 [06] Flandre Scarlet "Flandre" [+PhantomSong]				<br>
 [07] Letty Whiterock "Letty"						<br>
-[07] Chen "Chen"							<br>
+[07] Chen "Chen" [+Rikako]						<br>
 [07] Lyrica Prismriver "Lyrica"						<br>
 [07] Lunasa Prismriver "Lunasa"						<br>
 [07] Merlin Prismriver "Merlin"						<br>

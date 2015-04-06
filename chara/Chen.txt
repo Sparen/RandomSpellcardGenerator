@@ -35,3 +35,18 @@ Jikoku-ten
 :noun2
 Idaten
 # Touhou Fanon
+:sign
+# Rikako Chen
+Curse Sign
+# Rikako Chen
+Pseudo-Border
+:adj
+# Rikako Chen
+Bewitched
+Orange
+:noun
+# Rikako Chen
+Black Cat
+Servitude
+:noun2
+the Nekomata
