@@ -160,24 +160,6 @@ Generator::Generator(const set<string> &characters){
 
       //Touhou Fanon
     }
-    if (character=="Hatate"){
-      //Touhou Canon
-      sign.push_back("Reporting");
-      sign.push_back("Continuous Shooting");
-      sign.push_back("Far-sightedness");
-      sign.push_back("Photography");
-      adj.push_back("Reporting");
-      adj.push_back("Rapid");
-      adj.push_back("Tengu");
-      adj.push_back("Full Panoramic");
-      adj.push_back("Secluded");
-      noun.push_back("Training");
-      noun.push_back("Shot");
-      noun.push_back("Psychography");
-      noun.push_back("Paparazzi");
-      //Touhou Fanon
-      noun2.push_back("the Crow Tengu");
-    }
     if (character=="Sunny"){
       //Touhou Canon
 
@@ -190,90 +172,6 @@ Generator::Generator(const set<string> &characters){
     }
     if (character=="Star"){
       //Touhou Canon
-    }
-    if (character=="Kyouko"){
-      //Touhou Canon
-      sign.push_back("Echo Sign");
-      sign.push_back("Mountain Echo");
-      sign.push_back("Great Voice");
-      sign.push_back("Scream");
-      sign.push_back("Piercing Sound");
-      sign.push_back("Sutra");
-      adj.push_back("Mountain");
-      adj.push_back("Power");
-      adj.push_back("Long-Range");
-      adj.push_back("Amplify");
-      adj.push_back("Charged");
-      adj.push_back("Primal");
-      adj.push_back("Piercing");
-      adj.push_back("Infinite");
-      noun.push_back("Echo");
-      noun.push_back("Echo Scramble");
-      noun.push_back("Resonance");
-      noun.push_back("Cry");
-      noun.push_back("Yahoo!");
-      noun.push_back("Demonstration");
-      noun.push_back("Scream");
-      noun.push_back("Circle");
-      noun.push_back("Nianfo");
-      //Touhou Fanon
-      noun2.push_back("the Yamabiko");
-    }
-    if (character=="Yoshika"){
-      //Touhou Canon
-      sign.push_back("Recovery");
-      sign.push_back("Poison Nail");
-      sign.push_back("Desire Sign");
-      adj.push_back("Poison");
-      adj.push_back("Desire Spirit's");
-      adj.push_back("Score Desire");
-      adj.push_back("Undead");
-      adj.push_back("Zombie");
-      noun.push_back("Raze");
-      noun.push_back("Murder");
-      noun.push_back("Invitation");
-      noun.push_back("Eater");
-      noun.push_back("Murderer");
-      noun.push_back("Claw");
-      //Touhou Fanon
-      sign.push_back("Consumption");//PhantomSong Seiga
-      adj.push_back("Spirit");
-      noun.push_back("Miasma");//PhantomSong Seiga
-      noun.push_back("Feast");//PhantomSong Seiga
-      noun2.push_back("the Jiangshi");
-    }
-    if (character=="Seiga"){
-      //Touhou Canon
-      sign.push_back("Evil Sign");
-      sign.push_back("Demonify");
-      sign.push_back("Necromancy");
-      sign.push_back("Spirit Link");
-      sign.push_back("Path Sign");
-      sign.push_back("Hermit Arts");
-      adj.push_back("Yang");
-      adj.push_back("Guhun");
-      adj.push_back("Zuohuo");
-      adj.push_back("Tongling");
-      adj.push_back("Corpse");
-      adj.push_back("Fetal");
-      adj.push_back("Excessive");
-      adj.push_back("Wall");
-      adj.push_back("Wall-Phasing");
-      noun.push_back("Xiaogui");
-      noun.push_back("Yegui");
-      noun.push_back("Rumo");
-      noun.push_back("Tongji");
-      noun.push_back("Yoshika");
-      noun.push_back("Movement");
-      noun.push_back("Runner");
-      noun.push_back("Wormhole");
-      //Touhou Fanon
-      sign.push_back("Corruption");//PhantomSong Seiga
-      sign.push_back("Hermit Sign");
-      adj.push_back("Wicked");//PhantomSong Seiga
-      adj.push_back("Divine");//PhantomSong Seiga
-      noun.push_back("Spirit");//PhantomSong Seiga
-      noun2.push_back("the Evil Hermit");
     }
     if (character=="Tojiko"){
       //Touhou Canon

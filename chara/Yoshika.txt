@@ -1,0 +1,31 @@
+# Touhou Canon
+:sign
+sign.push_back("Recovery");
+sign.push_back("Poison Nail");
+sign.push_back("Desire Sign");
+:adj
+adj.push_back("Poison");
+adj.push_back("Desire Spirit's");
+adj.push_back("Score Desire");
+adj.push_back("Undead");
+adj.push_back("Zombie");
+:noun
+noun.push_back("Raze");
+noun.push_back("Murder");
+noun.push_back("Invitation");
+noun.push_back("Eater");
+noun.push_back("Murderer");
+noun.push_back("Claw");
+# Touhou Fanon
+:sign
+# PhantomSong Seiga
+sign.push_back("Consumption");
+:adjadj
+adj.push_back("Spirit");
+:noun
+# PhantomSong Seiga
+noun.push_back("Miasma");
+# PhantomSong Seiga
+noun.push_back("Feast");
+:noun2
+noun2.push_back("the Jiangshi");
