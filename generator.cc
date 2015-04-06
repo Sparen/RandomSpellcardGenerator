@@ -62,9 +62,11 @@ int main(int argc, char** argv) {
   // Moved the name declaration here so we can list all the names if the user prompts to do so.
   /*Please add in order of game # shown. See generator_fxn.cc for order*/
   /*****************************OFFICIAL ONLY*****************************/
-  set<string> names;
+
+  set<string> names;//for user input
   map<string, string> aliases;
-  getNames(names, aliases);
+  getNames(names, aliases);//load acceptable names and aliases
+
   if (HAS(c, F_HELP)) {
     cout << endl << "RANDOM SPELLCARD NAME GENERATOR BY SPAREN" << endl;
     cout << "Options:\n\
@@ -93,20 +95,21 @@ int main(int argc, char** argv) {
     cout << "You can type multiple names to mix and match signs and phrases between multiple characters." << endl;
     cout << "If you decide to use this option, please use the option -s, as if a name is not found, default will be added." << endl;
   }
+
   string input;
-  getline(cin, input);
+  getline(cin, input); //obtain line from cin
   set<string> includedNames = split(input);
-  if (includedNames.empty()) {
+  if (includedNames.empty()) {//no names
     if (strict) {
       cerr << "No names included." << endl;
       return 1;
     } else {
       if (verbose)
         cout << "No names included. Using Default" << endl;
-      includedNames = names;
+      includedNames = names;//default is everything goes
     }
   } else {
-    for (const string &n : includedNames) {
+    for (const string &n : includedNames) {//for every name in the input
       if (names.count(n) == 0) { // not found
         string orig;
         //  Yes, this is a single equals sign.         --v Not a derp or a typo.
@@ -150,16 +153,17 @@ int main(int argc, char** argv) {
   }
 }
 
+//list of names and aliases located in chara/manifest.txt
 void getNames(set<string> &names, map<string, string> &aliases) {
   char lineBuff[256];
   ifstream inFile("chara/manifest.txt");
   while (!inFile.eof()) {
     inFile.getline(lineBuff, 256);
-    if (*lineBuff == '#') continue;
+    if (*lineBuff == '#') continue;//ignore lines starting with #
     char* curr = strtok(lineBuff, " ,");
     char* first = curr;
-    names.insert(curr);
-    while (curr != nullptr) {
+    names.insert(curr); //add the first name on each line to names
+    while (curr != nullptr) {//for each other element on the line, map the alias to the main name
       curr = strtok(nullptr, " ,");
       if (curr != nullptr) aliases[string(curr)] = string(first);
     }

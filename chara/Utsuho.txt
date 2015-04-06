@@ -65,4 +65,5 @@ Fall
 Septentrion
 Great Stars
 # Touhou Fanon
+:noun2
 the Yatagarasu
