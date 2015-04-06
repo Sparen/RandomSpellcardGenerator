@@ -1,0 +1,55 @@
+# Touhou Canon
+:sign
+Impossible Request
+Divine Treasure
+End of Imperishable Night
+New Impossible Request
+:adj
+Five-Colored
+Brilliant Dragon
+Buddha's
+Indomitable
+Buddhist
+Patient
+Salamander
+Swallow's
+Life Spring
+Rainbow
+Dreamlike
+Morning
+Rising
+Lunar
+:noun
+Shots
+Barrette
+Stone Bowl
+Will
+Diamond
+Robe
+Mind
+Shield
+Cowrie Shell
+Infinity
+Bullet Branch
+Danmaku
+Paradise
+Dead
+Mist
+Star
+World
+Tree-Ocean
+Ilmenite
+Red Stone
+Seamless Ceiling
+Mysterium
+:noun2
+Fire Rat
+Hourai
+Night
+Aja
+Kinkaku-ji
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
