@@ -174,5 +174,4 @@ void getNames(set<string> &names, map<string, string> &aliases) {
       if (curr != nullptr) aliases[string(curr)] = string(first);
     }
   }
-  inFile.close();
 }
