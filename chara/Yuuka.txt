@@ -10,7 +10,6 @@ Beauty
 :noun2
 Gensokyo
 Nature
-:sign
 # Touhou Fanon
 :sign
 Nature Sign
