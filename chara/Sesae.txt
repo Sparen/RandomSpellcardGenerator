@@ -1,0 +1,43 @@
+:sign
+Turtle Sign
+Eating Sign
+Butterfly Sign
+:adj
+Seven
+Great
+Sweet
+Poisonous
+Unbreakable
+Chain
+Knife
+:noun
+Head
+Shell
+Turtles
+Rock
+Roof
+Plate
+Butterflies
+King
+Tree
+Lying and Dying
+Milk
+Window
+End
+Thirst
+Decapitation
+Chicken
+Cow
+:noun2
+Death
+Seven Kills
+:formatter
+Shatter the _ and Shatter the _
+_ Dropped on the _
+The _ that Looks Like a _
+I Shall Always Stay Under a _
+_ on a _
+The _ who Ate Himself to Death
+_ Beside the _
+_ of _
+Attack on _

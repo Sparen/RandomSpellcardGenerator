@@ -80,6 +80,10 @@ int main(int argc, char** argv) {
     for (const string &s : names) {
       cout << endl << s;
     }
+    cout << endl << "* Aliases:";
+    for (const auto &p : aliases) {
+      cout << endl << p.first << " -> " << p.second;
+    }
     cout << endl;
     return 0;
   }
