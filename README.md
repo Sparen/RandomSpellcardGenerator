@@ -9,11 +9,13 @@ make
 
 To run:
 
-<code>./generator </code>
+<code>./generator </code><br>
+<code>generator.exe </code>
 
 or
 
-<code>./generator [-Options] </code>
+<code>./generator [-Options] </code><br>
+<code>generator.exe [Options] </code>
 
 Options:<br>
 <code>-q (--quiet)</code>: will not spit out all of the extra text<br>
