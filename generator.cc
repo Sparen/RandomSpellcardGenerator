@@ -111,11 +111,12 @@ int main(int argc, char** argv) {
   } else {
     for (const string &n : includedNames) {//for every name in the input
       if (names.count(n) == 0) { // not found
-        string alias;
+        string orig;
         //  Yes, this is a single equals sign.         --v Not a derp or a typo.
-        if (aliases.count(n) != 0 && names.count(alias = aliases[n]) != 0) { // search for aliases
+        if (aliases.count(n) != 0 && names.count(orig = aliases[n]) != 0) { // search for aliases
+          // Substitute the alias in the included names list with the original name
           includedNames.erase(n);
-          includedNames.insert(alias);
+          includedNames.insert(orig);
         }
         else if (strict) {
           cerr << "Name " << n << " not in list." << endl;

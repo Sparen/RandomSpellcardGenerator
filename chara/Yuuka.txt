@@ -1,6 +1,7 @@
 # Touhou Canon
 :sign
 Flower Sign
+:adj
 Fantasy
 :noun
 Reflowering
@@ -9,6 +10,7 @@ Beauty
 :noun2
 Gensokyo
 Nature
+:sign
 # Touhou Fanon
 :sign
 Nature Sign
@@ -26,6 +28,7 @@ Netherworld
 Infinite
 # Darkness1 Yuuka
 Grasping
+:noun
 Energy
 Floral
 :noun
