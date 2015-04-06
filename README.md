@@ -98,3 +98,4 @@ N/A
 [05] Elssecisso, Rencron "Rencron" | Akiyari, Reiri "Reiri"				<br>
 [05] Esel, Rygen "Rygen" | Hiroe, Nikou "Nikou"					<br>
 [05] Mernen "Mernen"					<br>
+[05] Cssysencyras, Sesae "Sesae" | Haganesuzu, Satsuri "Satsuri"	<br>

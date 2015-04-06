@@ -80,6 +80,10 @@ int main(int argc, char** argv) {
     for (const string &s : names) {
       cout << endl << s;
     }
+    cout << endl << "* Aliases:";
+    for (const auto &p : aliases) {
+      cout << endl << p.first << " -> " << p.second;
+    }
     cout << endl;
     return 0;
   }
@@ -109,7 +113,8 @@ int main(int argc, char** argv) {
       includedNames = names;//default is everything goes
     }
   } else {
-    for (const string &n : includedNames) {//for every name in the input
+    // no & since having it there sometimes causes segfaults
+    for (const string n : includedNames) {//for every name in the input
       if (names.count(n) == 0) { // not found
         string orig;
         //  Yes, this is a single equals sign.         --v Not a derp or a typo.
