@@ -46,7 +46,6 @@ void Generator::load(const string &character) {
       else if (!strcmp(label, "formatter")) mode = FR_FORMATTER;
       else {
         cerr << lineBuff << " is not a valid label" << endl;
-        inFile.close();
         exit(EXIT_FAILURE);
       }
     } else {
@@ -59,7 +58,6 @@ void Generator::load(const string &character) {
       }
     }
   }
-  inFile.close();
 }
 
 string Generator::GenerateB1() {
