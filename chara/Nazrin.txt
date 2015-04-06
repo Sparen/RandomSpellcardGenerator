@@ -1,0 +1,30 @@
+# Touhou Canon
+:sign
+Rod Sign
+Search Sign
+Vision Sign
+Defense Sign
+Jeweled Pagoda
+Treasure
+:adj
+Busy
+Rare Metal
+Gold
+High Sensitivity
+Nazrin
+Pendulum
+Greatest
+:noun
+Rod
+Detector
+Pendulum
+Guard
+Treasure
+Rush
+# Touhou Fanon
+:sign
+Dowsing
+Treasure Sign
+:noun2
+the Treasure Hunter
+the Dowser

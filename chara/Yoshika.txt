@@ -1,0 +1,31 @@
+# Touhou Canon
+:sign
+Recovery
+Poison Nail
+Desire Sign
+:adj
+Poison
+Desire Spirit's
+Score Desire
+Undead
+Zombie
+:noun
+Raze
+Murder
+Invitation
+Eater
+Murderer
+Claw
+# Touhou Fanon
+:sign
+# PhantomSong Seiga
+Consumption
+:adj
+Spirit
+:noun
+# PhantomSong Seiga
+Miasma
+# PhantomSong Seiga
+Feast
+:noun2
+the Jiangshi

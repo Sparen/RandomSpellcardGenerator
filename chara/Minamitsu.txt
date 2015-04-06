@@ -1,0 +1,36 @@
+# Touhou Canon
+:sign
+Capsize
+Drowning Sign
+Harbor Sign
+Ghost
+Anchor Sign
+Flood
+:adj
+Dragging
+Foundering
+Sinking
+Deep
+Sinkable
+Phantom Ship
+Ghost Ship's
+Eternally Anchored
+Sinker
+:noun
+Anchor
+Vortex
+Harbor
+Port
+Ghost Ship
+Ghost
+Dipper
+Long Moorings
+Venus
+Sinker
+:noun2
+the Bilge
+# Touhou Fanon
+:sign
+Shipwreck
+:noun2
+the Phantom Ship

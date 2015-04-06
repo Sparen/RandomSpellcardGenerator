@@ -1,0 +1,42 @@
+# Touhou Canon
+:sign
+Evil Sign
+Demonify
+Necromancy
+Spirit Link
+Path Sign
+Hermit Arts
+:adj
+Yang
+Guhun
+Zuohuo
+Tongling
+Corpse
+Fetal
+Excessive
+Wall
+Wall-Phasing
+:noun
+Xiaogui
+Yegui
+Rumo
+Tongji
+Yoshika
+Movement
+Runner
+Wormhole
+# Touhou Fanon
+:sign
+# PhantomSong Seiga
+Corruption
+Hermit Sign
+:adj
+# PhantomSong Seiga
+Wicked
+# PhantomSong Seiga
+Divine
+:noun
+# PhantomSong Seiga
+Spirit
+:noun2
+the Evil Hermit

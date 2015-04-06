@@ -1,0 +1,46 @@
+#Touhou Canon
+:sign
+Ice Sign
+Hail Sign
+Freeze Sign
+Snow Sign
+Frost Sign
+Ice Clump
+Cold Body
+Cold Sign
+Blowing Ice
+Ice King
+:adj
+Icicle
+Hail
+Perfect
+Diamond
+Frost
+Cold
+Minus
+Fairy
+Sword
+Insta-Freeze
+Ultimate
+:noun
+Fall
+Storm
+Freeze
+Blizzard
+Columns
+Divinity
+K
+Machine Gun
+Fairy
+Sprinkler
+Freezer
+Atmosphere
+Beam
+Tornado
+Crusher
+Glacialist
+King
+#Touhou Fanon
+:noun2
+Absolute Zero
+Permafrost

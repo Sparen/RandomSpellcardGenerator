@@ -9,9 +9,9 @@ set<string> split(const string &s) {
   // Cast to char* to avoid a warning
   char* cs = (char*) s.c_str();
   char* curr = strtok(cs, " ,");
-  while (curr != NULL) {
+  while (curr != nullptr) {
     res.insert(curr);
-    curr = strtok(NULL, " ,");
+    curr = strtok(nullptr, " ,");
   }
   return res;
 }

@@ -1,0 +1,22 @@
+# Touhou Canon
+:sign
+Poison Sign
+Fog Sign
+Delusion
+:adj
+Nerve
+Melancholy
+Gassing
+Poison
+:noun
+Poison
+Garden
+Breath
+Delirium
+# Touhou Fanon
+:adj
+Toxic
+:noun
+Neurotoxin
+:noun2
+Toxicity
