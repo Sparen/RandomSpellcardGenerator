@@ -194,8 +194,47 @@ Generator::Generator(const set<string> &characters){
     }
     if (character=="Cirno"){
       //Touhou Canon
-
+      sign.push_back("Ice Sign");
+      sign.push_back("Hail Sign");
+      sign.push_back("Freeze Sign");
+      sign.push_back("Snow Sign");
+      sign.push_back("Frost Sign");
+      sign.push_back("Ice Clump");
+      sign.push_back("Cold Body");
+      sign.push_back("Cold Sign");
+      sign.push_back("Blowing Ice");
+      sign.push_back("Ice King");
+      adj.push_back("Icicle");
+      adj.push_back("Hail");
+      adj.push_back("Perfect");
+      adj.push_back("Diamond");
+      adj.push_back("Frost");
+      adj.push_back("Cold");
+      adj.push_back("Minus");
+      adj.push_back("Fairy");
+      adj.push_back("Sword");
+      adj.push_back("Insta-Freeze");
+      adj.push_back("Ultimate");
+      noun.push_back("Fall");
+      noun.push_back("Storm");
+      noun.push_back("Freeze");
+      noun.push_back("Blizzard");
+      noun.push_back("Columns");
+      noun.push_back("Divinity");
+      noun.push_back("K");
+      noun.push_back("Machine Gun");
+      noun.push_back("Fairy");
+      noun.push_back("Sprinkler");
+      noun.push_back("Freezer");
+      noun.push_back("Atmosphere");
+      noun.push_back("Beam");
+      noun.push_back("Tornado");
+      noun.push_back("Crusher");
+      noun.push_back("Glacialist");
+      noun.push_back("King");
       //Touhou Fanon
+      noun2.push_back("Absolute Zero");
+      noun2.push_back("Permafrost");
     }
     if (character=="Meiling"){
       //Touhou Canon
@@ -1478,8 +1517,37 @@ Generator::Generator(const set<string> &characters){
       noun2.push_back("Nine Colors");
       noun2.push_back("the Rainbow");
     }
+    if (character == "Mernen") {
+      sign.push_back("Grass Sign");
+      sign.push_back("Starry Sky");
+      sign.push_back("Short Grass");
+      sign.push_back("Flower Sign");
+      sign.push_back("Grass's Anger");
+      adj.push_back("Resting");
+      adj.push_back("Starlight");
+      adj.push_back("Grass");
+      adj.push_back("Little");
+      adj.push_back("Sleeping");
+      adj.push_back("Pure");
+      adj.push_back("Corrupted");
+      adj.push_back("Golden");
+      noun.push_back("Butterfly");
+      noun.push_back("Wave");
+      noun.push_back("Grass");
+      noun.push_back("Flower");
+      noun.push_back("Pollen-Scattering");
+      noun.push_back("Buds");
+      noun.push_back("Leaves");
+      noun.push_back("Shooting");
+      noun.push_back("Darkness");
+      noun.push_back("Forest");
+      formatterList.push_back("Near the _");
+      formatterList.push_back("The _ Below Us");
+      formatterList.push_back("_ in the _");
+      noun2.push_back("the Wind");
+      noun2.push_back("the Trees");
+    }
   }
-  
 }
 
 string Generator::GenerateB1() {
@@ -1526,6 +1594,25 @@ string Generator::GenerateA4() {
     + " - " + (r2 == 0 ? GenerateB3() : r2 < 4 ? GenerateB2() : GenerateB1());
 }
 
+// Name with formatter
+string Generator::GenerateA5() {
+  // so we don't get single word names
+  if (formatterList.empty())
+    return GenerateA1();
+  string formatter = pick(formatterList);
+  int formL = formatter.length();
+  string res = pick(sign) + ": ";
+  for (int i = 0; i < formL; ++i) {
+    char c = formatter[i];
+    if (c != '_') {
+      res += c;
+    } else {
+      res += GenerateA5H();
+    }
+  }
+  return res;
+}
+
 void Generator::PrintA1() {
   cout << GenerateA1() << endl;
 }
@@ -1540,4 +1627,8 @@ void Generator::PrintA3() {
 
 void Generator::PrintA4() {
   cout << GenerateA4() << endl;
+}
+
+void Generator::PrintA5() {
+  cout << GenerateA5() << endl;
 }

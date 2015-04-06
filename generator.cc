@@ -62,6 +62,7 @@ int main(int argc, char** argv) {
     "Reimu",
     "Marisa",
     "Rumia",
+    "Cirno",
     "Flandre",
     "Letty",
     "Chen",
@@ -108,6 +109,7 @@ int main(int argc, char** argv) {
     "Reiri",
     "Rygen",
     "Nikou",
+    "Mernen",
   };
   
   if (HAS(c, F_HELP)) {
@@ -176,12 +178,13 @@ int main(int argc, char** argv) {
   int num;
   cin >> num;
   for(int i = 0; i < num; i++){
-    switch (rand() % 18) { // 1/18 A3, 3/18 A2, 1/18 A4, 13/18 A1
+    switch (rand() % 19) { // 1/18 A3, 3/18 A2, 1/18 A4, 13/18 A1
     case 0: gen.PrintA3(); break;
     case 1:
     case 2:
     case 3: gen.PrintA2(); break;
     case 4: gen.PrintA4(); break;
+    case 5: gen.PrintA5(); break;
     default: gen.PrintA1();
     }
   }

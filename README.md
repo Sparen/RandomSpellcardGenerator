@@ -34,6 +34,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [01] Reimu Hakurei "Reimu"						<br>
 [02] Marisa Kirisame "Marisa"						<br>
 [06] Rumia "Rumia"							<br>
+[06] Cirno "Cirno"							<br>
 [06] Flandre Scarlet "Flandre"						<br>
 [07] Letty Whiterock "Letty"						<br>
 [07] Chen "Chen"							<br>
@@ -95,3 +96,4 @@ N/A
 
 [05] Elssecisso, Rencron "Rencron" | Akiyari, Reiri "Reiri"				<br>
 [05] Esel, Rygen "Rygen" | Hiroe, Nikou "Nikou"					<br>
+[05] Mernen "Mernen"					<br>
