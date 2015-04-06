@@ -48,21 +48,21 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [08] Tewi Inaba "Tewi"							<br>
 [08] Fujiwara no Mokou "Mokou"						<br>
 [09] Medicine Melancholy "Medicine"					<br>
-[09] Yuuka Kazami "Yuuka" [+Darkness1]					<br>
-[09] Eiki Shiki Yamaxanadu "Shikieiki" 					<br>
+[09] Yuuka Kazami "Yuuka", "Yuka" [+Darkness1]					<br>
+[09] Eiki Shiki Yamaxanadu "Shikieiki", "Eiki" 					<br>
 [10] Shizuha Aki "Shizuha"						<br>
 [10] Minoriko Aki "Minoriko"						<br>
 [10] Momiji Inubashiri "Momiji"						<br>
 [11] Kisume "Kisume"							<br>
 [11] Yamame Kurodani "Yamame"						<br>
 [11] Parsee Mizuhashi "Parsee"						<br>
-[11] Yuugi Hoshiguma "Yuugi"						<br>
+[11] Yuugi Hoshiguma "Yuugi", "Yugi"						<br>
 [11] Satori Komeiji "Satori"						<br>
-[11] Rin Kaenbyou "Orin"						<br>
-[11] Utsuho Reiuji "Utsuho"						<br>
+[11] Rin Kaenbyou "Orin", "Rin"						<br>
+[11] Utsuho Reiuji "Utsuho", "Okuu"						<br>
 [12] Nazrin "Nazrin"							<br>
 [12] Kogasa Tatara "Kogasa"						<br>
-[12] Minamitsu Murasa "Minamitsu"					<br>
+[12] Minamitsu Murasa "Minamitsu", "Murasa"					<br>
 [12] Shou Toramaru "Shou"						<br>
 [12.5] Hatate Himekaidou "Hatate"					<br>
 [13] Kyouko Kasodani "Kyouko"						<br>
