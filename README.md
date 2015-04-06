@@ -56,6 +56,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [10] Hina Kagiyama "Hina"						<br>
 [10] Nitori Kawashiro "Nitori"						<br>
 [10] Momiji Inubashiri "Momiji"						<br>
+[10] Sanae Kochiya "Sanae"						<br>
 [11] Kisume "Kisume"							<br>
 [11] Yamame Kurodani "Yamame"						<br>
 [11] Parsee Mizuhashi "Parsee"						<br>
