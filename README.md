@@ -74,6 +74,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [13] Kyouko Kasodani "Kyouko"						<br>
 [13] Yoshika Miyako "Yoshika" [+PhantomSong]				<br>
 [13] Seiga Kaku "Seiga" [+PhantomSong]					<br>
+[13] Soga no Tojiko "Tojiko" {+EUB}					<br>
 [14] Wakasagihime "Wakasagihime"					<br>
 [14] Sekibanki "Sekibanki"						<br>
 [14] Kagerou Imaizumi "Kagerou"						<br>

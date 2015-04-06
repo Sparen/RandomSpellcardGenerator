@@ -1,0 +1,35 @@
+# Touhou Canon
+:sign
+Thunder Arrow
+Vengeful Spirit
+:adj
+Gagouji's
+Iruka's
+:noun
+Cyclone
+Tornado
+Thunder
+:noun2
+# Touhou Fanon
+:sign
+# EUB
+Flashbang
+# EUB
+Thunder War
+# EUB
+Heavenly Arrow
+:adj
+# EUB
+Raijin's
+# EUB
+Thor's
+:noun
+# EUB
+Roar
+# EUB
+Rage
+# EUB
+Tempest
+:noun2
+# EUB
+Susano'o
