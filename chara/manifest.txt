@@ -41,6 +41,11 @@ Sekibanki
 Kagerou
 Benben
 Yatsuhashi
+# Touhou Spinoff
+# Ido
+# Len'en (JynX)
+# SeitenTouji (Sparen)
+# Nansei (LENK64)
 # Chouyou (Fluffy8x)
 Rencron Reiri
 Rygen Nikou

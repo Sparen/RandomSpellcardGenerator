@@ -9,3 +9,6 @@ Spell structure in general is 'sign: adj noun' or 'sign: noun of noun2'
 For each major category (Touhou Canon, Touhou Fanon, etc), please use a separate sign:, etc. Also, you MUST have one entry for each of the :adj, etc, or there will be errors.
 
 All you need to do is send a pull request, and add the character into the main README.md and the manifest.txt in the correct position.
+
+Note on citing sources:
+When citing interesting or creative spellcard name components from scripts, # <Scripter's name> <Name of boss(es)> right above. See Yuuka.txt for an example
