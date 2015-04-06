@@ -31,30 +31,30 @@ Generator::Generator(const set<string> &characters){
 }
 
 void Generator::load(const string &character) {
-  char lineBuff[256];
+  string line;
   ifstream inFile("chara/" + character + ".txt");
   int mode = FR_SIGN;
-  while (!inFile.eof()) {
-    inFile.getline(lineBuff, 256);
-    if (*lineBuff == '#') continue;
-    if (*lineBuff == ':') {
-      char* label = lineBuff + 1;
-      if (!strcmp(label, "sign")) mode = FR_SIGN;
-      else if (!strcmp(label, "adj")) mode = FR_ADJ;
-      else if (!strcmp(label, "noun")) mode = FR_NOUN;
-      else if (!strcmp(label, "noun2")) mode = FR_NOUN2;
-      else if (!strcmp(label, "formatter")) mode = FR_FORMATTER;
+  while (getline(inFile, line)) {
+    if (line.empty() || line[0] == '#')
+      continue;
+    if (line[0] == ':') {
+      string label = line.substr(1);
+      if (label == "sign") mode = FR_SIGN;
+      else if (label == "adj") mode = FR_ADJ;
+      else if (label == "noun") mode = FR_NOUN;
+      else if (label == "noun2") mode = FR_NOUN2;
+      else if (label == "formatter") mode = FR_FORMATTER;
       else {
-        cerr << lineBuff << " is not a valid label" << endl;
+        cerr << line << " is not a valid label" << endl;
         exit(EXIT_FAILURE);
       }
     } else {
       switch (mode) {
-        case FR_SIGN: sign.push_back(lineBuff); break;
-        case FR_ADJ: adj.push_back(lineBuff); break;
-        case FR_NOUN: noun.push_back(lineBuff); break;
-        case FR_NOUN2: noun2.push_back(lineBuff); break;
-        case FR_FORMATTER: formatterList.push_back(lineBuff);
+        case FR_SIGN: sign.push_back(line); break;
+        case FR_ADJ: adj.push_back(line); break;
+        case FR_NOUN: noun.push_back(line); break;
+        case FR_NOUN2: noun2.push_back(line); break;
+        case FR_FORMATTER: formatterList.push_back(line);
       }
     }
   }
