@@ -1,0 +1,62 @@
+# Touhou Canon
+:sign
+Divine Festival
+Weird Festival
+Rice Porridge in Tube
+Forgotten Husk
+Divine Husk
+Sacrifice Sign
+Mystery
+Heaven's Stream
+Heaven's Dragon
+God Sign
+Snake Sign
+Divine Pillar
+Fleeting Path
+Onbashira
+:adj
+Expanded
+Medoteko
+God's
+Unremembered
+Divining
+Misayama Hunting
+Kuzui
+Yamato
+Beautiful
+Ancient Fate Linked by
+Ancient
+Ground
+Meteoric
+Omiwatari
+Rising
+:noun
+Onbashira
+Boisterous Dance
+Rice Porridge
+Crop
+Shrine Ritual
+Clear Water
+Torus
+Miracle
+Source
+Mountain
+Virtue
+Spring
+Fate
+Cedars
+Omiwatari
+Serpent
+Cross
+Sacred Authority
+:noun2
+Otensui
+Faith
+Wind God
+Rains
+the Gods
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
