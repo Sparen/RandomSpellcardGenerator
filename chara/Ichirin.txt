@@ -1,0 +1,66 @@
+# Touhou Canon
+:sign
+Iron Fist
+Divine Fist
+Fist Sign
+Barrage
+Hand Strike
+Annihilation
+Thunderous Yell
+Rage
+Fist
+Lightning
+Iron Fist
+Storm Sign
+Cumulonimbus
+Nyuudou
+:adj
+Unarguable Youkai
+Hell
+Heavenly
+Cloud Water
+King
+Fist
+Consecutive
+Traditional
+Calamity Scolding
+Falling
+Electrified
+Forseeing Nyuudou
+Wind-Killing
+Genso-Tarou
+:noun
+Punch
+Thrust
+Clouds
+Seas
+Net Sandbag
+Kraken Strike
+Smash
+Hooks
+Heaven and Earth
+Scolding
+Old Man
+Scorch
+Sky Hammer
+Nyuudou
+Autumn Storm Clouds
+Cloud
+Confession
+Traditional Era
+Great Cumulus
+Cloud
+:noun2
+Buddhist Retribution
+a Splendid Old Man
+Rage
+:formatter
+_ from Above the _
+_ from the _
+- Throughout _
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

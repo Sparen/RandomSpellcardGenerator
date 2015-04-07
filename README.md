@@ -71,6 +71,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [11] Utsuho Reiuji "Utsuho", "Okuu" [+Rogus]				<br>
 [12] Nazrin "Nazrin"							<br>
 [12] Kogasa Tatara "Kogasa"						<br>
+[12] Ichirin Kumoi "Ichirin"						<br>
 [12] Minamitsu Murasa "Minamitsu", "Murasa"				<br>
 [12] Shou Toramaru "Shou"						<br>
 [12.5] Hatate Himekaidou "Hatate"					<br>
