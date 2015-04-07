@@ -44,6 +44,7 @@ Yoshika
 Seiga
 Tojiko
 Futo
+Miko
 Wakasagihime
 Sekibanki
 Kagerou
@@ -52,8 +53,8 @@ Yatsuhashi
 # Touhou Spinoff
 # Ido
 # Len'en (JynX)
-Yabusame
-Tsubakura
+L_Yabusame
+L_Tsubakura
 # SeitenTouji (Sparen)
 # Nansei (LENK64)
 # Chouyou (Fluffy8x)

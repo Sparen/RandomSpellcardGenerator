@@ -1,0 +1,58 @@
+# Touhou Canon
+:sign
+Honor
+Hermit Sign
+Summon
+Secret Treasure
+Light Sign
+Discernment
+Divine Light
+Tao Sign
+Human Sign
+Virtue Sign
+:adj
+Royal Clan's
+Prince Shotoku's
+Guse
+Newborn
+Divine Spirits'
+Heavenly Way Atop One's
+Seventeen-Article
+:noun
+Ranks
+Colors
+Taoist
+Emperor
+Chaotic Dance
+Armillary Sphere
+Out-of-Place Artifact
+Halo
+Flash
+Laser
+Avoidance
+Falling Stars
+Divine Spirit
+Universe
+Palm
+Tradition
+Prestige
+Lasers
+Constitution Bombs
+:noun2
+Twelve Levels
+the Land of the Rising Sun
+Ikaruga-dera
+Guse Kannon
+Seventeen Articles
+Defiance
+Divine Spirit Mausoleum
+Just Rewards
+Shotoku
+Infinite Articles
+:formatter
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

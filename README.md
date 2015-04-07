@@ -76,6 +76,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [13] Seiga Kaku "Seiga" [+PhantomSong]					<br>
 [13] Soga no Tojiko "Tojiko" {+EUB}					<br>
 [13] Mononobe no Futo "Futo" 						<br>
+[13] Toyosatomimi no Miko "Miko" 					<br>
 [14] Wakasagihime "Wakasagihime"					<br>
 [14] Sekibanki "Sekibanki"						<br>
 [14] Kagerou Imaizumi "Kagerou"						<br>
@@ -88,14 +89,20 @@ N/A
 
 ###LEN'EN (JYNX)###
 
-[01] Yabusame Houren "Yabusame"			<br>
-[01] Tsubakura Enraku "Tsubakura"			<br>
+(Note: All names in quotes prefixed by 'L_' to prevent conflicts with other characters)
+
+[01] Yabusame Houren "L_Yabusame"					<br>
+[01] Tsubakura Enraku "L_Tsubakura"					<br>
 
 ###SEITENTOUJI (SPAREN)###
+
+(Note: All names in quotes prefixed by 'S_' to prevent conflicts with other characters)
 
 N/A
 
 ###NANSEI (LENK64)###
+
+(Note: All names in quotes prefixed by 'N_' to prevent conflicts with other characters)
 
 N/A
 
