@@ -52,6 +52,7 @@ Yatsuhashi
 # Ido
 # Len'en (JynX)
 Yabusame
+Tsubakura
 # SeitenTouji (Sparen)
 # Nansei (LENK64)
 # Chouyou (Fluffy8x)

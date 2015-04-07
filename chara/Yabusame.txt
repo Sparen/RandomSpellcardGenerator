@@ -1,4 +1,4 @@
-# Touhou Canon
+# Len'en Canon
 :sign
 Light Card
 Intersection
@@ -42,7 +42,7 @@ Duplication
 Repeated Dimensional Rupture
 :formatter
 _ Detach
-# Touhou Fanon
+# Len'en Fanon
 :sign
 :adj
 :noun
