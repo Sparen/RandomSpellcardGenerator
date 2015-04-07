@@ -75,6 +75,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [13] Yoshika Miyako "Yoshika" [+PhantomSong]				<br>
 [13] Seiga Kaku "Seiga" [+PhantomSong]					<br>
 [13] Soga no Tojiko "Tojiko" {+EUB}					<br>
+[13] Mononobe no Futo "Futo" 						<br>
 [14] Wakasagihime "Wakasagihime"					<br>
 [14] Sekibanki "Sekibanki"						<br>
 [14] Kagerou Imaizumi "Kagerou"						<br>
@@ -101,7 +102,7 @@ N/A
 
 (Note: most characters have two names each)
 
-[05] Elssecisso, Rencron "Rencron" | Akiyari, Reiri "Reiri"				<br>
-[05] Esel, Rygen "Rygen" | Hiroe, Nikou "Nikou"					<br>
-[05] Mernen "Mernen"					<br>
+[05] Elssecisso, Rencron "Rencron" | Akiyari, Reiri "Reiri"		<br>
+[05] Esel, Rygen "Rygen" | Hiroe, Nikou "Nikou"				<br>
+[05] Mernen "Mernen"							<br>
 [05] Cssysencyras, Sesae "Sesae" | Haganesuzu, Satsuri "Satsuri"	<br>

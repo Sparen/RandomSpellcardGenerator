@@ -1,0 +1,47 @@
+# Touhou Canon
+:sign
+Heaven Sign
+Throwing Dishes
+Blaze Sign
+Saint Girl
+Wind Sign
+Fate
+Bow Sign
+Old Boat
+Heat Dragon
+:adj
+Rainy
+Ascending to
+Mononobe's Eighty
+Oomonoimi's
+Sun Goddess's
+Miwa Plate
+Taiyi
+Inferno
+Karawake
+Star Dragon
+Ancient
+Blazing Dragon
+:noun
+Iwafune
+Heaven
+Sake Cups
+Blazing Winds
+Dinner
+Sacrifice
+Storm
+True Fire
+Gate Opening
+Reformation
+Rotary Throw
+Bow
+Ship
+Veins
+:noun2
+Haibutsu
+Catastrophe
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
