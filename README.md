@@ -87,7 +87,7 @@ N/A
 
 ###LEN'EN (JYNX)###
 
-N/A
+[01] Yabusame Houren (Yabusame)			<br>
 
 ###SEITENTOUJI (SPAREN)###
 

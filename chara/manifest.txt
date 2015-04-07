@@ -51,6 +51,7 @@ Yatsuhashi
 # Touhou Spinoff
 # Ido
 # Len'en (JynX)
+Yabusame
 # SeitenTouji (Sparen)
 # Nansei (LENK64)
 # Chouyou (Fluffy8x)
