@@ -82,6 +82,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [14] Kagerou Imaizumi "Kagerou"						<br>
 [14] Benben Tsukumo "Benben"						<br>
 [14] Yatsuhashi Tsukumo "Yatsuhashi"					<br>
+[14] Seija Kijin "Seija" [+TalosMistake]				<br>
 
 ###IDO###
 

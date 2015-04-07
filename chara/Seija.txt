@@ -1,0 +1,43 @@
+# Touhou Canon
+:sign
+Deceit Sign
+Reverse Sign
+Reverse Bow
+Turnabout
+:adj
+Reverse
+Danmaku Through the
+Evil in the
+Overturning All Under
+Change Air
+:noun
+Needle Attack
+Looking-Glass
+Mirror
+Heaven
+Dream Bow
+Decree
+Hierarchy
+Brave
+:noun2
+Heaven and Earth
+the Dream Bow
+:formatter
+# Touhou Fanon
+:sign
+# TalosMistake Seija
+Horizontal
+# TalosMistake Seija
+Flipping Sign
+:adj
+# TalosMistake Seija
+Side Storm
+# TalosMistake Seija
+Nightmare
+:noun
+Arrows
+# TalosMistake Seija
+Reversal
+:noun2
+the Amanojaku
+:formatter

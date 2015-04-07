@@ -50,6 +50,7 @@ Sekibanki
 Kagerou
 Benben
 Yatsuhashi
+Seija
 # Touhou Spinoff
 # Ido
 # Len'en (JynX)
