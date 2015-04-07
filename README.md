@@ -31,65 +31,65 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 
 ###TOUHOU###
 
-[01] Reimu Hakurei "Reimu"						<br>
-[02] Marisa Kirisame "Marisa"						<br>
-[06] Rumia "Rumia"							<br>
-[06] Cirno "Cirno"							<br>
-[06] Hong Meiling "Meiling"						<br>
-[06] Koakuma "Koakuma" [+Lunarethic]					<br>
-[06] Patchouli Knowledge "Patchy", "Patchouli", "Patche"		<br>
-[06] Flandre Scarlet "Flandre" [+PhantomSong]				<br>
-[07] Letty Whiterock "Letty"						<br>
-[07] Chen "Chen" [+Rikako]						<br>
-[07] Lyrica Prismriver "Lyrica"						<br>
-[07] Lunasa Prismriver "Lunasa"						<br>
-[07] Merlin Prismriver "Merlin"						<br>
-[07] Ran Yakumo "Ran"							<br>
-[08] Wriggle Nightbug "Wriggle"						<br>
-[08] Mystia Lorelei "Mystia"						<br>
-[08] Keine Kamishirasawa "Keine"					<br>
-[08] Tewi Inaba "Tewi"							<br>
-[08] Kaguya Houraisan "Kaguya"						<br>
-[08] Eirin Yagokoro "Eirin"						<br>
-[08] Fujiwara no Mokou "Mokou"						<br>
-[09] Medicine Melancholy "Medicine"					<br>
-[09] Yuuka Kazami "Yuuka", "Yuka" [+Darkness1]				<br>
-[09] Eiki Shiki Yamaxanadu "Shikieiki", "Eiki" 				<br>
-[10] Shizuha Aki "Shizuha"						<br>
-[10] Minoriko Aki "Minoriko"						<br>
-[10] Hina Kagiyama "Hina"						<br>
-[10] Nitori Kawashiro "Nitori" [+Byzantheryx]				<br>
-[10] Momiji Inubashiri "Momiji"						<br>
-[10] Sanae Kochiya "Sanae"						<br>
-[10] Kanako Yasaka "Kanako"						<br>
-[10] Suwako Moriya "Suwako"						<br>
-[11] Kisume "Kisume"							<br>
-[11] Yamame Kurodani "Yamame"						<br>
-[11] Parsee Mizuhashi "Parsee"						<br>
-[11] Yuugi Hoshiguma "Yuugi", "Yugi"					<br>
-[11] Satori Komeiji "Satori"						<br>
-[11] Rin Kaenbyou "Orin"						<br>
-[11] Utsuho Reiuji "Utsuho", "Okuu" [+Rogus]				<br>
-[12] Nazrin "Nazrin"							<br>
-[12] Kogasa Tatara "Kogasa"						<br>
-[12] Ichirin Kumoi "Ichirin"						<br>
-[12] Minamitsu Murasa "Minamitsu", "Murasa"				<br>
-[12] Shou Toramaru "Shou"						<br>
-[12.5] Hatate Himekaidou "Hatate"					<br>
-[13] Kyouko Kasodani "Kyouko"						<br>
-[13] Yoshika Miyako "Yoshika" [+PhantomSong]				<br>
-[13] Seiga Kaku "Seiga" [+PhantomSong]					<br>
-[13] Soga no Tojiko "Tojiko" {+EUB}					<br>
-[13] Mononobe no Futo "Futo" 						<br>
-[13] Toyosatomimi no Miko "Miko" 					<br>
-[14] Wakasagihime "Wakasagihime"					<br>
-[14] Sekibanki "Sekibanki"						<br>
-[14] Kagerou Imaizumi "Kagerou"						<br>
-[14] Benben Tsukumo "Benben"						<br>
-[14] Yatsuhashi Tsukumo "Yatsuhashi"					<br>
-[14] Seija Kijin "Seija" [+TalosMistake]				<br>
-[14] Shinmyoumaru Sukuna "Shinmyoumaru", "Sukuna"			<br>
-[14] Raiko Korikawa "Raiko"						<br>
+[01] Reimu Hakurei "Reimu"								<br>
+[02] Marisa Kirisame "Marisa"								<br>
+[06] Rumia "Rumia"									<br>
+[06] Cirno "Cirno"									<br>
+[06] Hong Meiling "Meiling", "Meirin"							<br>
+[06] Koakuma "Koakuma" [+Lunarethic]							<br>
+[06] Patchouli Knowledge "Patchy", "Patchouli", "Patche"				<br>
+[06] Flandre Scarlet "Flandre", "Frandle", "Frandre" [+PhantomSong]			<br>
+[07] Letty Whiterock "Letty"								<br>
+[07] Chen "Chen" [+Rikako]								<br>
+[07] Lyrica Prismriver "Lyrica"								<br>
+[07] Lunasa Prismriver "Lunasa"								<br>
+[07] Merlin Prismriver "Merlin"								<br>
+[07] Ran Yakumo "Ran"									<br>
+[08] Wriggle Nightbug "Wriggle"								<br>
+[08] Mystia Lorelei "Mystia"								<br>
+[08] Keine Kamishirasawa "Keine"							<br>
+[08] Tewi Inaba "Tewi", "Tei"								<br>
+[08] Kaguya Houraisan "Kaguya"								<br>
+[08] Eirin Yagokoro "Eirin"								<br>
+[08] Fujiwara no Mokou "Mokou"								<br>
+[09] Medicine Melancholy "Medicine"							<br>
+[09] Yuuka Kazami "Yuuka", "Yuka" [+Darkness1]						<br>
+[09] Eiki Shiki Yamaxanadu "Shikieiki", "Eiki" 						<br>
+[10] Shizuha Aki "Shizuha"								<br>
+[10] Minoriko Aki "Minoriko"								<br>
+[10] Hina Kagiyama "Hina"								<br>
+[10] Nitori Kawashiro "Nitori" [+Byzantheryx]						<br>
+[10] Momiji Inubashiri "Momiji"								<br>
+[10] Sanae Kochiya "Sanae"								<br>
+[10] Kanako Yasaka "Kanako"								<br>
+[10] Suwako Moriya "Suwako"								<br>
+[11] Kisume "Kisume"									<br>
+[11] Yamame Kurodani "Yamame"								<br>
+[11] Parsee Mizuhashi "Parsee"								<br>
+[11] Yuugi Hoshiguma "Yuugi", "Yugi"							<br>
+[11] Satori Komeiji "Satori"								<br>
+[11] Rin Kaenbyou "Orin"								<br>
+[11] Utsuho Reiuji "Utsuho", "Okuu" [+Rogus]						<br>
+[12] Nazrin "Nazrin"									<br>
+[12] Kogasa Tatara "Kogasa"								<br>
+[12] Ichirin Kumoi "Ichirin"								<br>
+[12] Minamitsu Murasa "Minamitsu", "Murasa"						<br>
+[12] Shou Toramaru "Shou"								<br>
+[12.5] Hatate Himekaidou "Hatate"							<br>
+[13] Kyouko Kasodani "Kyouko"								<br>
+[13] Yoshika Miyako "Yoshika" [+PhantomSong]						<br>
+[13] Seiga Kaku "Seiga" [+PhantomSong]							<br>
+[13] Soga no Tojiko "Tojiko", "Toziko" {+EUB}						<br>
+[13] Mononobe no Futo "Futo" 								<br>
+[13] Toyosatomimi no Miko "Miko" 							<br>
+[14] Wakasagihime "Wakasagihime"							<br>
+[14] Sekibanki "Sekibanki"								<br>
+[14] Kagerou Imaizumi "Kagerou"								<br>
+[14] Benben Tsukumo "Benben"								<br>
+[14] Yatsuhashi Tsukumo "Yatsuhashi"							<br>
+[14] Seija Kijin "Seija" [+TalosMistake]						<br>
+[14] Shinmyoumaru Sukuna "Shinmyoumaru", "Sukuna"					<br>
+[14] Raiko Korikawa "Raiko"								<br>
 
 ###IDO###
 

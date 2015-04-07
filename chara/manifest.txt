@@ -3,10 +3,10 @@ Reimu
 Marisa
 Rumia
 Cirno
-Meiling
+Meiling Meirin
 Koakuma
 Patchy Patchouli Patche
-Flandre
+Flandre Frandle Frandre
 Letty
 Chen
 Lyrica
@@ -16,7 +16,7 @@ Ran
 Wriggle
 Mystia
 Keine
-Tewi
+Tewi Tei
 Eirin
 Kaguya
 Mokou
@@ -47,7 +47,7 @@ Hatate
 Kyouko
 Yoshika
 Seiga
-Tojiko
+Tojiko Toziko
 Futo
 Miko
 Wakasagihime
