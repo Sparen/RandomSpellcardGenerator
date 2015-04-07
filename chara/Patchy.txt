@@ -1,0 +1,96 @@
+# Touhou Canon
+:sign
+Fire Sign
+Water Sign
+Wood Sign
+Earth Sign
+Metal Sign
+Fire & Earth Sign
+Wood & Fire Sign
+Water & Wood Sign
+Metal & Water Sign
+Earth & Metal Sign
+Moon Sign
+Sun Sign
+Fire Water Wood Metal Earth Sign
+Fire Metal Sign
+Earth Water Sign
+Metal Wood Sign
+Metal Earth Sign
+Sun & Water Sign
+Water Fire Sign
+Moon Wood Sign
+Sun Moon Sign
+Sun Wood Sign
+Moon Metal Sign
+Fire Water Sign
+Earth Metal Sign
+:adj
+Agni
+Princess
+Sylphae
+Rage
+Metal
+Bury In
+Green
+Silver
+Lava
+Forest
+Water
+Mercury
+Emerald
+Silent
+Royal
+Philosopher's
+Saint Elmo's
+Noachian
+Elemental
+Djinn
+Hydrogenous
+Phlogistic
+Satellite
+Jellyfish
+Akiba
+Sunshine
+:noun
+Shine
+Undine
+Horn
+Trilithon
+Fatigue
+Radiance
+Lake
+Storm
+Dragon
+Cromlech
+Blaze
+Elf
+Poion
+Selene
+Flare
+Stone
+Pillar
+Deluge
+Harvester
+Explosion
+Gust
+Prominence
+Rain
+Himawari
+Ring
+Princess
+Summer
+Reflector
+Megalopolis
+:noun2
+Agni
+:formatter
+_ High Level
+_ Shake
+_ Forty Days
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

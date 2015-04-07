@@ -4,7 +4,6 @@ The following are missing completely
 
 Touhou:
 Daiyousei
-Patchy
 Sakuya
 Remilia
 Alice
@@ -85,3 +84,13 @@ S_Myu		//Name may be changed
 S_Taiga
 S_Maryuu	//Name may be changed
 S_Ryuusuke
+
+Chouyou
+C_Vanar13007 (C_Masetsu13007)
+C_Canden (C_Shiki)
+C_Yronsyncra (C_Konen)
+C_Etelos (C_Sakana) // '???' denotes that there is not yet a name
+??? (???)
+C_Vija (C_Hasuike)
+??? (C_Ririto)
+??? (C_Ririka)
