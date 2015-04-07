@@ -1,0 +1,46 @@
+# Len'en Canon
+:sign
+Nothingness Card
+Ink Card
+Black Card
+Flower Card
+Clarity Card
+Mysterious Card
+Closing Curtain
+Dye
+Mysterious Origin
+:adj
+Mysterious
+Picture
+Embody
+Blackout
+Inky
+Black
+Silver
+Monochrome
+:noun
+Ink and Silver
+Crane
+Ink
+Wheel
+Ink Flower
+Snow
+Ray
+Storm
+Blackout
+Game Over
+Notebook
+:noun2
+:formatter
+_ -Fruitlessness-
+_ -Hahakigi-
+_ -All Range-
+_ -Spiral-
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+Two Colors
+Black and White
+:formatter

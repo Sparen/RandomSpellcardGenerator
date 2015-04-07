@@ -1,0 +1,50 @@
+# Len'en Canon
+:sign
+Light Card
+Intersection
+Origin Card
+Teleport
+Recurrence
+Space Card
+Confused Origins
+Transfer
+Transmit
+Mysterious Origin
+:adj
+Laser
+Flash
+Star
+Spatial
+Reality
+Warp
+Loop
+Turbo
+Dimensional
+Screen
+Repeated
+Danmaku
+:noun
+Ink and Silver
+Rain
+Grid
+Cross
+Shell
+Detachment
+Separation
+Kingdom
+Area
+Erasure
+Division
+Illusion
+Shuffle
+Duplication
+:noun2
+Repeated Dimensional Rupture
+:formatter
+_ Detach
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

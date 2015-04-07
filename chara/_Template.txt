@@ -3,8 +3,10 @@
 :adj
 :noun
 :noun2
+:formatter
 # Touhou Fanon
 :sign
 :adj
 :noun
 :noun2
+:formatter
