@@ -94,8 +94,8 @@ N/A
 
 (Note: All names in quotes prefixed by 'L_' to prevent conflicts with other characters)
 
-[01] Yabusame Houren "L_Yabusame"					<br>
-[01] Tsubakura Enraku "L_Tsubakura"					<br>
+[01] Yabusame Houren "L_Yabusame", "Yabusame"					<br>
+[01] Tsubakura Enraku "L_Tsubakura", "Tsubakura"					<br>
 
 ###SEITENTOUJI (SPAREN)###
 
@@ -113,7 +113,7 @@ N/A
 
 (Note: most characters have two names each)
 
-[05] Elssecisso, Rencron "Rencron" | Akiyari, Reiri "Reiri"		<br>
-[05] Esel, Rygen "Rygen" | Hiroe, Nikou "Nikou"				<br>
-[05] Mernen "Mernen"							<br>
-[05] Cssysencyras, Sesae "Sesae" | Haganesuzu, Satsuri "Satsuri"	<br>
+[05] Elssecisso, Rencron "C_Rencron", "Rencron" | Akiyari, Reiri "Reiri"		<br>
+[05] Esel, Rygen "C_Rygen", "Rygen" | Hiroe, Nikou "Nikou"				<br>
+[05] Mernen "C_Mernen", "Mernen"							<br>
+[05] Cssysencyras, Sesae "C_Sesae", "Sesae" | Haganesuzu, Satsuri "Satsuri"	<br>
