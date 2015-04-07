@@ -37,6 +37,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [06] Cirno "Cirno"							<br>
 [06] Hong Meiling "Meiling"						<br>
 [06] Koakuma "Koakuma" [+Lunarethic]					<br>
+[06] Patchouli Knowledge "Patchy", "Patchouli", "Patche"	<br>
 [06] Flandre Scarlet "Flandre" [+PhantomSong]				<br>
 [07] Letty Whiterock "Letty"						<br>
 [07] Chen "Chen" [+Rikako]						<br>
@@ -94,7 +95,8 @@ N/A
 
 ###LEN'EN (JYNX)###
 
-(Note: All names in quotes prefixed by 'L_' to prevent conflicts with other characters)
+(Note: All names in quotes prefixed by 'L_' to prevent conflicts with other characters.
+Absent any naming conflicts, there will be an alias without a prefix.)
 
 [01] Yabusame Houren "L_Yabusame", "Yabusame"				<br>
 [01] Tsubakura Enraku "L_Tsubakura", "Tsubakura"			<br>
@@ -113,7 +115,8 @@ N/A
 
 ###CHOUYOU (FLUFFY8X)###
 
-(Note: most characters have two names each)
+(Note: All names in quotes prefixed by 'C_' to prevent conflicts with other characters.
+Most characters have two names each)
 
 [05] Elssecisso, Rencron "C_Rencron", "Rencron" | Akiyari, Reiri "Reiri"	<br>
 [05] Esel, Rygen "C_Rygen", "Rygen" | Hiroe, Nikou "Nikou"			<br>
