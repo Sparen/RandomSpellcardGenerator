@@ -34,7 +34,56 @@ Kourin
 Kosuzu
 
 Ido:
-*everything*
+Marry "Mary"
+Corin
+Phiased
+Mumumu
+Janet
+Michel
+Iesua
+Elfin
+Kodama
+Kusoko
+Momo
+Saraka
+Tenmu
+An
+Mitama
+Riko
+Hatsuna
+Ruri
+Himemiko
+Hanie
+Tarumi
+Momohime
+Yato
+Kiyohime
 
 Len'en
-*everything except for Tsubakura/Yabusame*
+L_Kurohebi
+L_Aoji
+L_Hooaka
+L_Kuroji
+L_Clause
+L_Tsurubami
+L_Jun
+L_Shou
+L_Hibaru
+L_Sukune
+L_Yaorochi
+L_Saragimaru
+L_Sese
+L_Tsugumi
+L_Iyozane
+L_Fumikado
+L_Shion
+L_Tenkai
+
+SeitenTouji
+S_Teiki
+S_Koro
+S_Tarou		//Name may be changed
+S_Myu		//Name may be changed
+S_Taiga
+S_Maryuu	//Name may be changed
+S_Ryuusuke
