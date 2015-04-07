@@ -1,0 +1,40 @@
+# Touhou Canon
+:sign
+Thunder Sign
+Taiko
+Drum
+:adj
+Raging Temple
+Vengeful Spirit
+Three
+Land
+Den-Den
+Alternate
+High Speed
+Thunder God's
+Blue Lady
+Pristine
+Fantastic
+:noun
+Taiko
+Aya-no-Tsuzumi
+Strikes
+Midnight
+Percuss
+Daiko
+Sticking
+Taiko Rocket
+Anger
+Show
+Beat
+Woofer
+:noun2
+Rage
+:formatter
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+the Tsukumogami
+:formatter

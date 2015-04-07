@@ -1,0 +1,33 @@
+# Touhou Canon
+:sign
+Small Bullet
+Mallet
+Bewitched Sword
+Shining Needle
+:adj
+Inchling's
+Shining Needle
+Oni-Slaying Eye-Stabbing
+:noun
+Path
+Thorny Path
+Sword
+Attack
+Wall
+Issun-Boshi
+Hell
+Needle
+:noun2
+the Dwarf
+Issun
+:formatter
+Grow Bigger!
+Grow Even Bigger!
+You Grow Bigger!
+Attack on Dwarf
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter
