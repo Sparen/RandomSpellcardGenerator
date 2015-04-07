@@ -1,0 +1,52 @@
+# Touhou Canon
+:sign
+Spacesphere
+Awakened God
+God Sign
+Revival
+Resurrection
+Leading God
+Mind of God
+Curse of the Heavens
+Esoterica
+Forbidden Arcanum
+Medicine Sign
+Elixir
+Secret Elixir
+:adj
+Omoikane's
+Apollo
+Astronomical
+Hourai
+Heaven Spider's Butterfly-Capturing
+Butterfly
+Mercury
+Lunar
+:noun
+Memories
+Genealogy
+Game
+Device
+Brain
+Entombing
+Elixir
+Galaxy
+Web
+Dream Pill
+Sea
+Incense
+Earth
+Pot
+:noun2
+the Age of the Gods
+the Sky-Born
+Life
+Rising
+:formatter
+_ in a _
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter
