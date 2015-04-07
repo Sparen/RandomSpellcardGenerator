@@ -1,0 +1,68 @@
+# Touhou Canon
+:sign
+Party Start
+Native God
+Divine Tool
+Spring Sign
+Frog Hunt
+Scourge Sign
+Frog Nap
+Scourge God
+Clap
+Divine Sakura
+Hime River
+Iron Ring
+Green Stone
+Frog Sign
+:adj
+Lord
+Moriya's
+Croaking
+Native
+Central
+Suwa
+Moriya
+Daidarabotchi's
+Hellish
+Magma
+Divine
+Full Sakura
+Princess
+Mythical
+Iron
+:noun
+Long Arm
+Long Leg
+Ring
+Jade
+Snake
+Frog
+Stones
+Trees
+Red Frog
+Myth
+Mishaguji-sama
+Clear Water
+God
+Worship
+Heat Geyser
+Amphibian
+Battle
+Blizzard
+Jade Green
+Break
+Bloody Mound
+:noun2
+the Horrid River
+Houei 4
+Red Frogs
+:formatter
+_ and _
+The _ Eats the _
+_ Above Gensokyo
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter
