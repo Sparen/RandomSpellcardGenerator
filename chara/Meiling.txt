@@ -1,0 +1,75 @@
+# Touhou Canon
+:sign
+Flower Sign
+Rainbow Sign
+Illusion Sign
+Colorful Sign
+Extreme Color
+Ultimate Color
+Light Sign
+Extreme Light
+Flowery Sign
+Three Blasts
+Brilliance
+Colorful Flip
+Colorful Flower
+Colorful Brilliance
+Chi Sign
+Attack Sign
+Star Chi
+Fiery Attack
+:adj
+Gorgeous Sweet
+Selaginella
+Imaginary Dream
+Colorful
+Colorful Light Chaotic
+Extreme Color
+Brilliant
+Glorious
+Mountain
+Colorful Ultimate Mountain
+Colorful Light Lotus Flower
+Rainbow Brilliance
+Fluttering
+Falling
+Rainbow
+Intense Rainbow
+Star
+Roc
+Earth Dragon Sky Dragon
+Fierce Tiger
+Earth-Moving Star
+Roc-Killing
+Vivid
+:noun
+Flower
+Wind Chime
+Vine
+Rain
+Dance
+Typhoon
+Wind Chime
+Light Gem
+Morning Star
+Breaker
+Palm
+Petals
+Leaves
+Taijiquan
+Taichi
+Fist
+Bullets
+Kick
+Energy Release
+Color Downpour
+:noun2
+Colorful Rainbow
+:formatter
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+the Gatekeeper
+:formatter

@@ -3,6 +3,7 @@ Reimu
 Marisa
 Rumia
 Cirno
+Meiling
 Koakuma
 Flandre
 Letty
