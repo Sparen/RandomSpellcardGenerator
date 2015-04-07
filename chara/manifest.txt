@@ -56,12 +56,12 @@ Seija
 # Touhou Spinoff
 # Ido
 # Len'en (JynX)
-L_Yabusame
-L_Tsubakura
+L_Yabusame Yabusame
+L_Tsubakura Tsubakura
 # SeitenTouji (Sparen)
 # Nansei (LENK64)
 # Chouyou (Fluffy8x)
-Rencron Reiri
-Rygen Nikou
-Mernen
-Sesae Satsuri
+C_Rencron Rencron Reiri
+C_Rygen Rygen Nikou
+C_Mernen Mernen
+C_Sesae Sesae Satsuri
