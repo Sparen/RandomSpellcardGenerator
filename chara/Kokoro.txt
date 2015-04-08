@@ -1,0 +1,33 @@
+# Touhou Canon
+:sign
+Angry Mask
+Anger Sign
+Possession
+Melancholy Mask
+Melancholy Sign
+Joy Sign
+Dance of the Empty-Hearted Masks
+:adj
+Four Humors
+Melancholic
+Invigorated
+:noun
+Mask
+Possession
+World
+Cart
+Kagura Lion
+Noh
+:noun2
+an Angry Hated Wolf
+Qi
+Darkness
+:formatter
+_ Worries about the _
+The _ is a _
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter
