@@ -1,0 +1,44 @@
+# Touhou Canon
+:sign
+Duel
+Transformation
+Raccoon Sign
+:adj
+Primate
+Carnivorous
+Avian
+Amphibian
+Tanuki's Monstrous
+Wild Deserted
+Mamizou
+Full Moon
+Wild
+Bunbuku Hot Soup
+Futatsuiwa Family's
+:noun
+Danmaku Transformation
+Scrolls
+School
+Island
+Pseudo-Exorcism
+Danmaku
+Transformations
+Pompokolin
+Carpet
+Bathtub
+Youkai World Gate
+Clan
+Band
+:noun2
+Frolicking Animals
+One Hundred Demons
+:formatter
+If the _ Does not Call, Wait For it to Cry
+_ Are Nice!
+_ and _ on a _
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

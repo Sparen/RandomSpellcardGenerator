@@ -82,6 +82,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [13] Soga no Tojiko "Tojiko", "Toziko" {+EUB}						<br>
 [13] Mononobe no Futo "Futo" 								<br>
 [13] Toyosatomimi no Miko "Miko" 							<br>
+[13] Mamizou Futatsuiwa "Mamizou"							<br>
 [14] Wakasagihime "Wakasagihime"							<br>
 [14] Sekibanki "Sekibanki"								<br>
 [14] Kagerou Imaizumi "Kagerou"								<br>
