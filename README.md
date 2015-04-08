@@ -22,6 +22,8 @@ Options:<br>
 <code>-s (--strict)</code>: will not allow default generation<br>
 <code>-l (--list-names)</code>: list all possible names
 
+Please credit this generator if you use it for a project.
+
 ## Supported Characters ##
 
 Please note that the names you type in are the ones in quotes. Any of the names in quotes is acceptable. Try to use the first one, however.<br>
@@ -33,6 +35,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 
 [01] Reimu Hakurei "Reimu"								<br>
 [02] Marisa Kirisame "Marisa"								<br>
+[03] Yumemi Okazaki "Yumemi"								<br>
 [06] Rumia "Rumia"									<br>
 [06] Cirno "Cirno"									<br>
 [06] Hong Meiling "Meiling", "Meirin"							<br>
@@ -78,7 +81,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [12] Nue Houjuu "Nue"									<br>
 [12.5] Hatate Himekaidou "Hatate"							<br>
 [13] Kyouko Kasodani "Kyouko"								<br>
-[13] Yoshika Miyako "Yoshika" [+PhantomSong]						<br>
+[13] Yoshika Miyako "Yoshika" [+PhantomSong, Hunguil]					<br>
 [13] Seiga Kaku "Seiga" [+PhantomSong]							<br>
 [13] Soga no Tojiko "Tojiko", "Toziko" {+EUB}						<br>
 [13] Mononobe no Futo "Futo" 								<br>

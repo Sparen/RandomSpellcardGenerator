@@ -1,0 +1,49 @@
+# Touhou Fanon
+:sign
+# Lunarethic ICM Yumemi
+Artifice
+Dream Sign
+# Lunarethic ICM Yumemi
+Research
+# Lunarethic ICM Yumemi
+Fantasy Sign
+# GTBot Yumemi
+Artificial Magic
+:adj
+# Lunarethic ICM Yumemi
+Transcendent
+# Lunarethic ICM Yumemi
+Elusive
+# Lunarethic ICM Yumemi
+Cross
+# Lunarethic ICM Yumemi
+Artificial
+# Lunarethic ICM Yumemi
+Day Break
+# Lunarethic ICM Yumemi
+Shattering
+# GTBot Yumemi
+Dimensional
+Strawberry
+Dream
+:noun
+# Lunarethic ICM Yumemi
+Daymare
+# Lunarethic ICM Yumemi
+Phantasm
+# Lunarethic ICM Yumemi
+Prominence
+# Lunarethic ICM Yumemi
+Illusion
+# Lunarethic ICM Yumemi
+Dream
+# GTBot Yumemi
+Crush
+Cross
+# GTBot Yumemi, Johnny Walker Yumemi
+Magical Position
+Crisis
+:noun2
+the Scientist
+Science
+:formatter
