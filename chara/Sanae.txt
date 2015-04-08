@@ -57,6 +57,22 @@ Good Commerce
 the Kouan Era
 # Touhou Fanon
 :sign
+# Sparen Sanae
+Wind God
+# Sparen Sanae
+Divine Wind
+# CK Crash Sanae
+Divine Intervention
+# CK Crash Sanae
+Modern Miracle
+# CK Crash Sanae
+Divine Wrath
 :adj
 :noun
+# Sparen Sanae
+Shatter
 :noun2
+# Sparen Sanae
+the Heavens
+# CK Crash Sanae
+the Storm

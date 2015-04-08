@@ -39,7 +39,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [06] Koakuma "Koakuma" [+Lunarethic]							<br>
 [06] Patchouli Knowledge "Patchy", "Patchouli", "Patche"				<br>
 [06] Flandre Scarlet "Flandre", "Frandle", "Frandre" [+PhantomSong]			<br>
-[07] Letty Whiterock "Letty"								<br>
+[07] Letty Whiterock "Letty" [+TalosMistake, Ultima]					<br>
 [07] Chen "Chen" [+Rikako]								<br>
 [07] Lyrica Prismriver "Lyrica"								<br>
 [07] Lunasa Prismriver "Lunasa"								<br>
@@ -60,7 +60,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [10] Hina Kagiyama "Hina"								<br>
 [10] Nitori Kawashiro "Nitori" [+Byzantheryx]						<br>
 [10] Momiji Inubashiri "Momiji"								<br>
-[10] Sanae Kochiya "Sanae"								<br>
+[10] Sanae Kochiya "Sanae" [+Sparen, CK Crash]						<br>
 [10] Kanako Yasaka "Kanako"								<br>
 [10] Suwako Moriya "Suwako"								<br>
 [11] Kisume "Kisume"									<br>

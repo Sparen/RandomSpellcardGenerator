@@ -1,4 +1,4 @@
-# Touhou Canon'
+# Touhou Canon
 :sign
 Cold Sign
 Winter Sign
@@ -17,5 +17,29 @@ Ray
 Snap
 Winter
 # Touhou Fanon
+:adj
+# TalosMistake Letty
+Unreasonable
+# TalosMistake Letty
+Glacial
+# TalosMistake Letty
+Mystical
+# Ultima Letty
+Winter Celebration
+# Ultima Letty
+Blizzard
+:noun
+# TalosMistake Letty
+Hailstone
+# TalosMistake Letty
+Cyclone
+# TalosMistake Letty
+Missile
+# TalosMistake Letty
+Barrier
+Storm
+Snow
+# Ultima Letty
+Fall
 :noun2
 Frost
