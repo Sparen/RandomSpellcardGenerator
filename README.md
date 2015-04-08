@@ -75,6 +75,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [12] Ichirin Kumoi "Ichirin"								<br>
 [12] Minamitsu Murasa "Minamitsu", "Murasa"						<br>
 [12] Shou Toramaru "Shou"								<br>
+[12] Nue Houjuu "Nue"									<br>
 [12.5] Hatate Himekaidou "Hatate"							<br>
 [13] Kyouko Kasodani "Kyouko"								<br>
 [13] Yoshika Miyako "Yoshika" [+PhantomSong]						<br>

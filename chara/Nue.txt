@@ -1,0 +1,52 @@
+# Touhou Canon
+:sign
+Ominous Clouds
+Unidentified
+Nue Sign
+Grudge Bow
+Unknown
+:adj
+Heian Dark
+Mysterious
+Danmaku
+Undefined
+Purple
+Wandering
+Unidentified
+Unknown
+:noun
+Clouds
+Red UFO Invasion
+Snake Show
+Blue UFO Invasion
+Chimera
+Green UFO Invasion
+Darkness
+Rainbow UFO Invasion
+Nightmare
+The Bow
+Mirror
+Cloak
+Start
+Orbit
+Shape
+Youkai Orb
+:noun2
+Rage
+Grief
+Loyalty
+Terror
+Heiankyou
+Genzanmi Yorimasa
+Unknown Mechanics
+:formatter
+_, _
+_ in the _
+_ from a _
+_ with _
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter
