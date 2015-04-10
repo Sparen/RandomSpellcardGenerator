@@ -1,0 +1,37 @@
+# Canon
+:sign
+Magic Sign
+Star Sign
+Colorless
+Light Sign
+Alter Ego
+Secret Treasure
+Wicked Holy Star
+:adj
+Tarot
+Doctor's
+Double
+Enclosed
+Code
+Optical
+Starlight
+:noun
+Boisterous Dance
+Horoscope
+Planetarium
+Energy
+Birdcage
+Avatar
+Star Art
+Illusion
+Young Branch
+:noun2
+Mirror Particles
+Manna
+:formatter
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

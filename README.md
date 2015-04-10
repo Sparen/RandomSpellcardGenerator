@@ -103,6 +103,8 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 
 [TLC] Marry Shepherd "Marry"							<br>
 [TLC] Corin Charite "Corin"							<br>
+[TLC] Phiased Pescar "Phiased"							<br>
+[TLC] Janet Arc'Angelo "Janet"							<br>
 
 ###LEN'EN (JYNX)###
 
