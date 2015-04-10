@@ -22,47 +22,16 @@ using std::map;
 using std::ifstream;
 
 void getNames(set<string> &names, map<string, string> &aliases);
+int readConfiguration(int argc, char** argv);
+int normalizeIncNameList(set<string> &includedNames, set<string> &names,
+  map<string, string> &aliases, Config c);
 
 /****************************************************
  * RANDOM SPELLCARD NAME GENERATOR by Sparen, 2015  *
  ****************************************************/
 
 int main(int argc, char** argv) {
-  /***START OF FLAGS. Code by Fluffy8x***/
-  Config c = ~(1 << F_HELP | 1 << F_LIST_NAMES);
-  for (int i = 1; i < argc; ++i) {
-    char* arg = argv[i];
-    if (arg[0] == '-') {
-      switch (arg[1]) {
-        case '-': {
-          char* option = arg + 2;
-          if (!strcmp(option, "quiet")) RESET(c, F_VERBOSE);
-          else if (!strcmp(option, "verbose")) SET(c, F_VERBOSE);
-          else if (!strcmp(option, "help")) SET(c, F_HELP);
-          else if (!strcmp(option, "strict")) RESET(c, F_INVALID_AS_DEFAULT);
-          else if (!strcmp(option, "list-names")) SET(c, F_LIST_NAMES);
-          else {
-            cerr << "Unknown option " << option << endl;
-            return 1;
-          }
-          break;
-        }
-        case 'q': RESET(c, F_VERBOSE); break;
-        case 'v': SET(c, F_VERBOSE); break;
-        case 'h': SET(c, F_HELP); break;
-        case 's': RESET(c, F_INVALID_AS_DEFAULT); break;
-        case 'l': SET(c, F_LIST_NAMES); break;
-        default: {
-          cerr << "Unknown option " << arg[1] << endl;
-          return 1;
-        }
-      }
-    }
-  }
-  // Moved the name declaration here so we can list all the names if the user prompts to do so.
-  /*Please add in order of game # shown. See generator_fxn.cc for order*/
-  /*****************************OFFICIAL ONLY*****************************/
-
+  Config c = readConfiguration(argc, argv);
   set<string> names;//for user input
   map<string, string> aliases;
   getNames(names, aliases);//load acceptable names and aliases
@@ -88,7 +57,6 @@ int main(int argc, char** argv) {
     return 0;
   }
   bool verbose = HAS(c, F_VERBOSE);
-  bool strict = !HAS(c, F_INVALID_AS_DEFAULT);
   /***END OF FLAGS***/
 
   srand(time(nullptr));
@@ -104,39 +72,8 @@ int main(int argc, char** argv) {
   string input;
   getline(cin, input); //obtain line from cin
   set<string> includedNames = split(input);
-  if (includedNames.empty()) {//no names
-    if (strict) {
-      cerr << "No names included." << endl;
-      return 1;
-    } else {
-      if (verbose)
-        cout << "No names included. Using Default" << endl;
-      includedNames = names;//default is everything goes
-    }
-  } else {
-    // no & since having it there sometimes causes segfaults
-    for (const string n : includedNames) {//for every name in the input
-      if (names.count(n) == 0) { // not found
-        string orig;
-        //  Yes, this is a single equals sign.         --v Not a derp or a typo.
-        if (aliases.count(n) != 0 && names.count(orig = aliases[n]) != 0) { // search for aliases
-          // Substitute the alias in the included names list with the original name
-          includedNames.erase(n);
-          includedNames.insert(orig);
-        }
-        else if (strict) {
-          cerr << "Name " << n << " not in list." << endl;
-          exit(EXIT_FAILURE);
-        } else {
-          if (verbose)
-            cout << "Name " << n << " not in list. Using Default" << endl;
-          includedNames = names; //default, everything goes
-          break;
-        }
-      }
-    }
-  }
-  
+  int normErr = normalizeIncNameList(includedNames, names, aliases, c);
+  if (normErr != 0) return normErr;
   //Create Generator
   Generator gen(includedNames);
   
@@ -174,4 +111,80 @@ void getNames(set<string> &names, map<string, string> &aliases) {
       if (curr != nullptr) aliases[string(curr)] = string(first);
     }
   }
+}
+
+/***START OF FLAGS. Code by Fluffy8x***/
+int readConfiguration(int argc, char** argv) {
+  Config c = ~(1 << F_HELP | 1 << F_LIST_NAMES);
+  for (int i = 1; i < argc; ++i) {
+    char* arg = argv[i];
+    if (arg[0] == '-') {
+      switch (arg[1]) {
+        case '-': {
+          char* option = arg + 2;
+          if (!strcmp(option, "quiet")) RESET(c, F_VERBOSE);
+          else if (!strcmp(option, "verbose")) SET(c, F_VERBOSE);
+          else if (!strcmp(option, "help")) SET(c, F_HELP);
+          else if (!strcmp(option, "strict")) RESET(c, F_INVALID_AS_DEFAULT);
+          else if (!strcmp(option, "list-names")) SET(c, F_LIST_NAMES);
+          else {
+            cerr << "Unknown option " << option << endl;
+            return 1;
+          }
+          break;
+        }
+        case 'q': RESET(c, F_VERBOSE); break;
+        case 'v': SET(c, F_VERBOSE); break;
+        case 'h': SET(c, F_HELP); break;
+        case 's': RESET(c, F_INVALID_AS_DEFAULT); break;
+        case 'l': SET(c, F_LIST_NAMES); break;
+        default: {
+          cerr << "Unknown option " << arg[1] << endl;
+          return 1;
+        }
+      }
+    }
+  }
+  return c;
+}
+
+// NOTE! Returns nullptr on error
+int normalizeIncNameList(set<string> &includedNames, set<string> &names,
+  map<string, string> &aliases, Config c) {
+  bool verbose = HAS(c, F_VERBOSE);
+  bool strict = !HAS(c, F_INVALID_AS_DEFAULT);
+  if (includedNames.empty()) {//no names
+    if (strict) {
+      cerr << "No names included." << endl;
+      return 1;
+    } else {
+      if (verbose)
+        cout << "No names included. Using Default" << endl;
+      includedNames = names;
+      return 0;
+    }
+  } else {
+    // no & since having it there sometimes causes segfaults
+    for (const string n : includedNames) {//for every name in the input
+      if (names.count(n) == 0) { // not found
+        string orig;
+        //  Yes, this is a single equals sign.         --v Not a derp or a typo.
+        if (aliases.count(n) != 0 && names.count(orig = aliases[n]) != 0) { // search for aliases
+          // Substitute the alias in the included names list with the original name
+          includedNames.erase(n);
+          includedNames.insert(orig);
+        }
+        else if (strict) {
+          cerr << "Name " << n << " not in list." << endl;
+          return 1;
+        } else {
+          if (verbose)
+            cout << "Name " << n << " not in list. Using Default" << endl;
+          includedNames = names; //default, everything goes
+          return 0;
+        }
+      }
+    }
+  }
+  return 0;
 }
