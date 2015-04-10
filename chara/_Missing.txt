@@ -55,7 +55,6 @@ Kiyohime
 
 Len'en
 L_Tsurubami
-L_Sukune
 
 SeitenTouji
 S_Teiki

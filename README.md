@@ -119,6 +119,7 @@ Absent any naming conflicts, there will be an alias without a prefix.)
 [02] Shou Amanomori "L_Shou"						<br>
 [02] Lumen Celeritas "L_Lumen", "Lumen"					<br>
 [02] Hibaru Kokutenshi "L_Hibaru", "Hibaru"				<br>
+[02] Sukune Katano "L_Sukune", "Sukune"					<br>
 [02] Adagumo no Yaorochi "L_Yaorochi", "Yaorochi"			<br>
 [02] Adagumo no Saragimaru "L_Saragimaru", "Saragimaru"			<br>
 [03] Sese Kitsugai "L_Sese", "Sese"					<br>
