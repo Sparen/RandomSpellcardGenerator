@@ -68,6 +68,7 @@ Raiko
 L_Yabusame Yabusame
 L_Tsubakura Tsubakura
 L_Sese Sese
+L_Tsugumi Tsugumi
 # SeitenTouji (Sparen)
 # Nansei (LENK64)
 # Chouyou (Fluffy8x)
