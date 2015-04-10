@@ -80,6 +80,7 @@ L_Sese Sese
 L_Tsugumi Tsugumi
 L_Iyozane Iyozane
 L_Fumikado Fumikado
+L_Shion Shion
 # SeitenTouji (Sparen)
 # Nansei (LENK64)
 # Chouyou (Fluffy8x)
