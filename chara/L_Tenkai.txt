@@ -1,0 +1,37 @@
+# Len'en Canon
+:sign
+Youmei
+Inverted Pillar
+Border Slash
+Origin Card
+Closed Eyes
+Three Monkeys
+:adj
+Dragon Head
+Danmaku
+Guri
+Dimensional
+Black
+Twin
+Prime
+:noun
+Tiles
+Barrier
+Carving
+Blade
+Deletion
+Gate
+Robes
+Cranes
+Minister
+:noun2
+Higurashi
+Miike
+:formatter
+_ in _
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

@@ -117,11 +117,13 @@ Absent any naming conflicts, there will be an alias without a prefix.)
 [02] Shou Amanomori "L_Shou"						<br>
 [02] Lumen Celeritas "L_Lumen", "Lumen"					<br>
 [02] Hibaru Kokutenshi "L_Hibaru", "Hibaru"				<br>
+[02] Adagumo no Saragimaru "L_Saragimaru", "Saragimaru"			<br>
 [03] Sese Kitsugai "L_Sese", "Sese"					<br>
 [03] Tsugumi Utamachi "L_Tsugumi", "Tsugumi"				<br>
 [03] Fujiwara no Iyozane "L_Iyozane", "Iyozane"				<br>
 [03] Taira no Fumikado "L_Fumikado", "Fumikado"				<br>
 [03] Shion "L_Shion", "Shion"						<br>
+[03] Tenkai Zuifeng "L_Tenkai", "Tenkai"				<br>
 
 ###SEITENTOUJI (SPAREN)###
 
