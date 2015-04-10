@@ -56,7 +56,6 @@ Yato
 Kiyohime
 
 Len'en
-L_Clause
 L_Tsurubami
 L_Jun
 L_Shou
