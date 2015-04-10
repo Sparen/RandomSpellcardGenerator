@@ -1,0 +1,23 @@
+# Len'en Canon
+:sign
+Darkness Card
+Cut Card
+Slash Card
+:adj
+Blind
+Melanistic
+Slit
+Imperceptible
+:noun
+Shot
+Snake
+Dragon
+:noun2
+the Imperceptible
+:formatter
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

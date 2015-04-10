@@ -67,6 +67,8 @@ Raiko
 # Len'en (JynX)
 L_Yabusame Yabusame
 L_Tsubakura Tsubakura
+L_Kurohebi Kurohebi
+L_Aoji Aoji
 L_Sese Sese
 L_Tsugumi Tsugumi
 # SeitenTouji (Sparen)
