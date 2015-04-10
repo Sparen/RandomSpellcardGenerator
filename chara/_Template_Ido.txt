@@ -1,0 +1,12 @@
+# Canon
+:sign
+:adj
+:noun
+:noun2
+:formatter
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

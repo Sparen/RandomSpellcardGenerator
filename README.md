@@ -101,7 +101,8 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 
 ###IDO###
 
-N/A
+[TLC] Marry Shepherd "Marry"							<br>
+[TLC] Corin Charite "Corin"							<br>
 
 ###LEN'EN (JYNX)###
 
