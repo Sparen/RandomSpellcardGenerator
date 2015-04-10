@@ -1,0 +1,35 @@
+# Len'en Canon
+:sign
+Cold Card
+Cold Wall
+Cold Flower
+Hot & Cold
+Sublimation
+Eruption
+Passing Shower
+:adj
+Temporary
+Shooting
+White
+Samidare
+Ice
+Steam
+Radiative
+:noun
+Sublimation
+Mist
+Boiler
+Needles
+Beginning
+Explosion
+Heat
+Cooling
+:noun2
+Spring
+:formatter
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

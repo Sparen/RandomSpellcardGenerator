@@ -56,11 +56,6 @@ Yato
 Kiyohime
 
 Len'en
-L_Kurohebi
-L_Aoji
-L_Hooaka
-L_Kuroji
-L_Clause
 L_Tsurubami
 L_Jun
 L_Shou
@@ -68,8 +63,6 @@ L_Hibaru
 L_Sukune
 L_Yaorochi
 L_Saragimaru
-L_Sese
-L_Tsugumi
 L_Iyozane
 L_Fumikado
 L_Shion

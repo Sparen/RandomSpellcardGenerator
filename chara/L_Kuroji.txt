@@ -1,0 +1,47 @@
+# Len'en Canon
+:sign
+Picture
+Front and Back
+Backstab
+Heredity
+RNA
+Chaotic Dance
+Overflow
+Reverse Card
+Stab
+Disaster Card
+Original Style
+:adj
+Reversed
+Reverse Transcription
+Samidare
+Invert
+Black
+Inverted
+:noun
+Film
+Traitors
+Messenger
+Retrovirus
+Maelstrom
+Understanding
+Injury
+Comprehension
+Death
+Arch
+Lingering Light
+Wings
+:noun2
+Glory
+:formatter
+_ and _
+End is End
+_ [Shitodo]
+The _ and the _
+_ Revolving at a Right Angle
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

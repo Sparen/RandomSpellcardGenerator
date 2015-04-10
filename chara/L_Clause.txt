@@ -1,0 +1,54 @@
+# Len'en Canon
+:sign
+Pressure
+Intense Pressure
+Floating
+Opposing Force
+Divine Punishment
+Needle Sword
+New Star
+Super Star
+Shining Star
+Unending
+Infinitude
+Perpetuity
+Far Off
+Disorientation
+Giant Planet
+Dark Card
+:adj
+Zone
+G-Free
+Tier
+Slow Throwing
+Thousand
+Super
+Hyper
+Eternal
+Immortal
+Endless
+Southern
+Last
+Search
+:noun
+Pressure
+Schwarzwald
+Zero
+Earth
+Planets
+Knife
+Nova
+Power
+Forever
+Cross
+Jupiter
+Crescent
+:noun2
+:formatter
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+the Annoyance
+:formatter

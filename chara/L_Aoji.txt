@@ -1,0 +1,34 @@
+# Len'en Canon
+:sign
+Current Wave
+Current Rush
+Curve Card
+Distortion Card
+Shitodo Card
+Whirlpool Card
+Rotation Card
+:adj
+Current
+Octo
+Spiral
+Blue
+Plastic
+Eastern
+:noun
+Blast
+Spiral
+Clark
+Wind
+Storm
+Leviathan
+Vortex
+Garbage Patch
+:noun2
+:formatter
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+the Whirlpool
+:formatter

@@ -1,0 +1,30 @@
+# Len'en Canon
+:sign
+Rotating Life
+Revolving Life
+Spinning Hell
+Hoof Card
+Cross Card
+:adj
+Carousel
+Rodeo
+Toss-About
+Pure
+Thoroughbred
+Cheap
+Diva
+:noun
+Horses
+Hell
+Perpetual Motion Machine
+Genes
+Impact
+:noun2
+:formatter
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+the Eggplant-Decorating Jockey
+:formatter
