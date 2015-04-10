@@ -57,7 +57,6 @@ Kiyohime
 
 Len'en
 L_Tsurubami
-L_Hibaru
 L_Sukune
 L_Yaorochi
 L_Saragimaru

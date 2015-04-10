@@ -75,6 +75,7 @@ L_Clause Clause
 L_Jun Jun
 L_Shou
 L_Lumen Lumen
+L_Hibaru Hibaru
 L_Sese Sese
 L_Tsugumi Tsugumi
 # SeitenTouji (Sparen)
