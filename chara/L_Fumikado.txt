@@ -1,0 +1,41 @@
+# Len'en Canon
+:sign
+Myoken
+Dharmatic Power
+Rigid Body
+Seven Stars
+Rigid Mind
+Strange Light
+Substitution
+Phantasm
+:adj
+Inherited Iron-Body
+The World
+:noun
+Rain
+Myoken
+Skin
+Legend
+Lights
+North
+Stars
+Emperor
+Emperor's Birth
+Shadows
+Hotbed
+Flask
+:noun2
+Swords
+Heaven's Blessing
+Iron
+the Pole Star
+:formatter
+The _ for the _
+The _ Outside the _
+_ Shining in the _
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

@@ -60,7 +60,6 @@ L_Tsurubami
 L_Sukune
 L_Yaorochi
 L_Saragimaru
-L_Fumikado
 L_Shion
 L_Tenkai
 
