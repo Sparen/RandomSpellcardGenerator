@@ -1,0 +1,12 @@
+# Len'en Canon
+:sign
+:adj
+:noun
+:noun2
+:formatter
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

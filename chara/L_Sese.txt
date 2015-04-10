@@ -1,0 +1,44 @@
+# Len'en Canon
+:sign
+Thrown Bone
+Spinning Husk
+Corpse Card
+Wicked Card
+Falling Bones
+Gasha-dokuro's
+Bone Piercing
+Circular Canon
+Cruel Death
+Marrow Cannon
+:adj
+Bone
+Cadaver
+Blotchy
+Giant Rotary
+Pleural
+Bone-Cutting
+:noun
+Boomerang
+Bones
+Corpse
+Heart
+Ribulose
+Bone
+Chest
+Labor
+Eulogy
+Punishment
+Buster
+Necropotence
+:noun2
+Bone Skewers
+:formatter
+_ & _
+_ Played with by a _
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+the Gasha-dokuro
+:formatter

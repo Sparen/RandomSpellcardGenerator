@@ -68,7 +68,6 @@ L_Hibaru
 L_Sukune
 L_Yaorochi
 L_Saragimaru
-L_Sese
 L_Tsugumi
 L_Iyozane
 L_Fumikado

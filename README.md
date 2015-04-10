@@ -108,6 +108,7 @@ Absent any naming conflicts, there will be an alias without a prefix.)
 
 [01] Yabusame Houren "L_Yabusame", "Yabusame"				<br>
 [01] Tsubakura Enraku "L_Tsubakura", "Tsubakura"			<br>
+[03] Sese Kitsugai "L_Sese", "Sese"					<br>
 
 ###SEITENTOUJI (SPAREN)###
 

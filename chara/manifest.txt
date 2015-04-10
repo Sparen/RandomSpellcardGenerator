@@ -67,6 +67,7 @@ Raiko
 # Len'en (JynX)
 L_Yabusame Yabusame
 L_Tsubakura Tsubakura
+L_Sese Sese
 # SeitenTouji (Sparen)
 # Nansei (LENK64)
 # Chouyou (Fluffy8x)
