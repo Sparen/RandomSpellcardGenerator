@@ -72,6 +72,7 @@ L_Aoji Aoji
 L_Hooaka Hooaka
 L_Kuroji Kuroji
 L_Clause Clause
+L_Jun Jun
 L_Sese Sese
 L_Tsugumi Tsugumi
 # SeitenTouji (Sparen)
