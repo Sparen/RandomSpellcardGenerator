@@ -1,0 +1,57 @@
+# Len'en Canon
+:sign
+Conviction
+Release Card
+Light Card
+Bundle Card
+God Card
+Criminal
+Shining Flame
+Corona
+Taiji
+Sumeru
+Bright Disaster
+Shining Card
+:adj
+Cross
+Stubby
+Amplifying
+Subliminal
+Flash
+Final
+Mirage
+Glittering
+Laser
+Blitz
+Constricting
+:noun
+Radiance
+Crossfire
+Feuer
+Shining Object
+Laser
+Rail
+Orbs
+Lines
+Halo
+Cross
+Flash
+Spark
+Stricture
+Tranquility
+Universe
+Constricting Universe
+Meteor Shower
+Chainsaw
+:noun2
+the Halo Effect
+One Billion Worlds
+:formatter
+_ and _
+One who is Burdened with the _
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter
