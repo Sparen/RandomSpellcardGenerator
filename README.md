@@ -110,6 +110,7 @@ Absent any naming conflicts, there will be an alias without a prefix.)
 [01] Tsubakura Enraku "L_Tsubakura", "Tsubakura"			<br>
 [01] Kurohebi "L_Kurohebi", "Kurohebi"					<br>
 [01] Aoji Shitodo "L_Aoji", "Aoji"					<br>
+[01] Hooaka Shitodo "L_Hooaka", "Hooaka"				<br>
 [03] Sese Kitsugai "L_Sese", "Sese"					<br>
 [03] Tsugumi Utamachi "L_Tsugumi", "Tsugumi"				<br>
 

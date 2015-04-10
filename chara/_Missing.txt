@@ -56,7 +56,6 @@ Yato
 Kiyohime
 
 Len'en
-L_Hooaka
 L_Kuroji
 L_Clause
 L_Tsurubami
