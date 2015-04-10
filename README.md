@@ -113,6 +113,9 @@ Absent any naming conflicts, there will be an alias without a prefix.)
 [01] Hooaka Shitodo "L_Hooaka", "Hooaka"				<br>
 [01] Kuroji Shitodo "L_Kuroji", "Kuroji"				<br>
 [01] Wilhelm von Clausewitz Halcyon Hisuimaru "L_Clause", "Clause"	<br>
+[02] Jun Amanomiya "L_Jun", "Jun"					<br>
+[02] Shou Amanomori "L_Shou"						<br>
+[02] Lumen Celeritas "L_Lumen", "Lumen"					<br>
 [03] Sese Kitsugai "L_Sese", "Sese"					<br>
 [03] Tsugumi Utamachi "L_Tsugumi", "Tsugumi"				<br>
 

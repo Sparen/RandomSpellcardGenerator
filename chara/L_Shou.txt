@@ -1,0 +1,46 @@
+# Len'en Canon
+:sign
+Ocean Body
+Seashell Cannon
+Mucus Card
+Dripping Card
+Slimy Card
+Growth
+Bamboo Shoot Battle
+Calling Voice
+Echoing Voice
+Slinking
+:adj
+Ubagai
+Green Willow
+Amagoi
+Scramble
+Slug
+:noun
+Street
+Columbiad
+Raindrops
+Stone
+Bamboo Shoots
+Rain
+Field
+Princess
+Grove
+Komachi
+Crossroad
+Scramble
+:noun2
+:formatter
+_ Wear Away the _
+Do _ Wear Away the _?
+_ don't Wear Away _
+_ After the _
+_ from the _, _ from the _
+One who Fakes the _
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+the Slug
+:formatter

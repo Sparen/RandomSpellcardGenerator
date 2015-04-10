@@ -1,0 +1,34 @@
+# Len'en Canon
+:sign
+Bangasa
+Umbrella Bombing
+Star Umbrella
+Hardship in Water
+Hardship in Rains
+Hardship in Storms
+:adj
+Umbrella Air-to-Ground
+Amatsubame
+Satellite
+:noun
+Bombardment
+Cluster
+Parasol
+Shrine
+Rain
+Wind
+Earth
+Water
+:noun2
+Rains
+Winds
+:formatter
+Shower in the _, Comb Hair with the _
+_ is Power, Thicker than _
+Striving through the _ and _
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter
