@@ -47,6 +47,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [07] Lyrica Prismriver "Lyrica"								<br>
 [07] Lunasa Prismriver "Lunasa"								<br>
 [07] Merlin Prismriver "Merlin"								<br>
+[07] Yuyuko Saigyouji "Yuyuko"								<br>
 [07] Ran Yakumo "Ran"									<br>
 [08] Wriggle Nightbug "Wriggle"								<br>
 [08] Mystia Lorelei "Mystia"								<br>

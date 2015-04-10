@@ -1,0 +1,110 @@
+# Touhou Canon
+:sign
+Losing Hometown
+Deadly Dance
+Flowery Soul
+Subtle Melody
+Cherry Blossom Sign
+Resurrection Butterfly
+Death Sign
+Deadly Butterfly
+Nether Sign
+Lost Again
+Spirit Sign
+Lifespan
+Cherry Blossom
+Ghostly Elegance
+Butterfly Sign
+Spirit Butterfly
+Ghostly Sign
+Banquet
+Symbol
+Ghostly Butterfly
+:adj
+Wandering
+Fatal
+Trackless
+Dead
+Poisonous
+Demon
+Ghost
+Swallowtail
+Deep-Rooted
+Butterfly
+False
+Phantom
+Divine
+Perfect Ink-Black
+Spring
+Ghastly
+Eternal
+Ageless
+Ghostly
+Saigyouji Flawless
+Death
+Floating
+Netherworld
+Resurrection
+Endless
+Lovely
+:noun
+Village
+Soul
+Sin
+Path
+Suicide
+Law
+Bewilderment
+Butterfly
+Moth
+World
+Delusion
+Repository
+Ghost
+Spirit
+Cherry Blossom
+Seal
+Sleep
+Bloom
+Dream
+Path
+Rise
+Ticket
+Land
+Weeping Higan Cherry
+Distantly Ancient Place
+Feast
+Nirvana
+Light Trap
+Deadly Lance
+Life
+Moon
+Mystery Spot
+Sense
+Dance
+Spot
+Evening
+Blizzard
+:noun2
+Self Loss
+Mortality
+Hirokawa
+Hakugyokurou
+Death
+Lingering Regrets
+Passing Away
+the Swallowtail Butterfly Crest
+Cherry Blossom
+Dead Butterflies
+:formatter
+_ -_-
+_ in _
+_ to the _
+_ from a _
+_, _
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter
