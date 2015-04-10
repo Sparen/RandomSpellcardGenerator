@@ -1,0 +1,56 @@
+# Len'en Canon
+:sign
+Poison Fang
+Protection Card
+Birth
+Cut Up
+Inward Force
+Gathering Force
+Suppressing Force
+Drunken Sword
+Stupor Sword
+Chop Up
+Excavation
+:adj
+Seven-Structured Temple's
+Split
+Ame-no-habakiri
+Doguu
+Cutting
+Sky Mowing
+Grass Mowing
+Cloud Mowing
+Heaven Mowing
+Serpent-Killing
+Drunkard's
+Plunging
+Falling
+:noun
+Teeth
+Sword
+Fangs
+Fetal Movement
+Tails
+Tail
+Shearing
+Dance
+Formation
+Emptiness
+Sake
+Eyes
+Bird
+Sky
+Cutter
+:noun2
+the Sky
+the Blue Sky
+the Cloud Mowing Sword
+:formatter
+The _ that Grinds its _
+To Gnaw with _ is to Bring Harm onto Yourself
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter
