@@ -13,6 +13,7 @@ Chen
 Lyrica
 Lunasa
 Merlin
+Yuyuko
 Ran
 Wriggle
 Mystia
@@ -44,6 +45,7 @@ Kogasa
 Ichirin
 Minamitsu Murasa
 Shou
+Byakuren
 Nue
 Hatate
 Kyouko
@@ -75,8 +77,14 @@ L_Clause Clause
 L_Jun Jun
 L_Shou
 L_Lumen Lumen
+L_Hibaru Hibaru
+L_Saragimaru Saragimaru
 L_Sese Sese
 L_Tsugumi Tsugumi
+L_Iyozane Iyozane
+L_Fumikado Fumikado
+L_Shion Shion
+L_Tenkai Tenkai
 # SeitenTouji (Sparen)
 # Nansei (LENK64)
 # Chouyou (Fluffy8x)

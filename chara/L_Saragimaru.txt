@@ -1,0 +1,47 @@
+# Len'en Canon
+:sign
+Rain and Snow
+Suffering
+Fleeting Thought
+Vanity
+Sacred Treasure
+Divine Grandson
+Transmigration
+Ritual
+Flashing Light
+:adj
+Mysterious
+Gathering
+Janome
+Swallow
+Vanishing
+:noun
+Traces
+Sword
+Ladder
+Clouds
+Mirror
+Heaven
+Magatama
+Spirits
+Sword
+Relations
+Eye
+Point
+Cut
+:noun2
+a Sword
+Hihayahi
+:formatter
+_ Built Between _
+The _ that Reflects _
+The _ that Controls _
+The _ that Doesn't Sever _
+The _ that will Never Disappear
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+the Orochi
+:formatter

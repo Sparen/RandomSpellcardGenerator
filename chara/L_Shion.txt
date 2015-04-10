@@ -1,0 +1,36 @@
+# Len'en Canon
+:sign
+Life or Death
+Instinct
+Ghost Child
+Bare Ghost
+Soul Siphon
+Life Engulf
+Mastication
+Digestion
+Absorption
+Incorporation
+Assimilation
+:adj
+Eros
+Vanishing
+:noun
+Thanatos
+Life
+Death
+Super-ego
+Feral Ghost
+Victor
+Fading Sense
+Existence
+:noun2
+Aveyron
+Self
+:formatter
+Instinct for _, Desire for _
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

@@ -10,7 +10,6 @@ Sakuya
 Remilia
 Alice
 Youmu
-Yuyuko
 Yukari
 Suika
 Udonge
@@ -19,7 +18,6 @@ Komachi
 Iku
 Tenshi
 Koishi
-Byakuren
 Sunny
 Star
 Luna
@@ -57,14 +55,8 @@ Kiyohime
 
 Len'en
 L_Tsurubami
-L_Hibaru
 L_Sukune
 L_Yaorochi
-L_Saragimaru
-L_Iyozane
-L_Fumikado
-L_Shion
-L_Tenkai
 
 SeitenTouji
 S_Teiki

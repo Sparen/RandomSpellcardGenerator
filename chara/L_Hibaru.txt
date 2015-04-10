@@ -1,0 +1,44 @@
+# Len'en Canon
+:sign
+Retribution
+Fruit
+Repayment
+Receiving Benefits
+Profit
+Purification Card
+Encirclement
+Union
+Huge Profit
+:adj
+Build
+Self-Destruct
+System
+Pyramid
+Finite Pyramid
+Money
+Life or Death
+Debt Collection
+Welfare Chain
+Building
+:noun
+Damage
+Formation
+Aegis
+Launcher
+Scheme
+Laundering
+Repayment
+Eulogy
+Members
+Organization
+Money
+:noun2
+:formatter
+_ Going to Hell
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+the Debt Collector
+:formatter

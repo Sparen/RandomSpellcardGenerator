@@ -1,0 +1,62 @@
+# Touhou Canon
+:sign
+Magic
+Good Omen
+Light Magic
+Great Magic
+Superhuman
+Flying Bowl
+Syncretism
+Heaven Sign
+Pestle Sign
+:adj
+Purple
+Cloudy
+Nirvana's Cloudy
+Magic
+Star
+Devil's
+Nikou Hijiri's
+Flying
+Legendary Flying
+Star Sword
+Angiras'
+Vajrapani's
+Garuda's
+:noun
+Omen
+Mist
+Way
+Purple
+Mystical Fragrance
+Butterfly
+Maelstrom
+Milky Way
+Recitation
+Air Scroll
+Fantastica
+Saucer
+Manifestation
+Apologetics
+Master
+Brilliance
+Five-Element Mountain
+Knowledge
+Incantation
+Wings
+Binding Laws
+Eyes
+:noun2
+a Makai Butterfly
+Mahavairocana
+the Great Trichiliocosm
+Shakyamuni
+Hari
+Brahma
+:formatter
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

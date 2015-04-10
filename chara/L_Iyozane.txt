@@ -1,0 +1,45 @@
+# Len'en Canon
+:sign
+Spirit Card
+River Protection
+Hades
+Wave Card
+Supremacy Card
+Spirit Fire
+Spirit Blaze
+Spirit Flow
+Wheel Spirit
+:adj
+Enticing
+Spiral
+Sanzu River
+Styx
+Strait
+Blaze
+Unsailing
+Great
+:noun
+Samsara
+Kyougoku Gate
+Rush
+Overflow
+Wave
+Stenosis
+Reversal
+Fellowship
+Lanterns
+Lights
+Ship
+Pirate
+:noun2
+Iyo
+the Blue Lotus
+:formatter
+_ Vanishing in Silence
+_ Returning to the Sea
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

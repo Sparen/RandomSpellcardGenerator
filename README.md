@@ -47,6 +47,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [07] Lyrica Prismriver "Lyrica"								<br>
 [07] Lunasa Prismriver "Lunasa"								<br>
 [07] Merlin Prismriver "Merlin"								<br>
+[07] Yuyuko Saigyouji "Yuyuko"								<br>
 [07] Ran Yakumo "Ran"									<br>
 [08] Wriggle Nightbug "Wriggle"								<br>
 [08] Mystia Lorelei "Mystia"								<br>
@@ -78,6 +79,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [12] Ichirin Kumoi "Ichirin"								<br>
 [12] Minamitsu Murasa "Minamitsu", "Murasa"						<br>
 [12] Shou Toramaru "Shou"								<br>
+[12] Byakuren Hijiri "Byakuren"								<br>
 [12] Nue Houjuu "Nue"									<br>
 [12.5] Hatate Himekaidou "Hatate"							<br>
 [13] Kyouko Kasodani "Kyouko"								<br>
@@ -116,8 +118,14 @@ Absent any naming conflicts, there will be an alias without a prefix.)
 [02] Jun Amanomiya "L_Jun", "Jun"					<br>
 [02] Shou Amanomori "L_Shou"						<br>
 [02] Lumen Celeritas "L_Lumen", "Lumen"					<br>
+[02] Hibaru Kokutenshi "L_Hibaru", "Hibaru"				<br>
+[02] Adagumo no Saragimaru "L_Saragimaru", "Saragimaru"			<br>
 [03] Sese Kitsugai "L_Sese", "Sese"					<br>
 [03] Tsugumi Utamachi "L_Tsugumi", "Tsugumi"				<br>
+[03] Fujiwara no Iyozane "L_Iyozane", "Iyozane"				<br>
+[03] Taira no Fumikado "L_Fumikado", "Fumikado"				<br>
+[03] Shion "L_Shion", "Shion"						<br>
+[03] Tenkai Zuifeng "L_Tenkai", "Tenkai"				<br>
 
 ###SEITENTOUJI (SPAREN)###
 
