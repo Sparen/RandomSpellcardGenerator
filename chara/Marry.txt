@@ -1,0 +1,29 @@
+# Canon
+:sign
+Scatter Sign
+Group Sign
+Spy Sign
+Stray Sign
+Merry Arcanum
+:adj
+Cotton
+Stray Sheep
+The Good
+Thunder
+Sheep's
+:noun
+Breeze
+Blizzard
+Clothing
+Finder
+Shepherd
+Wool
+:noun2
+:formatter
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+the Shepherd
+:formatter

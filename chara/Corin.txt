@@ -1,0 +1,35 @@
+# Canon
+:sign
+Fog Sign
+Darkness Sign
+Sacred Treasure
+Floating
+Somnambulism
+Pyre
+Purgatory
+:adj
+Bad
+Night Mist
+Flying Sky Mouse
+Sea Monster
+Nether Sea Monster
+Night
+Dreaming
+Current
+Forbidden Love's
+:noun
+Cloud
+Run
+Spear
+Walker
+Cremation
+Final Destination
+:noun2
+:formatter
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+the Vampire
+:formatter

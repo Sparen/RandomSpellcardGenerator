@@ -66,6 +66,10 @@ Shinmyoumaru Sukuna
 Raiko
 # Touhou Spinoff
 # Ido
+Marry
+Corin
+Phiased
+Janet
 # Len'en (JynX)
 L_Yabusame Yabusame
 L_Tsubakura Tsubakura
@@ -78,6 +82,8 @@ L_Jun Jun
 L_Shou
 L_Lumen Lumen
 L_Hibaru Hibaru
+L_Sukune Sukune
+L_Yaorochi Yaorochi
 L_Saragimaru Saragimaru
 L_Sese Sese
 L_Tsugumi Tsugumi

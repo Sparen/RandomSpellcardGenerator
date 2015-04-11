@@ -1,0 +1,51 @@
+# Len'en Canon
+:sign
+Construction
+Creation
+Grinding
+Create Life
+Volcano
+Hedgehog
+Blitz
+Cane Gun
+Barrier
+Guard Formation
+Mud Ball
+Mud Cluster
+Charge
+:adj
+Summon
+Pistachio
+Knead
+Grinder
+Haniwa
+Doguu
+Mud Boat
+Good
+Attack
+Fox
+The Four Haniwa
+Herokaruusu's Protective
+:noun
+Clay
+Haniwa
+Earth
+Duplication
+Automation
+Bombardment
+Weather
+Saints
+Deity
+Dolls
+Warriors
+Ice
+Crytal
+:noun2
+:formatter
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+the Haniwa
+:formatter

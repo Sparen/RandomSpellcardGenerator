@@ -1,0 +1,21 @@
+# Canon
+:sign
+Performance Sign
+Demise
+:adj
+La Pucelle
+Sky Paradise
+Angel's
+:noun
+Bugle
+Orchestra
+Brazier
+:noun2
+:formatter
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+the Angel
+:formatter
