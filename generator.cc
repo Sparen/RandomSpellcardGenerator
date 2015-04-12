@@ -105,7 +105,7 @@ void getNames(set<string> &names, map<string, string> &aliases) {
     if (*lineBuff == '#') continue;//ignore lines starting with #
     char* curr = strtok(lineBuff, " ,");
     char* first = curr;
-    names.insert(curr); //add the first name on each line to names
+    names.insert(string(curr)); //add the first name on each line to names
     while (curr != nullptr) {//for each other element on the line, map the alias to the main name
       curr = strtok(nullptr, " ,");
       if (curr != nullptr) aliases[string(curr)] = string(first);
