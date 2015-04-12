@@ -1,0 +1,48 @@
+# Canon
+:sign
+Gliding
+Unseen
+Storm
+Live Ammo
+Feint
+Disposal
+Lamp Sign
+Okuribi
+Accident
+Whirlwind
+Kamaitachi
+:adj
+Squirrel's
+Hidden Wings'
+Nodeppou's
+Walnut
+Rolling
+Three-Foot Unexploded
+Nobusuma's Secret
+Great Momonjii's
+Life-Guiding
+Noir
+Stealth Momo's Unchallenged
+:noun
+Hidden Wings
+Hidden Blades
+Recklessness
+Fall
+Chestnuts
+Shell
+Fire Breath
+Controlled Burn
+Tree
+Wind
+Position
+:noun2
+:formatter
+_, Oh My!
+_ in Flames
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+the Nobusuma
+:formatter

@@ -112,6 +112,8 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [TLC] Iesua Nazarenus "Iesua"							<br>
 [TLC] Elfin Mint "Elfin"							<br>
 [MPP] Aragami no Kusoko "Kusoko"						<br>
+[MPP] Momo Tobikura "Momo"							<br>
+[MPP] Saraka Sant'Angelo "Saraka"						<br>
 [MPP] An Yaezaki "An", "Kodama"							<br>
 
 ###LEN'EN (JYNX)###

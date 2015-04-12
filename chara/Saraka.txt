@@ -1,0 +1,54 @@
+# Canon
+:sign
+Cyclops
+Biclops
+Triclops
+Generation
+Judgement
+Scythe Sign
+Dark Sign
+Dark & Light
+Szygy
+Zangetsu
+Arcanum
+Great Scythe
+Soul Harvest
+:adj
+Evil
+Forbidden
+Solar Power
+Judgement
+Death Angel
+Sariel
+Moon
+Total
+Reincarnate
+Lunate
+Phantom Moon's
+Soul
+:noun
+Gaze
+Eye
+Third Eyes
+Conversion
+Death
+Lightning Blade
+Blade
+Goddess
+Eclipse
+Circle
+Slasher
+Sword
+Harvester
+Reaper
+:noun2
+Souls
+:formatter
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+the Fallen Angel
+the Soul Harvester
+:formatter
