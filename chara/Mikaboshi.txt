@@ -9,6 +9,9 @@ Temptation
 Recollection
 End
 Pride
+Revelation
+Flame Wind
+Tribulation
 :adj
 Dragon
 Leviathan's
@@ -30,8 +33,13 @@ Paradise
 Star
 Lightning
 Dawn in the World
+Wisdom
+Super-Rotation
+Hills
 :noun2
 Nothingness
+Gnosis
+Megiddo
 :formatter
 # Fanon
 :sign

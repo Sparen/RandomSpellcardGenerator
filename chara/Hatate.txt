@@ -16,5 +16,32 @@ Shot
 Psychography
 Paparazzi
 # Touhou Fanon
+:sign
+# Mystical Power Plant
+Superb Photo
+# Mystical Power Plant
+Sequential Photo
+# Mystical Power Plant
+Phantom Photo
+:adj
+# Mystical Power Plant
+Smart
+# Mystical Power Plant
+Lightning
+# Mystical Power Plant
+Smug Face
+# Mystical Power Plant
+Mimic
+# Mystical Power Plant
+Mythic
+:noun
+# Mystical Power Plant
+Spoiler
+# Mystical Power Plant
+Double Spoiler
+# Mystical Power Plant
+Gimmick
+# Mystical Power Plant
+Mimic
 :noun2
 the Crow Tengu

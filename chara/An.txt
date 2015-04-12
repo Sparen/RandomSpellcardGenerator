@@ -29,6 +29,10 @@ Green
 Guardian's
 Flowering
 Double-Flower Tearing
+Perforated
+Heavenly Cherry
+Ichimon
+Chrysanthemum Wing
 :noun
 Bomb
 Circular
@@ -49,12 +53,15 @@ Giant
 Garden
 Knights
 Sword Dancer
+Gate
+Formation
 :noun2
 14 Pines
 Influence
 Double-Flowered Reverse Umeboshi Crests
 :formatter
 _ Above the _
+Incident at the _
 # AN (non-repeats only)
 :sign
 Formation

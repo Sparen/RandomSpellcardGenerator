@@ -7,6 +7,10 @@ Oracle
 Ban Withdrawal
 Salvation
 Selection
+Asceticism
+Strength Technique
+Carelessness
+Zenith
 :adj
 Archangel
 Seraphim
@@ -18,6 +22,10 @@ Isaiah's
 Caligula's
 Moriya
 Zion's
+Mt. Purgatory's
+Mont Saint-Michel
+Uriel's
+Higher
 :noun
 Sword
 Laser
@@ -28,6 +36,10 @@ Dilemma
 Escalator
 Mountain Road
 Ladder
+Circular Road
+Access Improvement Plan
+Holy Sword
+Heaven
 :noun2
 Heaven
 :formatter

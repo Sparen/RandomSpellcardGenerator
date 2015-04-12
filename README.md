@@ -83,7 +83,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [12] Shou Toramaru "Shou"								<br>
 [12] Byakuren Hijiri "Byakuren"								<br>
 [12] Nue Houjuu "Nue"									<br>
-[12.5] Hatate Himekaidou "Hatate"							<br>
+[12.5] Hatate Himekaidou "Hatate" {+MPP}						<br>
 [13] Kyouko Kasodani "Kyouko"								<br>
 [13] Yoshika Miyako "Yoshika" [+PhantomSong, Hunguil]					<br>
 [13] Seiga Kaku "Seiga" [+PhantomSong]							<br>
@@ -108,7 +108,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [TLC] Phiased Pescar "Phiased"							<br>
 [TLC] Mumumu Mikaboshi "Mikaboshi", "Mumumu"					<br>
 [TLC] Janet Arc'Angelo "Janet"							<br>
-[TLC] Michel Arc'Angelo "Michel"						<br>
+[TLC] Michel Sant'Angelo "Michel"						<br>
 [TLC] Iesua Nazarenus "Iesua"							<br>
 [TLC] Elfin Mint "Elfin"							<br>
 [MPP] Aragami no Kusoko "Kusoko"						<br>
