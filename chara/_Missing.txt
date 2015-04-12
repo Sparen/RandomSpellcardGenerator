@@ -28,16 +28,9 @@ Kourin
 Kosuzu
 
 Ido:
-Mumumu
-Michel
-Iesua
-Elfin
-Kodama
-Kusoko
 Momo
 Saraka
 Tenmu
-An
 Mitama
 Riko
 Hatsuna
@@ -50,7 +43,7 @@ Yato
 Kiyohime
 
 Len'en
-L_Tsurubami
+N/A
 
 SeitenTouji
 S_Teiki

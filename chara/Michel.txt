@@ -1,0 +1,40 @@
+# Canon
+:sign
+Slash
+Crimson
+Revelation
+Oracle
+Ban Withdrawal
+Salvation
+Selection
+:adj
+Archangel
+Seraphim
+Tenfold Shining
+Decalogue-Engraving
+Flare
+Seraphic
+Isaiah's
+Caligula's
+Moriya
+Zion's
+:noun
+Sword
+Laser
+Snow
+Prophecy
+Notice
+Dilemma
+Escalator
+Mountain Road
+Ladder
+:noun2
+Heaven
+:formatter
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+the Archangel
+:formatter

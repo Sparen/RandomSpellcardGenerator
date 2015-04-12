@@ -1,0 +1,42 @@
+# Canon
+:sign
+Growth
+Ignition
+Boundary
+Winter Flurry Sign
+Maze
+Perfume
+Magic
+Prohibition
+:adj
+Seed
+Soldering
+Tree
+Etruria
+Kamon
+Sweet
+Danmaku License
+Pluto Afforestation
+:noun
+Weed Spirit
+Explode
+Ginger
+Saw
+Leaves
+Nightmare
+Butterfly
+Mint Arrow
+Suspension
+Bouquet
+Plan
+:noun2
+Mint
+Congratulations
+:formatter
+_ Hidden Among _
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

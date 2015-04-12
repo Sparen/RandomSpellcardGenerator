@@ -64,7 +64,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [10] Hina Kagiyama "Hina"								<br>
 [10] Nitori Kawashiro "Nitori" [+Byzantheryx]						<br>
 [10] Momiji Inubashiri "Momiji"								<br>
-[10] Sanae Kochiya "Sanae" [+Sparen, CK Crash]						<br>
+[10] Sanae Kochiya "Sanae" [+Sparen, CK Crash] {+TLC}					<br>
 [10] Kanako Yasaka "Kanako"								<br>
 [10] Suwako Moriya "Suwako"								<br>
 [11] Kisume "Kisume"									<br>
@@ -104,7 +104,13 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [TLC] Marry Shepherd "Marry"							<br>
 [TLC] Corin Charite "Corin"							<br>
 [TLC] Phiased Pescar "Phiased"							<br>
+[TLC] Mikaboshi Mumumu "Mikaboshi", "Mumumu"					<br>
 [TLC] Janet Arc'Angelo "Janet"							<br>
+[TLC] Michel Arc'Angelo "Michel"						<br>
+[TLC] Iesua Nazarenus "Iesua"							<br>
+[TLC] Elfin Mint "Elfin"							<br>
+[MPP] Aragami no Kusoko "Kusoko"						<br>
+[MPP] An Yaezaki "An", "Kodama"							<br>
 
 ###LEN'EN (JYNX)###
 
@@ -118,6 +124,7 @@ Absent any naming conflicts, there will be an alias without a prefix.)
 [01] Hooaka Shitodo "L_Hooaka", "Hooaka"				<br>
 [01] Kuroji Shitodo "L_Kuroji", "Kuroji"				<br>
 [01] Wilhelm von Clausewitz Halcyon Hisuimaru "L_Clause", "Clause"	<br>
+[01] Tsurubami Senri "L_Tsurubami", "Tsurubami"				<br>
 [02] Jun Amanomiya "L_Jun", "Jun"					<br>
 [02] Shou Amanomori "L_Shou"						<br>
 [02] Lumen Celeritas "L_Lumen", "Lumen"					<br>

@@ -1,0 +1,98 @@
+# KODAMA
+# Canon
+:sign
+Cherry Sign
+Hidden Cherry Sign
+Pine Sign
+Ice Needle
+Hidden Pine Sign
+Chrysanthemum Sign
+Hidden Chrysanthemum Sign
+Hollow God
+Protective God
+Battle Sign
+Swordfight
+Nature
+:adj
+Wild Cherry
+Seed-Sowing
+Spinning
+Needle
+Ironic
+Monocyclic
+Centaurea
+Scorzonera
+Chrysanthemum
+Shining
+Double-Flowered
+Green
+Guardian's
+Flowering
+Double-Flower Tearing
+:noun
+Bomb
+Circular
+Thunder Needle
+Grenade
+Dance
+Icicle
+Slash
+Saucer
+Halo
+Rings
+Star Blossom
+Gleaming Array
+Cherry Blossom Barrier
+Clouds
+Cherry Tree Profusion
+Giant
+Garden
+Knights
+Sword Dancer
+:noun2
+14 Pines
+Influence
+Double-Flowered Reverse Umeboshi Crests
+:formatter
+_ Above the _
+# AN (non-repeats only)
+:sign
+Formation
+Blowing Petals
+Autumn Sign
+Division
+Self
+Control Sign
+Kodama
+Burial Concert
+:adj
+Photosynthetic
+Superconductive
+Kukunochi
+Sugawara Cherry Blossom
+Ultimate Cherry Blossom
+Tobiume Fallen Leaf
+Plum
+Amplify
+:noun
+Power Generation
+Tobiume Drive
+Overdrive
+Blizzard
+Hell
+Brain
+Dark Green Ark
+Fresh Green Ark
+Musical Accompaniment
+Ensemble
+:noun2
+the Dead
+Noah
+the Covenant
+:formatter
+# Fanon (both An and Kodama)
+:sign
+:adj
+:noun
+:noun2
+:formatter
