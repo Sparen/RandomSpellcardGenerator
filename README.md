@@ -109,6 +109,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [TLC] Michel Arc'Angelo "Michel"						<br>
 [TLC] Iesua Nazarenus "Iesua"							<br>
 [TLC] Elfin Mint "Elfin"							<br>
+[MPP] An Yaezaki "An", "Kodama"							<br>
 
 ###LEN'EN (JYNX)###
 

@@ -74,6 +74,7 @@ Janet
 Michel
 Iesua
 Elfin
+An Kodama
 # Len'en (JynX)
 L_Yabusame Yabusame
 L_Tsubakura Tsubakura
