@@ -1,0 +1,44 @@
+# Canon
+:sign
+Spring Sign
+Hot Spring
+Drug Sign
+False Vow
+Faith
+Lapis Light
+Magic Circle
+Treasured orb
+Sun Moon Sign
+Forbidden Drug
+:adj
+Aqua
+Super
+Koujin-Brand
+Asura's
+Kishin Sealing
+Kishin Great Sealing
+False
+:noun
+Pillar
+Splasher
+Energy Drink
+Twelve Lines
+Light
+Faith
+Sea
+Bead
+Orb
+Mandala
+Gods
+Demons
+:noun2
+Light
+:formatter
+_ Beget _
+_ that Transcended the _
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter
