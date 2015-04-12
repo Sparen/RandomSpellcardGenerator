@@ -64,7 +64,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [10] Hina Kagiyama "Hina"								<br>
 [10] Nitori Kawashiro "Nitori" [+Byzantheryx]						<br>
 [10] Momiji Inubashiri "Momiji"								<br>
-[10] Sanae Kochiya "Sanae" [+Sparen, CK Crash]						<br>
+[10] Sanae Kochiya "Sanae" [+Sparen, CK Crash] {+TLC}					<br>
 [10] Kanako Yasaka "Kanako"								<br>
 [10] Suwako Moriya "Suwako"								<br>
 [11] Kisume "Kisume"									<br>
@@ -107,6 +107,8 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [TLC] Mikaboshi Mumumu "Mikaboshi", "Mumumu"					<br>
 [TLC] Janet Arc'Angelo "Janet"							<br>
 [TLC] Michel Arc'Angelo "Michel"						<br>
+[TLC] Iesua Nazarenus "Iesua"							<br>
+[TLC] Elfin Mint "Elfin"							<br>
 
 ###LEN'EN (JYNX)###
 

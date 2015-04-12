@@ -1,0 +1,41 @@
+# Canon
+:sign
+Fish Sign
+Great Catch
+Wonder
+Lineage Sign
+Great Miracle
+United Spirit
+New Theory
+Fathom
+Mourning Item
+Relic
+Most Luminous
+:adj
+Immanuel's
+Angel
+New Testament's
+:noun
+Angelfish
+Jordan River
+Blood Line
+Resurrection
+Walking Water
+Thin Ice
+Crown
+Iron Crown
+Halo
+Star Chapter
+:noun2
+the Dead
+the Sea of Galilee
+Thorns
+the Holy Emperor
+:formatter
+_ on the _
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

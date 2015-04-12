@@ -67,10 +67,16 @@ Divine Intervention
 Modern Miracle
 # CK Crash Sanae
 Divine Wrath
+# The Last Comer
+Hollow God
 :adj
+# The Last Comer
+Disguised
 :noun
 # Sparen Sanae
 Shatter
+# The Last Comer
+Natural Law
 :noun2
 # Sparen Sanae
 the Heavens
