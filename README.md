@@ -59,6 +59,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [08] Fujiwara no Mokou "Mokou"								<br>
 [09] Medicine Melancholy "Medicine"							<br>
 [09] Yuuka Kazami "Yuuka", "Yuka" [+Darkness1]						<br>
+[09] Komachi Onozuka "Komachi"								<br>
 [09] Eiki Shiki Yamaxanadu "Shikieiki", "Eiki" 						<br>
 [10] Shizuha Aki "Shizuha"								<br>
 [10] Minoriko Aki "Minoriko"								<br>

@@ -1,0 +1,54 @@
+# Touhou Canon
+:sign
+Throw Away
+Death
+Death Song
+Old Rain
+Death Price
+Boat Sign
+Poor Fate
+Spirit Sign
+Exchange
+Malice Sign
+Death Sign
+Hell
+Soul Sign
+:adj
+Yesterday's
+Higan
+Liminal Journey through
+Abundant
+Unvalued
+Valued
+Regretful
+:noun
+Money
+Retour
+Ferry
+Yomi
+Price
+Flow
+Wandering Spirits
+Life
+Bound Spirits
+Scythe
+Narrow Confines
+Awakening
+Game
+Scythe
+:noun2
+the Deep Fog
+Life
+the River
+Final Judgement
+Avici
+the Ancient Earthbound Spirits
+the Soul
+Roaming Spirits
+:formatter
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter
