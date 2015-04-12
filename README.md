@@ -104,7 +104,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [TLC] Marry Shepherd "Marry"							<br>
 [TLC] Corin Charite "Corin"							<br>
 [TLC] Phiased Pescar "Phiased"							<br>
-[TLC] Mikaboshi Mumumu "Mikaboshi", "Mumumu"					<br>
+[TLC] Mumumu Mikaboshi "Mikaboshi", "Mumumu"					<br>
 [TLC] Janet Arc'Angelo "Janet"							<br>
 [TLC] Michel Arc'Angelo "Michel"						<br>
 [TLC] Iesua Nazarenus "Iesua"							<br>
