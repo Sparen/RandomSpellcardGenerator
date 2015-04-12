@@ -53,6 +53,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [08] Mystia Lorelei "Mystia"								<br>
 [08] Keine Kamishirasawa "Keine"							<br>
 [08] Tewi Inaba "Tewi", "Tei"								<br>
+[08] Reisen Udongein Inaba "Udonge", "Reisen"						<br>
 [08] Kaguya Houraisan "Kaguya"								<br>
 [08] Eirin Yagokoro "Eirin"								<br>
 [08] Fujiwara no Mokou "Mokou"								<br>

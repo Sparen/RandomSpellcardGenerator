@@ -1,0 +1,116 @@
+# Touhou Canon
+:sign
+Wave Sign
+Illusion Sign
+Lunatic Sign
+Lunatic Gaze
+Loafing Sign
+Spread Sign
+Indolence
+Lunar Eyes
+Scatter Sign
+Mad Dream
+Charming Look
+Illusion Bomb
+Fascination
+Weak Heart
+Empty Heart
+Poison Smokescreen
+Life Elixir
+Force Sign
+Illusion Bullet
+Farsight
+Shortsight
+Red Eye
+:adj
+Red-Eyed
+Mind
+Hallucinogenic
+Visionary
+Lunatic Stare
+Illusion
+Life and Spirit
+Idling
+Invisible
+Lunar Rabbit's Remote
+Lunatic
+Luna
+Lunar Surface
+Hazy Moon Flower
+Mist
+Dream
+Disjointed Circular
+Corolla
+Myopic
+Crown
+Empty
+Gas-Woven
+Peerless Patriot's
+Grand Patriot's
+Menacing
+Concurrent
+Bluff
+Parallel
+Infrared
+Red
+Ultrashort
+X
+Circle
+:noun
+Hypnosis
+Shaker
+Blowing
+Tuning
+Seeker
+Wave
+Stopper
+Stopping
+Full Moon
+Moon
+Mesmerism
+Stare
+Ripple
+Dream
+Megalopolis
+Branch
+Rocket
+Half-Moon
+World
+Corolla
+Vision
+Firework
+Starmine
+Glance
+Demotivation
+Heart
+Mind
+Scars
+Discarder
+Orb
+Elixir
+Hallucination
+Obsessioner
+Parallax
+Barrage
+Crossing
+Cross
+Moonlight
+Brainwave
+Blast
+:noun2
+Truth
+the Hazy Phantom Moon
+Prosperity
+Illusion
+Insanity
+an Empty Heart
+:formatter
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+the Moon Rabbit
+Madness
+Insanity
+:formatter
