@@ -28,7 +28,6 @@ Kourin
 Kosuzu
 
 Ido:
-Mumumu
 Michel
 Iesua
 Elfin
@@ -50,7 +49,7 @@ Yato
 Kiyohime
 
 Len'en
-L_Tsurubami
+N/A
 
 SeitenTouji
 S_Teiki

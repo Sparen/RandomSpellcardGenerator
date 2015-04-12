@@ -1,0 +1,41 @@
+# Len'en Canon
+:sign
+Dark Card
+Mysterious Card
+Shadow Card
+Hot & Cold
+Shrouding Paint
+Blind Fire
+Whirlpool Card
+Crane's Cry
+Engraving Card
+Bird's Eye
+Non-existent Seal
+:adj
+Search
+Monochrome
+Dim
+Blind
+Spiral Galaxy
+Pitch-black
+Empty
+:noun
+Crescent
+Bivalence
+Room
+Fire
+Barrier
+Lamentations
+Clock
+Eye
+Being
+:noun2
+the Crane's Cry
+:formatter
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+the Senri Priest
+:formatter

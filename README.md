@@ -104,7 +104,9 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [TLC] Marry Shepherd "Marry"							<br>
 [TLC] Corin Charite "Corin"							<br>
 [TLC] Phiased Pescar "Phiased"							<br>
+[TLC] Mikaboshi Mumumu "Mikaboshi", "Mumumu"					<br>
 [TLC] Janet Arc'Angelo "Janet"							<br>
+[TLC] Michel Arc'Angelo "Michel"						<br>
 
 ###LEN'EN (JYNX)###
 
@@ -118,6 +120,7 @@ Absent any naming conflicts, there will be an alias without a prefix.)
 [01] Hooaka Shitodo "L_Hooaka", "Hooaka"				<br>
 [01] Kuroji Shitodo "L_Kuroji", "Kuroji"				<br>
 [01] Wilhelm von Clausewitz Halcyon Hisuimaru "L_Clause", "Clause"	<br>
+[01] Tsurubami Senri "L_Tsurubami", "Tsurubami"				<br>
 [02] Jun Amanomiya "L_Jun", "Jun"					<br>
 [02] Shou Amanomori "L_Shou"						<br>
 [02] Lumen Celeritas "L_Lumen", "Lumen"					<br>

@@ -1,0 +1,42 @@
+# Canon
+:sign
+Impure Sign
+Jealousy
+Devour
+Rage
+Surfeit
+Temptation
+Recollection
+End
+Pride
+:adj
+Dragon
+Leviathan's
+Greed
+Ignite
+Gluttony
+Lazy One's
+Lost Last
+Red
+Lucifer
+:noun
+Spit
+Dinner
+Glide
+Fang
+Victory
+Last Day
+Paradise
+Star
+Lightning
+Dawn in the World
+:noun2
+Nothingness
+:formatter
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+Lucifer
+:formatter

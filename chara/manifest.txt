@@ -69,7 +69,9 @@ Raiko
 Marry
 Corin
 Phiased
+Mikaboshi Mumumu
 Janet
+Michel
 # Len'en (JynX)
 L_Yabusame Yabusame
 L_Tsubakura Tsubakura
@@ -78,6 +80,7 @@ L_Aoji Aoji
 L_Hooaka Hooaka
 L_Kuroji Kuroji
 L_Clause Clause
+L_Tsurubami Tsurubami
 L_Jun Jun
 L_Shou
 L_Lumen Lumen
