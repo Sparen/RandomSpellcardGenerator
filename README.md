@@ -69,6 +69,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [10] Sanae Kochiya "Sanae" [+Sparen, CK Crash] {+TLC}					<br>
 [10] Kanako Yasaka "Kanako"								<br>
 [10] Suwako Moriya "Suwako"								<br>
+[10.5] Iku Nagae "Iku"									<br>
 [11] Kisume "Kisume"									<br>
 [11] Yamame Kurodani "Yamame"								<br>
 [11] Parsee Mizuhashi "Parsee"								<br>

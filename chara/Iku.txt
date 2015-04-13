@@ -1,0 +1,63 @@
+# Touhou Canon
+:sign
+Electric Sign
+Fish Sign
+Lightning Sign
+Star Light
+Lightning Fish
+Angel's Raiment
+Thorn Sign
+Spine Sign
+Dragonfish
+Light Orb
+Thunder Sign
+Cloud Realm
+Jewel Sign
+Orb Sign
+Dragon Palace
+:adj
+Thunder
+Dragonfish
+Elekiter
+Light Dragon's
+Swimming
+Veils Like
+Thundercloud
+Swimming Oarfish
+Dragon Palace Messenger's
+Dragon's Gleaming
+Thunder
+Lightning
+:noun
+Drum Shot
+Drill
+Palace
+Sigh
+Thunder Shot
+Veils
+Stickleback
+Acanthodii
+Shot
+Swimming Shot
+Eyes
+Residence
+Court
+Sea
+Orb
+Pearl
+Fish
+Dance
+:noun2
+the Thunder Clouds
+the Thunder God
+Abstruse Clouds
+the Five-Clawed Dragon
+Sea Breams and Flounders
+:formatter
+_ in the _
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter
