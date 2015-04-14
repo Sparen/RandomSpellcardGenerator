@@ -1,0 +1,58 @@
+# Canon
+:sign
+Wet Wind
+Cascade Sign
+Dry Wind
+Shooting Star
+Ultimate Star
+Spiriting Away
+Paraphrasing
+Anger Sign
+Sutra Sign
+Scarlet Sign
+Evil Book
+Funeral Pyre
+Fantasy
+:adj
+Yasoba
+Fantastic Submergence
+One-Way
+Tenmu Meteor
+Tengu
+Unrivaled
+Invincible
+Devilry
+Bloodstained Makai
+Garuda's
+Royal
+Ghost
+Emperor
+:noun
+Launcher
+Waterfall
+Bullets
+Burning
+Starburst
+Legend
+Zone
+Camouflage
+Ray
+Spiriting Away
+Echo
+Document
+Grimoire
+Heavenly Dance
+Monster
+Stalker
+Sutoku
+:noun2
+the Sixth Heaven
+Angen
+the Demon Emperor in Hiding
+:formatter
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

@@ -1,0 +1,68 @@
+# Canon
+:sign
+Doppelganger
+Self Performance
+Control Performance
+Ancestor
+Calamity Sign
+Thunder Arrow
+Magic Bullet
+Borrowed Item
+Thunder Note
+Magpie Bridge
+Rainbow Bridge
+Great Thunder Blaze
+Great Thunder God
+:adj
+Lord Thunder's
+Ancient Japan's
+Electric Tree
+Impossible to Dispatch
+First-Shot
+Oni Yoshika
+Thunder
+Inazuma
+Minstrel
+Life-Guiding Infinite
+Life-Stealing
+Infinite Light
+:noun
+Mischief
+Three Great Vengeful Spirits
+Calligraphy
+Magahara
+Tang Dynasty Envoys
+Thunderstorm
+Southern Wind
+Miracle
+Ceremony
+Tenmanguu
+Bow
+Bird
+Raven
+Path
+Heiankyou
+Age
+Eight Thunder Gods
+Power Plant
+Tree
+Light
+Reversal
+:noun2
+the Kouan Era
+the Celestials
+Genzamni Yorimasa
+Degeneracy
+Yomotsu
+Life
+:formatter
+_ in the _
+The _ to _
+_ at _
+_ and the _
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

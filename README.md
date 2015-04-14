@@ -115,7 +115,9 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [MPP] Aragami no Kusoko "Kusoko"						<br>
 [MPP] Momo Tobikura "Momo"							<br>
 [MPP] Saraka Sant'Angelo "Saraka"						<br>
+[MPP] Tenmu Suitokuin "Tenmu"							<br>
 [MPP] An Yaezaki "An", "Kodama"							<br>
+[MPP] Mitama Magahara "Mitama"							<br>
 
 ###LEN'EN (JYNX)###
 

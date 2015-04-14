@@ -80,7 +80,9 @@ Elfin
 Kusoko
 Momo
 Saraka
+Tenmu
 An Kodama
+Mitama
 # Len'en (JynX)
 L_Yabusame Yabusame
 L_Tsubakura Tsubakura
