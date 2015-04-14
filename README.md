@@ -118,6 +118,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [MPP] Tenmu Suitokuin "Tenmu"							<br>
 [MPP] An Yaezaki "An", "Kodama"							<br>
 [MPP] Mitama Magahara "Mitama"							<br>
+[MPP] Riko Toone "Riko"								<br>
 
 ###LEN'EN (JYNX)###
 

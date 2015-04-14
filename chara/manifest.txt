@@ -83,6 +83,7 @@ Saraka
 Tenmu
 An Kodama
 Mitama
+Riko
 # Len'en (JynX)
 L_Yabusame Yabusame
 L_Tsubakura Tsubakura
