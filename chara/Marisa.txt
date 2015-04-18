@@ -52,6 +52,7 @@ Mysterious
 Grand
 Super
 Satellite
+Magic
 :noun
 Spark
 Laser
@@ -87,19 +88,28 @@ Pulsar
 Light Dance
 Reflection
 Refraction
+Stardust
 # START Lunarethic Marisa
 Stellar Sign
 Light Trap
 # END Lunarethic Marisa
+# PhantomSong Marisa
+Constellation
 :adj
 Bright
 Reflective
 Refractive
 Astral
+Comet
+Little
 # START Lunarethic Marisa
 Millenium
 Universal
 # END Lunarethic Marisa
+# START TalosMistake Marisa
+Familiar
+Fatal
+# END TalosMistake Marisa
 :noun
 Comet
 # START Lunarethic Marisa
@@ -108,6 +118,16 @@ Star Gazer
 Ensnare
 Pulsation
 # END Lunarethic Marisa
+# START TalosMistake Marisa
+Grenade
+Trap
+Kaleidoscope
+# END TalosMistake Marisa
+# START PhantomSong Marisa
+Storm
+Dipper
+Odyssey
+# END PhantomSong Marisa
 :noun2
 the Stars
 the Sky

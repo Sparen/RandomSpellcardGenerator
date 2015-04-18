@@ -16,4 +16,6 @@ All you need to do is send a pull request, and add the character into the main R
 Note on citing sources:
 When citing interesting or creative spellcard name components from scripts, # <Scripter's name> <Name of boss(es)> right above. See Yuuka.txt for an example
 
-Standard format is, within each category, to have # START <Scripter's name> <Name of boss(es)> and # END <Scripter's name> <Name of boss(es)> to mark the citation block if there are multiple words from a particular script. If there is only one, a simple # <Scripter's name> <Name of boss(es)> should precede the word or phrase
+Standard format is, within each category, to have # START <Scripter's name> <Name of boss(es)> and # END <Scripter's name> <Name of boss(es)> to mark the citation block if there are multiple words from a particular script. If there is only one, a simple # <Scripter's name> <Name of boss(es)> should precede the word or phrase. 
+
+Preferably, generic/non-cited words come first in a category, followed by citations.
