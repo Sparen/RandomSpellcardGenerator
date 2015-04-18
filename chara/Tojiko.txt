@@ -12,24 +12,22 @@ Thunder
 :noun2
 # Touhou Fanon
 :sign
-# EUB
+# START Ephemeral Unnatural Balance
 Flashbang
-# EUB
 Thunder War
-# EUB
 Heavenly Arrow
+# END Ephemeral Unnatural Balance
 :adj
-# EUB
+# START Ephemeral Unnatural Balance
 Raijin's
-# EUB
 Thor's
+# END Ephemeral Unnatural Balance
 :noun
-# EUB
+# START Ephemeral Unnatural Balance
 Roar
-# EUB
 Rage
-# EUB
 Tempest
+# END Ephemeral Unnatural Balance
 :noun2
-# EUB
+# Ephemeral Unnatural Balance
 Susano'o

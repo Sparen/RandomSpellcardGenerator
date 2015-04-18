@@ -34,8 +34,8 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 ###TOUHOU###
 
 [01] Reimu Hakurei "Reimu"								<br>
-[02] Marisa Kirisame "Marisa"								<br>
-[03] Yumemi Okazaki "Yumemi"								<br>
+[02] Marisa Kirisame "Marisa" [+Lunarethic]						<br>
+[03] Yumemi Okazaki "Yumemi" [+Lunarethic, GTBot]					<br>
 [06] Rumia "Rumia"									<br>
 [06] Cirno "Cirno"									<br>
 [06] Hong Meiling "Meiling", "Meirin"							<br>

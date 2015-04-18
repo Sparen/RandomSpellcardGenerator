@@ -18,25 +18,22 @@ Snap
 Winter
 # Touhou Fanon
 :adj
-# TalosMistake Letty
+# START TalosMistake Letty
 Unreasonable
-# TalosMistake Letty
 Glacial
-# TalosMistake Letty
 Mystical
-# Ultima Letty
+# END TalosMistake Letty
+# START Ultima Letty
 Winter Celebration
-# Ultima Letty
 Blizzard
+# END Ultima Letty
 :noun
-# TalosMistake Letty
+# START TalosMistake Letty
 Hailstone
-# TalosMistake Letty
 Cyclone
-# TalosMistake Letty
 Missile
-# TalosMistake Letty
 Barrier
+# END TalosMistake Letty
 Storm
 Snow
 # Ultima Letty

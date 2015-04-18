@@ -20,12 +20,11 @@ Claw
 :sign
 # PhantomSong Seiga
 Consumption
-# Hunguil Yoshika
+# START Hunguil Yoshika
 Zombie Sign
-# Hunguil Yoshika
 Ancient Poetry
-# Hunguil Yoshika
 Vicarious Life
+# END Hunguil Yoshika
 :adj
 # Hunguil Yoshika
 Zombie Repelling
@@ -33,16 +32,15 @@ Spirit
 Jiangshi
 Rigid
 :noun
-# PhantomSong Seiga
+# START PhantomSong Seiga
 Miasma
-# PhantomSong Seiga
 Feast
-# Hunguil Yoshika
+# END PhantomSong Seiga
+# START Hunguil Yoshika
 Rooster Call
-# Hunguil Yoshika
 Healing
-# Hunguil Yoshika
 Bell
+# END Hunguil Yoshika
 Paradise
 :noun2
 the Jiangshi

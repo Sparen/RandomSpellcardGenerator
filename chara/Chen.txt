@@ -36,10 +36,10 @@ Jikoku-ten
 Idaten
 # Touhou Fanon
 :sign
-# Rikako Chen
+# START Rikako Chen
 Curse Sign
-# Rikako Chen
 Pseudo-Border
+# END Rikako Chen
 :adj
 # Rikako Chen
 Bewitched

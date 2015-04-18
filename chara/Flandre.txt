@@ -21,12 +21,11 @@ Love
 495 Years
 # Touhou Fanon
 :sign
-# PhantomSong Flandre
+# START PhantomSong Flandre
 Forbidden Game
-# PhantomSong Flandre
 Forbidden Tool
-# PhantomSong Flandre
 Destruction
+# END PhantomSong Flandre
 :adj
 # PhantomSong Flandre
 Ancient

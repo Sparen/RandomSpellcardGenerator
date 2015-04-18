@@ -31,10 +31,10 @@ Wormhole
 Corruption
 Hermit Sign
 :adj
-# PhantomSong Seiga
+# START PhantomSong Seiga
 Wicked
-# PhantomSong Seiga
 Divine
+# END PhantomSong Seiga
 :noun
 # PhantomSong Seiga
 Spirit

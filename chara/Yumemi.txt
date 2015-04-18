@@ -1,42 +1,34 @@
 # Touhou Fanon
 :sign
-# Lunarethic ICM Yumemi
-Artifice
 Dream Sign
-# Lunarethic ICM Yumemi
+# START Lunarethic ICM Yumemi
+Artifice
 Research
-# Lunarethic ICM Yumemi
 Fantasy Sign
+# END Lunarethic ICM Yumemi
 # GTBot Yumemi
 Artificial Magic
 :adj
-# Lunarethic ICM Yumemi
+# START Lunarethic ICM Yumemi
 Transcendent
-# Lunarethic ICM Yumemi
 Elusive
-# Lunarethic ICM Yumemi
 Cross
-# Lunarethic ICM Yumemi
 Artificial
-# Lunarethic ICM Yumemi
 Day Break
-# Lunarethic ICM Yumemi
 Shattering
+# END Lunarethic ICM Yumemi
 # GTBot Yumemi
 Dimensional
 Strawberry
 Dream
 :noun
-# Lunarethic ICM Yumemi
+# START Lunarethic ICM Yumemi
 Daymare
-# Lunarethic ICM Yumemi
 Phantasm
-# Lunarethic ICM Yumemi
 Prominence
-# Lunarethic ICM Yumemi
 Illusion
-# Lunarethic ICM Yumemi
 Dream
+# END Lunarethic ICM Yumemi
 # GTBot Yumemi
 Crush
 Cross

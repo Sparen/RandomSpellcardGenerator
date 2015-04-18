@@ -52,19 +52,18 @@ Gun
 :sign
 :adj
 Megawatt
-# Byzantheryx Nitori
+# START Byzantheryx Nitori
 Artificial
-# Byzantheryx Nitori
 Stealth
-# Byzantheryx Nitori
 Floating
+# END Byzantheryx Nitori
 :noun
 Linear Gun
 Drowning
-# Byzantheryx Nitori
+# START Byzantheryx Nitori
 Approach
-# Byzantheryx Nitori
 Ooze
+# END Byzantheryx Nitori
 :noun2
 the Kappa
 the Engineer

@@ -66,22 +66,22 @@ Septentrion
 Great Stars
 # Touhou Fanon
 :sign
-# Rogus Utsuho
+# START Rogus Utsuho
 Solar Flare
-# Rogus Utsuho
 Astronomical Heirarchy
+# END Rogus Utsuho
 Nuclear Meltdown
 :adj
-# Rogus Utsuho
+# START Rogus Utsuho
 Immeasurable
-# Rogus Utsuho
 Multistellar
+# END Rogus Utsuho
 Blazing Power
 :noun
 Nuclear Energy
-# Rogus Utsuho
+# START Rogus Utsuho
 Orbital System
-# Rogus Utsuho
 Excursion
+# END Rogus Utsuho
 :noun2
 the Yatagarasu

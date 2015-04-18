@@ -13,32 +13,31 @@ Nature
 # Touhou Fanon
 :sign
 Nature Sign
-# Darkness1 Yuuka
-Magic Growth
-# Darkness1 Yuuka
-Reawakening
 Phantasm
-# Darkness1 Yuuka
+# START Darkness1 Yuuka
+Magic Growth
+Reawakening
 Ultimate Magic
+# END Darkness1 Yuuka
 :adj
 Dual
-# Darkness1 Yuuka
-Netherworld
 Infinite
-# Darkness1 Yuuka
+# START Darkness1 Yuuka
+Netherworld
 Grasping
+# END Darkness1 Yuuka
 :noun
 Energy
 Floral
 :noun
 Blossom
 Blooming
-# Darkness1 Yuuka
-Thicket
-Devourer
-# Darkness1 Yuuka
-Illusion
 Petals
+Devourer
+# START Darkness1 Yuuka
+Thicket
+Illusion
+# END Darkness1 Yuuka
 :noun2
 # Darkness1 Yuuka
 the Ageless Flower

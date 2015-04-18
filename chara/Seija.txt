@@ -25,15 +25,15 @@ the Dream Bow
 :formatter
 # Touhou Fanon
 :sign
-# TalosMistake Seija
+# START TalosMistake Seija
 Horizontal
-# TalosMistake Seija
 Flipping Sign
+# END TalosMistake Seija
 :adj
-# TalosMistake Seija
+# START TalosMistake Seija
 Side Storm
-# TalosMistake Seija
 Nightmare
+# END TalosMistake Seija
 :noun
 Arrows
 # TalosMistake Seija

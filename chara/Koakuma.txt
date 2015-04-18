@@ -1,16 +1,19 @@
 # Touhou Canon
 # Touhou Fanon
 :sign
-# Lunarethic Koakuma
+# START Lunarethic Koakuma
 Hailstorm
 Magic Fire
+# END Lunarethic Koakuma
 :adj
-# Lunarethic Koakuma
+# START Lunarethic Koakuma
 Climate
 Heat
+# END Lunarethic Koakuma
 :noun
-# Lunarethic Koakuma
+# START Lunarethic Koakuma
 Change
 Wave
+# END Lunarethic Koakuma
 :noun2
 the Devil

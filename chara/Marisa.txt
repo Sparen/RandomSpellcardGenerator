@@ -87,13 +87,27 @@ Pulsar
 Light Dance
 Reflection
 Refraction
+# START Lunarethic Marisa
+Stellar Sign
+Light Trap
+# END Lunarethic Marisa
 :adj
 Bright
 Reflective
 Refractive
 Astral
+# START Lunarethic Marisa
+Millenium
+Universal
+# END Lunarethic Marisa
 :noun
 Comet
+# START Lunarethic Marisa
+Immersion
+Star Gazer
+Ensnare
+Pulsation
+# END Lunarethic Marisa
 :noun2
 the Stars
 the Sky
