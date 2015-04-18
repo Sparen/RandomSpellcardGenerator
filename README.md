@@ -55,7 +55,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [08] Tewi Inaba "Tewi", "Tei"								<br>
 [08] Reisen Udongein Inaba "Udonge", "Reisen"						<br>
 [08] Kaguya Houraisan "Kaguya"								<br>
-[08] Eirin Yagokoro "Eirin"								<br>
+[08] Eirin Yagokoro "Eirin" [+AJS]							<br>
 [08] Fujiwara no Mokou "Mokou"								<br>
 [09] Medicine Melancholy "Medicine"							<br>
 [09] Yuuka Kazami "Yuuka", "Yuka" [+Darkness1]						<br>

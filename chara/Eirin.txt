@@ -46,7 +46,27 @@ Rising
 _ in a _
 # Touhou Fanon
 :sign
+# START AJS Brain of the Moon
+Modern Medicine
+Siege of the Heavens
+Universal Cycle
+Solar System
+# END AJS Brain of the Moon
 :adj
+# START AJS Brain of the Moon
+Induced
+Tunguska
+Big
+# END AJS Brain of the Moon
 :noun
+# START AJS Brain of the Moon
+Apoptosis
+Impact
+Bang
+Crunch
+Childern
+# END AJS Brain of the Moon
 :noun2
+# AJS Brain of the Moon
+Amaterasu
 :formatter
