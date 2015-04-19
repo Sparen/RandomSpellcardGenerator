@@ -1,0 +1,85 @@
+# Touhou Canon
+:sign
+Conjuring
+Illusion Existence
+Illusion Image
+Maid Secret Skill
+Illusion Ghost
+Illusion World
+Time Sign
+Illusion Sign
+Buriallusion
+Wound Sign
+Scarred Soul
+Jugglery
+Void
+Silver Sign
+Speed Sign
+Watch
+Light Speed
+:adj
+Illusional
+Clock
+Luna
+Killing
+Eternal
+Killer
+Perfect
+Indiscriminate
+Private
+Phantomic
+Night
+Sakuya's
+Inscribe Red
+Soul
+Serial Killer
+Close-Up Murdering
+Deflation
+Mysterious
+Tunnel
+Inflation
+Silver
+Luminous
+My Knife's
+Luna
+Imaginary
+Dual
+Time Stopper
+Changeling
+:noun
+Misdirection
+Corpse
+Clock
+Marionette
+Ludo Bile
+Doll
+Square
+Killer
+Mist
+World
+Soul
+Checkmaid
+Demon
+Vision
+Jack
+Effect
+Maid
+Bound
+Ricochet
+Special Stopwatch
+Recursions
+Acute 360
+Vertical Time
+Dial
+Vanish
+Magic
+:noun2
+:formatter
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+the Time Stopper
+the Perfect and Elegant Maid
+:formatter

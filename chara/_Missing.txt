@@ -6,7 +6,6 @@ The following are missing completely
 
 Touhou:
 Daiyousei
-Sakuya
 Remilia
 Alice
 Youmu
