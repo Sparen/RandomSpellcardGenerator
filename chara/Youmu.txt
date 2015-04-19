@@ -1,0 +1,124 @@
+# Touhou Canon
+:sign
+Ghost Sword
+Preta Sword
+Hungry King Sword
+Hell Realm Sword
+Hell Flame Sword
+Hell God Sword
+Animal Realm Sword
+Asura Sword
+Human Realm Sword
+Human Era Sword
+Human God Sword
+Deva Realm Sword
+Heavenly Sword
+Heaven God Sword
+Six Realms Sword
+Human Sign
+Human Oni
+Life-Cutting Sword
+Hesitation-Cutting Sword
+Soul Sign
+Konpaku
+Arcanum
+Hesitation Sign
+Human Knowledge Sword
+Obsession Sword
+Celestial Star Sword
+Four Births Sword
+Sword Skill
+Spirit-Cutting Sword
+Cherry Blossom Sword
+Thought-Cutting Sword
+Closed-Eye Slash
+Reincarnation Sword
+Voidness Sword
+Light Sign
+Higan Sword
+:adj
+Ten Kings'
+Present
+Approaching
+Single
+Infinite
+Matsuyoi-Reflecting
+Half-Body
+Turning Angel
+Silent
+Cherry Blossom
+Flashing Scattered
+Bullet-Cutting
+:noun
+Fasting
+Scroll
+Retribution
+Preta
+Yojana
+Flashing Slash Formation
+Divine Flashing Slash
+Karmic Punishment
+Obsession
+World
+Fantasy
+Disillusion
+Acceptance
+Five Signs
+Displeasure
+Thought
+Kalpas
+Hakus
+Slash
+Wheel of Pain
+Dharma of Gumonji Wisdom
+Double Wheel
+Satellite Slash
+Sword
+Cut
+Blood
+Nirvana
+Resounding
+Flashing
+Flowers
+Spirit-Eye
+Light Flash
+Hacking Slashes
+:noun2
+the Young Preta
+the Preta Realm
+Karma Wind
+the Idle and Unfocused
+Enlightenment
+Eternal Truth
+the Dying Deva
+the Seven Hakus
+Present World
+the Eternal Future
+Meditation
+Departing from Hesitation
+the Living and Dead
+Pain
+Delusional Inner Eye
+Saigyou Spring Wind
+Binding Desires
+Asura
+the Natureless Beings
+Ascension to Buddhahood
+the Buddhahood of Flora
+Circular Vicissitude
+Netherworld
+Hell and Paradise
+:formatter
+_ on the _
+200 _ in 1 _
+_ with the _
+A _ and the _
+As the _
+The _ from Roukan
+_ Clearing the Six Senses
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

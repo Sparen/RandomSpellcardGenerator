@@ -8,7 +8,6 @@ Touhou:
 Daiyousei
 Remilia
 Alice
-Youmu
 Yukari
 Suika
 Aya
