@@ -60,6 +60,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [08] Eirin Yagokoro "Eirin" [+AJS]							<br>
 [08] Fujiwara no Mokou "Mokou"								<br>
 [09] Medicine Melancholy "Medicine"							<br>
+[09] Aya Shameimaru "Aya"								<br>
 [09] Yuuka Kazami "Yuuka", "Yuka" [+Darkness1]						<br>
 [09] Komachi Onozuka "Komachi"								<br>
 [09] Eiki Shiki Yamaxanadu "Shikieiki", "Eiki" 						<br>

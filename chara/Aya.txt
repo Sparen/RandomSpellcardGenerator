@@ -1,0 +1,80 @@
+# Touhou Canon
+:sign
+Wind Sign
+Gust
+Crossroad Sign
+Wind God
+Blockade Sign
+Whirl Sign
+Tornado
+Headwind
+Thrust Sign
+Demon Beast
+Squall
+Whirlwind
+Crow Sign
+Reporting
+Telescoping
+Snapshot
+Photography
+:adj
+Wind God's
+Wind God
+Saruta
+Wind God Hidden Among
+Tengu's
+Storm
+Illusionary
+Peerless
+Mountain God
+Maple Leaf
+Sickle Weasel
+Sarutahiko's
+Fluttering Strange
+Torii
+Tengu Newspaper
+Aya Shameimaru's
+Candid
+Fast
+Quick-Shooting
+Instant Shot
+:noun
+Fan
+Girl
+Crossroads
+Cross
+Tree Leaves
+Fall Wind
+Day
+Dominance
+Wind God
+Procession
+Advent
+Terukuni
+World
+Guidepost for the Advent
+Macroburst
+Opening Wind
+Veiling
+Guidance
+Whorl-Wind
+Deadline Day
+Daymare
+Coercive Reporting
+Shot
+Tengu Scoop
+Journalist
+:noun2
+Heaven
+the Divine Grandson
+the Tengu Realm
+:formatter
+_ Throughout the _
+Route Forbidden to the _
+_ in the Dark Night
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter
