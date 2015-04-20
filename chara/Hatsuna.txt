@@ -1,0 +1,33 @@
+# Canon
+:sign
+Crossbow Sign
+Aiming Heart
+Reverse Arrow
+Taiko
+Divine Drum
+Oni Expulsion
+Position Shift
+:adj
+Tenmanguu First-Shot
+Reverse
+Formidable
+Sugawara-Type
+Illusion
+:noun
+Thunder Arrows
+Ceremony Practice
+Rising Arrow
+Drum
+Den-Den Daiko
+Shukuchi Art
+Drive
+:noun2
+the Sky God
+:formatter
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+the Shrine Maiden
+:formatter

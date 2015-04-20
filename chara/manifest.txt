@@ -86,6 +86,7 @@ Tenmu
 An Kodama
 Mitama
 Riko
+Hatsuna
 # Len'en (JynX)
 L_Yabusame Yabusame
 L_Tsubakura Tsubakura

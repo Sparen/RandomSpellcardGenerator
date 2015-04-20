@@ -104,7 +104,31 @@ _ from a _
 _, _
 # Touhou Fanon
 :sign
+# START Riverbed Soul Saver
+Nightmare
+Villager
+Confrontation
+Passing Away
+Spectral Fire
+Reincarnation
+Hereafter
+# END Riverbed Soul Saver
 :adj
+Saigyou
+# START Riverbed Soul Saver
+Ink-Black Door
+Beautiful Ninja Cloning
+Netherworld Seal
+# END Riverbed Soul Saver
 :noun
+# START Riverbed Soul Saver
+Mastermind
+Curtain
+Hidden Colors
+Technique
+Welcoming
+Ultimate Heaven
+Sutra
+# END Riverbed Soul Saver
 :noun2
 :formatter
