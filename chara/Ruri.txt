@@ -1,0 +1,57 @@
+# Canon
+:sign
+Erosion Sign
+Corrosign
+Freeze Sign
+Ice Coffin
+Evil God
+Light Sign
+Ray System
+Ice Wall
+Ice Shield
+Freeze Sigh
+Divine Eclipse
+Frozen World
+Warming
+:adj
+White Worm
+Ice House
+Ice
+Divinely Shining
+Mahesvara's
+Freezonable
+Yikilth
+Beelzebub's
+Alternate
+Fantastic Giant
+:noun
+Coming
+Hole
+Warashi
+Yukinkoffin
+White Light
+Ishvara
+Glowing Slash
+Spear
+Charger
+Bit
+Wall
+Mushihime-sama
+Ice Castle
+Dinner
+Blizzard
+Iceburg
+:noun2
+the White Worm
+Shaikorth
+Pinaka
+Aegis
+Shikigami
+:formatter
+_ -Ice-
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

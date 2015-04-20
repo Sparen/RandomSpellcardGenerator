@@ -13,6 +13,7 @@ Reverse
 Formidable
 Sugawara-Type
 Illusion
+Bloody
 :noun
 Thunder Arrows
 Ceremony Practice
@@ -21,6 +22,7 @@ Drum
 Den-Den Daiko
 Shukuchi Art
 Drive
+Apricot
 :noun2
 the Sky God
 :formatter

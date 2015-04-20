@@ -122,6 +122,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [MPP] Mitama Magahara "Mitama"							<br>
 [MPP] Riko Toone "Riko"								<br>
 [RSS] Hatsuna Magatsuji "Hatsuna"						<br>
+[RSS] Ruri "Ruri"								<br>
 
 ###LEN'EN (JYNX)###
 
