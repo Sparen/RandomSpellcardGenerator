@@ -1,0 +1,21 @@
+# Canon
+:sign
+Sumo
+Haji
+:adj
+Invisible
+:noun
+Angel
+Dragon Sumo
+Antique Hand
+:noun2
+Ten Men's Strength
+:formatter
+Jacob Wrestles the _
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+the Terracotta Doll
+:formatter
