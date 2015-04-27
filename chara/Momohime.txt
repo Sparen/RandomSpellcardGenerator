@@ -1,0 +1,54 @@
+# Canon
+:sign
+Madness Sign
+Mad Dream
+Memory
+Haniwa
+Momohime
+Health
+Hermit Peach
+Magic Mirror
+Divine Mirror
+Survival
+:adj
+Cthylla
+Malevolence
+Malevolence Suit
+Gah-Goojin
+Super
+Killing
+Ama-no-Iwato
+Soul-Unearthing
+Shangri-La
+:noun
+Nightmare
+Dream
+Stars
+Gear
+Pendulum
+Freedom
+Princess Peach
+Silver Peaches
+Golden Peaches
+Mirage Mirror
+Masquereidoscope
+Concealment
+Queen
+Saviors
+Genesis
+Supernova
+:noun2
+the Great Old Ones
+Extended Life
+Immortality
+Kidou
+:formatter
+The _ the _ Saw
+3D _
+_, Shining Like the Sun
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

@@ -127,6 +127,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [RSS] Suitenguu no Himemiko "Himemiko"						<br>
 [RSS] Nomi no Hanie "Hanie"							<br>
 [RSS] Takenouchi no Tarumi "Tarumi"						<br>
+[RSS] Yamatoyo no Momohime "Momohime" 						<br>
 
 ###LEN'EN (JYNX)###
 
