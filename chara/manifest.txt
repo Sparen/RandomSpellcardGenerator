@@ -89,6 +89,7 @@ Mitama
 Riko
 Hatsuna
 Ruri
+Tarumi
 # Len'en (JynX)
 L_Yabusame Yabusame
 L_Tsubakura Tsubakura

@@ -1,0 +1,51 @@
+# Canon
+:sign
+Treasured Jewel
+Tidal Bore
+Low Tide
+Drought
+Fusion
+Blast Palm
+Phantasmal Embrace
+Yamasachi
+Anger Sign
+Umisachi
+Sea Hell
+Trial by Fire
+Ultimate War God Fusion
+:adj
+Tide-Flowing
+Giant Tsunami
+Tide-Ebbing
+Tide-Lull
+Back
+Strong-Armed, Iron-Armed
+Unrivalled Underwater
+Afterlife's
+Thousand
+Anger
+Shining Needle
+Sword-Captor
+Hard-Boiled Puncher
+War God Fusion
+Great
+:noun
+Jewel
+Poifull
+Drought
+Minister
+Demon
+Journey
+Anchor
+Sukune
+Yamataizer
+:noun2
+:formatter
+Come, Ye, to the _!
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+the Magatama
+:formatter
