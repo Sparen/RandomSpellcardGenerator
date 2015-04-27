@@ -124,6 +124,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [MPP] Riko Toone "Riko"								<br>
 [RSS] Hatsuna Magatsuji "Hatsuna"						<br>
 [RSS] Ruri "Ruri"								<br>
+[RSS] Suitenguu no Himemiko "Himemiko"						<br>
 [RSS] Nomi no Hanie "Hanie"							<br>
 [RSS] Takenouchi no Tarumi "Tarumi"						<br>
 

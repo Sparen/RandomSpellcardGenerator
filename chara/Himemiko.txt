@@ -1,0 +1,61 @@
+# Canon
+:sign
+Pure Land
+Impure Land
+Higan
+Soul Fire
+Shiranui
+Divine Fire
+Great Sword
+Treasured Sword
+Hyperdimension
+Divine Dimension
+Spacetime Rending Sword
+:adj
+Heavenly
+Dragon
+Seeker
+Imperialism
+Keikou's
+Emperor Antoku's
+Soul
+Ocean-Cutting
+Urashima
+Time Capsule
+Chaos
+Diamond
+Solar
+Kusanagi
+Soul Saver
+Divine
+:noun
+Colony
+Higanbana
+Shangri-La
+Flowers
+Palace
+Shiranui
+Incendiary
+Dragon Lanterns
+First Slice
+Divide
+Sword
+Stream
+Tokihime
+Butterfly
+Soul Saver
+Resonance
+Treasure
+Collebrande
+:noun2
+Poison Flowers
+:formatter
+_ Where the _ Blooms
+_ Blooming in the _
+The _ Existing Alongside the _
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter
