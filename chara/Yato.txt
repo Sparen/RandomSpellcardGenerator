@@ -1,0 +1,39 @@
+# Canon
+:sign
+Ten-Hand Sword
+Nine-Headed Dragon
+Grudge Sword
+Sword
+Dragon
+:adj
+Sword-Providing
+Seraphim
+Extend
+Festive
+Momohime's
+Totsuka
+Midgard
+:noun
+Uchide-no-Nozuchi
+Starlit Sword Slash
+Sword
+Calibur
+Rondo
+Chopsticks
+Liberation
+Blade
+Flames
+Form
+:noun2
+the Yato-no-Kami
+Asclepius
+the Destruction of Heaven & Earth
+:formatter
+A _ I Picked Up Over There
+_ for _
+# Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

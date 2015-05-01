@@ -93,6 +93,7 @@ Himemiko
 Hanie
 Tarumi
 Momohime
+Yato
 # Len'en (JynX)
 L_Yabusame Yabusame
 L_Tsubakura Tsubakura
