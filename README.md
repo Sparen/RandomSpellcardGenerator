@@ -129,6 +129,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [RSS] Takenouchi no Tarumi "Tarumi"						<br>
 [RSS] Yamatoyo no Momohime "Momohime" 						<br>
 [RSS] Yamata no Yato "Yato"							<br>
+[RSS] Abe no Kiyohime "Kiyohime"						<br>
 
 ###LEN'EN (JYNX)###
 

@@ -13,6 +13,7 @@ Festive
 Momohime's
 Totsuka
 Midgard
+Tsukiyomi
 :noun
 Uchide-no-Nozuchi
 Starlit Sword Slash
@@ -24,10 +25,13 @@ Liberation
 Blade
 Flames
 Form
+Treasured Sword
+Bringer
 :noun2
 the Yato-no-Kami
 Asclepius
 the Destruction of Heaven & Earth
+the Great Gods' Legends
 :formatter
 A _ I Picked Up Over There
 _ for _
