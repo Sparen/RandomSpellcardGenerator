@@ -80,6 +80,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [11] Satori Komeiji "Satori"								<br>
 [11] Rin Kaenbyou "Orin"								<br>
 [11] Utsuho Reiuji "Utsuho", "Okuu" [+Rogus]						<br>
+[11] Koishi Komeiji "Koishi" [+PhantomSong, Byzantheryx]				<br>
 [12] Nazrin "Nazrin"									<br>
 [12] Kogasa Tatara "Kogasa"								<br>
 [12] Ichirin Kumoi "Ichirin"								<br>
@@ -157,12 +158,6 @@ Absent any naming conflicts, there will be an alias without a prefix.)
 [03] Taira no Fumikado "L_Fumikado", "Fumikado"				<br>
 [03] Shion "L_Shion", "Shion"						<br>
 [03] Tenkai Zuifeng "L_Tenkai", "Tenkai"				<br>
-
-###SEITENTOUJI (SPAREN)###
-
-(Note: All names in quotes prefixed by 'S_' to prevent conflicts with other characters)
-
-N/A
 
 ###NANSEI (LENK64)###
 

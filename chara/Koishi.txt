@@ -1,0 +1,97 @@
+# Touhou Canon
+:sign
+Symbol
+Instinct
+Suppression
+Response
+Subconscious
+Rekindled
+Depths
+Heart Sign
+Memory
+Dream Sign
+Instinct
+Thorn Sign
+:adj
+Danmaku
+Youkai
+Subterranean
+Selfless
+Embryo's
+Rose
+Brambly Rose
+Confined
+:noun
+Ancestors
+Bed
+Paranoia
+Release
+Super-Ego
+Polygraph
+Embers
+Rorschach
+Danmaku
+Genetics
+Philosophy
+Rose
+Love
+Flaw
+Dream
+Hell
+Garden
+Freudian
+Innocent
+:noun2
+Id
+Love
+Subconscious
+a Hated Person
+:formatter
+All _ Standing Beside Your _
+_ in _
+# Touhou Fanon
+:sign
+# START Byzantheryx Koishi
+Accidental Disclosure
+Dream World
+Subtle Symbol
+Concept
+Distant Past
+Subconscious Beauty
+# END Byzantheryx Koishi
+:adj
+# START PhantomSong Koishi
+Shameless
+Childish
+Sunk
+Unidled
+Vacant
+# END PhantomSong Koishi
+# START Byzantheryx Koishi
+Rediscovered Lost
+Multichromatic
+Animal
+Hardcoded
+Baseline
+Ancient
+Artificial
+# END Byzantheryx Koishi
+:noun
+# START PhantomSong Koishi
+Demeanor
+Images
+Heart
+Guilt
+# END PhantomSong Koishi
+# START Byzantheryx Koishi
+Memories
+Magicant
+Magnetism
+Destiny
+Test
+Reality
+# END Byzantheryx Koishi
+:noun2
+:formatter
+# Byzantheryx Koishi
+Escape From Your _
