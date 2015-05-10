@@ -1,0 +1,33 @@
+# Touhou Canon
+:sign
+Wrap Sign
+Dragon Sign
+Hawk Sign
+Tiger Sign
+Thunder Sign
+:adj
+Prosthetic Arm
+Dragon's
+Hawk
+Monkey's
+Slow-Speed
+:noun
+Proteus
+Growl
+Beacon
+Paw
+Mukou
+Houso
+Hand
+:noun2
+Both Gates
+:formatter
+_! Crush my Enemy!
+_ that Grants Wishes Until Death
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+the Hermit
+:formatter
