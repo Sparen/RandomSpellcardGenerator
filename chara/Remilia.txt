@@ -1,0 +1,82 @@
+# Touhou Canon
+:sign
+Heaven's Punishment
+Nether Sign
+Curse
+Scarlet Sign
+Divine Punishment
+Hell Sign
+God Art
+Scarlet Devil
+Certain Kill
+Divine Spear
+Night Sign
+Night Lord
+Devil Sign
+Scarlet Bat
+God Devil
+Destiny
+Bat
+Devil
+:adj
+Scarlet
+Red
+Young
+Vampire
+Nightless
+Heart
+Demon King
+Dracula
+Bad Lady
+Hell
+Bloody
+Vampirish
+Miserble
+Bombard
+Millennium
+Fitful
+:noun
+Star
+Netherworld
+Curse
+Shoot
+Magic
+Demon Lord
+Mountain
+Illusion
+Meister
+Gensokyo
+Castle
+Devil
+Break
+Gungnir
+Cradle
+Scramble
+Heartbreak
+Catastrophe
+Queen
+Destiny
+Nightmare
+Magic Square
+Night
+Stoker
+Fate
+Sweep
+Vampire
+Stretch
+:noun2
+David
+Vlad Tepes
+a Thousand Needles
+Midnight
+:formatter
+Red the _
+Spear the _
+All the World in _
+# Touhou Fanon
+:sign
+Fate
+:adj
+:noun
+:noun2
+:formatter

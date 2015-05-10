@@ -42,6 +42,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [06] Koakuma "Koakuma" [+Lunarethic]							<br>
 [06] Patchouli Knowledge "Patchy", "Patchouli", "Patche"				<br>
 [06] Sakuya Izayoi "Sakuya"								<br>
+[06] Remilia Scarlet "Remilia", "Remi"							<br>
 [06] Flandre Scarlet "Flandre", "Frandle", "Frandre" [+PhantomSong]			<br>
 [07] Letty Whiterock "Letty" [+TalosMistake, Ultima]					<br>
 [07] Chen "Chen" [+Rikako]								<br>
