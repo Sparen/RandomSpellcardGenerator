@@ -51,6 +51,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [07] Youmu Konpaku "Youmu"								<br>
 [07] Yuyuko Saigyouji "Yuyuko" {+RSS}							<br>
 [07] Ran Yakumo "Ran"									<br>
+[07.5] Suika Ibuki "Suika"								<br>
 [08] Wriggle Nightbug "Wriggle"								<br>
 [08] Mystia Lorelei "Mystia"								<br>
 [08] Keine Kamishirasawa "Keine"							<br>

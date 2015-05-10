@@ -1,0 +1,76 @@
+# Touhou Canon
+:sign
+Gather Sign
+Gathering Oni
+Drunk Sign
+Drunken Dream
+Oni Sign
+Oni God
+Will-o'-Wisp
+Sparse Sign
+Qi of Oni
+Mist Sign
+Breath
+Fireball
+Big Four Arcanum
+Hell
+Oni Crowd
+:adj
+Throwing
+Missing
+Missing Purple
+Ama-no-Iwato
+Anti-Dispelling
+Super High Density Phosphorus
+Deep Fog
+Complete
+Small Oni's
+Earth Spirit
+Large
+Needle
+Imp
+Hundred
+:noun
+Mt. Togakushi
+Ame-no-Tajikarao
+Art
+Power
+Throwing Event
+Giant Oni
+Black Hole
+Disaster Art
+Fog
+Night Parade
+Labyrinth
+Gathering
+Dissipating
+Massacre
+Mt. Ooe
+Deep Breath
+Reactive Bullet
+Destruction
+Speck
+Hell
+Sigh
+Swarm
+Oni Kaburo
+Oni
+:noun2
+Oni Binding
+Segaki Binding
+Earth's Axis
+One Million Demons
+Purgatory
+:formatter
+_ and _
+_ in Three Steps
+A Million _ in One
+_ in the _
+_ on _
+Beyond All in the _
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter
