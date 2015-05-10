@@ -1,0 +1,85 @@
+# Touhou Canon
+:sign
+Earth Sign
+Non-Perception
+Heaven Sign
+Earthquake
+Spirit Sign
+Keystone
+Qian & Kun
+Spirit Thought
+Heaven & Earth
+Sword Skill
+Weather
+Temperament
+Earthquake
+:adj
+World Creation
+Sky's
+Violent
+Scarlet Weather
+High-Spirited
+Steep
+Kaname
+Kashima
+:noun
+Sword
+Press
+State
+Sky of Scarlet Perception
+Scarlet Weather Rhapsody
+Spiritual Stone
+Land
+Stone
+Stimulation
+Evacuation
+Path
+Funnel
+Protection
+:noun2
+Unletting Soil
+Neither Perception nor Non-Perception
+Divine Justice
+Pleasure After Hardship
+Meteorological Revelation
+Freedom from Worldly Thoughts
+All Humankind
+Ebullience
+All Youkai
+:formatter
+_ that Mothers All
+_ that Calms the Lands
+_ that Oversees the Distant World Below
+_ Along the _
+# Touhou Fanon
+:sign
+:adj
+# START SPAREN ARTIFACT 2
+Earth-Shaking
+Perception
+Overbearing
+Ethereal
+# END SPAREN ARTIFACT 2
+:noun
+# START SPAREN ARTIFACT 2
+Roar
+Pressure
+Gates
+Sky
+Dancing Drizzle
+River Mist
+Fog
+Flaming Haze
+Storming Blaze
+Aurora
+# END SPAREN ARTIFACT 2
+:noun2
+# START SPAREN ARTIFACT 2
+the Sky and the Earth
+Perception
+Thought and Being
+Rebellion
+the Heavens
+the Scarlet Sky
+# END SPAREN ARTIFACT 2
+:formatter
