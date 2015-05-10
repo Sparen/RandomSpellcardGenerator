@@ -1,0 +1,79 @@
+# Touhou Canon
+:sign
+Barrier
+Evil Spirits
+Sinister Spirits
+Shikigami
+Yukari's Arcanum
+Border Sign
+Outer Force
+Fantasy
+Boundary
+Fantasy Nest
+Aerial Bait
+Abandoned Line
+Photon
+Splitter
+Magic Eye
+Profound Danmaku Barrier
+:adj
+Yukari Yakumo's
+Bewitching
+Zen
+Double Black Death
+Danmaku
+Quadruple
+Charming Quadruple
+Objective
+Infinite Superspeed
+Flying Glow Worm's
+Abandoned
+Aimless
+Doppler
+Hyperactive High Speed
+Laplace's
+Impossible Danmaku
+:noun
+Curse
+Balance
+Mesh
+Xanadu
+Spiriting Away
+Butterfly
+Boundary
+Barrier
+Manji-Parasol
+Flying Object
+Perpetual Motion Machine
+Nest
+Bait
+Venom
+Journey
+Station
+Effect
+Demon
+Casebook
+:noun2
+Dreams and Reality
+Motion and Stillness
+Light and Darkness
+Straight and Curve
+Humans and Youkai
+Life and Death
+2D and 3D
+Yakumo
+the First Kind
+the Imperishable Night
+Form and Emptiness
+Wave and Particle
+Luck, Resilience, and Perseverance
+:formatter
+_ Living in the _
+_ Laced with _
+_ to the _
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

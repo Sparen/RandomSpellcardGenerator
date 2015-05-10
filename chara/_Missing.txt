@@ -7,7 +7,6 @@ The following are missing completely
 Touhou:
 Daiyousei
 Alice
-Yukari
 Sunny
 Star
 Luna
