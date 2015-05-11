@@ -1,0 +1,102 @@
+# Touhou Canon
+:sign
+Puppeteer Sign
+Blue Sign
+Scarlet Sign
+White Sign
+Darkness Sign
+Cycle Sign
+Elegant Sign
+Curse
+Magic Sign
+Magipulation
+Demonic Control
+War Sign
+War Command
+Curse Sign
+Evil Light
+Red Sign
+Spy Sign
+Crimson Sign
+Doll
+Focus Power
+Trooper
+Sword Sign
+Lance Sign
+Dolls
+Knight
+Sacrifice
+Testing
+:adj
+Maiden's
+Benevolent
+Red-Haired
+Chalk-White
+Foggy
+Reincarnating
+Spring
+Eerily Luminous
+Hanged
+Artful
+Return
+Little
+Doll's
+Shanghai
+Hourai
+Artful
+Doll
+Devilry
+Straw Doll
+Seeker
+Holland
+Futuristic
+Trip
+Suicide
+Soulless
+Cutie
+Lemmings'
+Level
+Goliath
+:noun
+Bunraku
+French Dolls
+Orléans Dolls
+Dutch Dolls
+Russian Dolls
+London Dolls
+Tibetan Dolls
+Kyoto Dolls
+Shanghai Dolls
+Hourai Dolls
+Sacrifice
+Inanimateness
+Legion
+War
+Doll
+Chanter
+Crusader
+Light Ray
+Phantom
+Kamikaze
+Mira Ceti
+Dolls
+Wire
+Squad
+Soldier
+Folk Dance
+Phalanx
+Parade
+Semi-Automaton
+Pact
+Titania
+:noun2
+the Grand Guignol
+Cross
+:formatter
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+the Puppeteer
+:formatter

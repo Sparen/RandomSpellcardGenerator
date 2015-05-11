@@ -36,6 +36,8 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [01] Reimu Hakurei "Reimu"								<br>
 [02] Marisa Kirisame "Marisa" [+Lunarethic, TalosMistake, PhantomSong]			<br>
 [03] Yumemi Okazaki "Yumemi" [+Lunarethic, GTBot]					<br>
+[04] Yuuka Kazami "Yuuka", "Yuka" [+Darkness1]						<br>
+[05] Alice Margatroid "Alice"								<br>
 [06] Rumia "Rumia"									<br>
 [06] Cirno "Cirno"									<br>
 [06] Hong Meiling "Meiling", "Meirin", "Hong"						<br>
@@ -64,7 +66,6 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [08] Fujiwara no Mokou "Mokou"								<br>
 [09] Medicine Melancholy "Medicine"							<br>
 [09] Aya Shameimaru "Aya"								<br>
-[09] Yuuka Kazami "Yuuka", "Yuka" [+Darkness1]						<br>
 [09] Komachi Onozuka "Komachi"								<br>
 [09] Eiki Shiki Yamaxanadu "Shikieiki", "Eiki" 						<br>
 [10] Shizuha Aki "Shizuha"								<br>
