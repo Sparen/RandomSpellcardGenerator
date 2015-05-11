@@ -10,6 +10,10 @@ Everlasting
 Hourai
 Exalted Personage
 Regretful Life
+Flame Sign
+Blaze Sign
+Undying
+Cursed Talisman
 :adj
 Fire
 Flying
@@ -21,6 +25,8 @@ Hourai
 Imperishable
 Phoenix
 Immortality's
+Self-Destruction
+Indiscriminate
 :noun
 Curse
 Bird
@@ -36,10 +42,16 @@ Rebirth
 Forewarning
 Reckless Sacrifice
 Legend
+Super-High-Temperature Feathers
+Giant Flame Whirlwind
+Ignition Cards
 :noun2
 Tsuki-no-Iwasaka
 Forgiving Shrine
 St. Germain
 # Touhou Fanon
+:sign
+:adj
+:noun
 :noun2
 the Phoenix

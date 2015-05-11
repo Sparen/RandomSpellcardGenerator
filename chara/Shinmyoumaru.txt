@@ -4,10 +4,14 @@ Small Bullet
 Mallet
 Bewitched Sword
 Shining Needle
+Big Catch
+Fishing Sign
 :adj
 Inchling's
 Shining Needle
 Oni-Slaying Eye-Stabbing
+Midair Giant Rotation
+Adorable
 :noun
 Path
 Thorny Path
@@ -17,9 +21,15 @@ Wall
 Issun-Boshi
 Hell
 Needle
+Fishing Method
+Country
+Lavish Banquet
+Samurai
 :noun2
 the Dwarf
 Issun
+Illusion
+Legend
 :formatter
 Grow Bigger!
 Grow Even Bigger!

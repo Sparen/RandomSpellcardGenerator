@@ -14,6 +14,8 @@ Iron Fist
 Storm Sign
 Cumulonimbus
 Nyuudou
+Evil Sign
+Clenched FIst
 :adj
 Unarguable Youkai
 Hell
@@ -50,10 +52,13 @@ Confession
 Traditional Era
 Great Cumulus
 Cloud
+Occult Pillar
+Deadly Wind
 :noun2
 Buddhist Retribution
 a Splendid Old Man
 Rage
+Penitence
 :formatter
 _ from Above the _
 _ from the _

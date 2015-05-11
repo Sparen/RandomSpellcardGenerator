@@ -49,6 +49,7 @@ a Hated Person
 :formatter
 All _ Standing Beside Your _
 _ in _
+_ are Watching You
 # Touhou Fanon
 :sign
 # START Byzantheryx Koishi

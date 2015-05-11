@@ -9,6 +9,7 @@ Flying Bowl
 Syncretism
 Heaven Sign
 Pestle Sign
+Supersonic Speed
 :adj
 Purple
 Cloudy
@@ -23,6 +24,7 @@ Star Sword
 Angiras'
 Vajrapani's
 Garuda's
+Old Lady's
 :noun
 Omen
 Mist
@@ -46,6 +48,7 @@ Incantation
 Wings
 Binding Laws
 Eyes
+Sprint
 :noun2
 a Makai Butterfly
 Mahavairocana
@@ -53,6 +56,7 @@ the Great Trichiliocosm
 Shakyamuni
 Hari
 Brahma
+Turbo Granny
 :formatter
 # Touhou Fanon
 :sign

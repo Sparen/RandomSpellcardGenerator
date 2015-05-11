@@ -10,6 +10,7 @@ Divine Light
 Tao Sign
 Human Sign
 Virtue Sign
+Fiend
 :adj
 Royal Clan's
 Prince Shotoku's
@@ -18,6 +19,8 @@ Newborn
 Divine Spirits'
 Heavenly Way Atop One's
 Seventeen-Article
+Hermetic
+The Great Fiend's
 :noun
 Ranks
 Colors
@@ -38,6 +41,9 @@ Tradition
 Prestige
 Lasers
 Constitution Bombs
+Cape
+Arteries and Veins
+Fiend
 :noun2
 Twelve Levels
 the Land of the Rising Sun
@@ -49,6 +55,7 @@ Divine Spirit Mausoleum
 Just Rewards
 Shotoku
 Infinite Articles
+the Century
 :formatter
 # Touhou Fanon
 :sign

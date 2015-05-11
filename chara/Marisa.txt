@@ -83,6 +83,10 @@ Cross
 Perseid
 Illusion
 Pulsar
+Occultation
+Cursed Portraits
+:noun2
+Past Principles
 # Touhou Fanon
 :sign
 Light Dance

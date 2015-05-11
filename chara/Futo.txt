@@ -9,6 +9,7 @@ Fate
 Bow Sign
 Old Boat
 Heat Dragon
+Plate Sign
 :adj
 Rainy
 Ascending to

@@ -3,6 +3,7 @@
 Duel
 Transformation
 Raccoon Sign
+Unidentified
 :adj
 Primate
 Carnivorous
@@ -14,7 +15,8 @@ Mamizou
 Full Moon
 Wild
 Bunbuku Hot Soup
-Futatsuiwa Family's
+Futatsuiwa Clan's
+Crowded
 :noun
 Danmaku Transformation
 Scrolls
@@ -29,9 +31,12 @@ Bathtub
 Youkai World Gate
 Clan
 Band
+Alien Ball
+Curse
 :noun2
 Frolicking Animals
 One Hundred Demons
+Flying Objects
 :formatter
 If the _ Does not Call, Wait For it to Cry
 _ Are Nice!

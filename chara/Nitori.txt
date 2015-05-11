@@ -28,6 +28,7 @@ Bubble
 Sanpei
 Sealight
 Kegon
+Great
 :noun
 Camouflage
 Flooding
@@ -47,7 +48,13 @@ Fight
 Super Scope 3D
 Falls
 Gun
+War
+River
 :noun2
+:formatter
+Fire! _
+Fly! _
+_ Beneath the
 # Touhou Fanon
 :sign
 :adj
