@@ -38,7 +38,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [03] Yumemi Okazaki "Yumemi" [+Lunarethic, GTBot]					<br>
 [06] Rumia "Rumia"									<br>
 [06] Cirno "Cirno"									<br>
-[06] Hong Meiling "Meiling", "Meirin"							<br>
+[06] Hong Meiling "Meiling", "Meirin", "Hong"						<br>
 [06] Koakuma "Koakuma" [+Lunarethic]							<br>
 [06] Patchouli Knowledge "Patchy", "Patchouli", "Patche"				<br>
 [06] Sakuya Izayoi "Sakuya"								<br>
@@ -87,9 +87,9 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [11] Koishi Komeiji "Koishi" [+PhantomSong, Byzantheryx]				<br>
 [12] Nazrin "Nazrin"									<br>
 [12] Kogasa Tatara "Kogasa"								<br>
-[12] Ichirin Kumoi "Ichirin"								<br>
+[12] Ichirin Kumoi "Ichirin", "Unzan"							<br>
 [12] Minamitsu Murasa "Minamitsu", "Murasa"						<br>
-[12] Shou Toramaru "Shou"								<br>
+[12] Shou Toramaru "Shou", "Syou"							<br>
 [12] Byakuren Hijiri "Byakuren"								<br>
 [12] Nue Houjuu "Nue"									<br>
 [12.5] Hatate Himekaidou "Hatate" {+MPP}						<br>
@@ -111,6 +111,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [14] Raiko Korikawa "Raiko"								<br>
 [14.5] Kasen Ibaraki "Kasen", "Ibarakasen"						<br>
 [15] Seiran "Seiran", "YandereBunny"							<br>
+[15] Ringo "Ringo", "Dango"								<br>
 
 ###IDO###
 

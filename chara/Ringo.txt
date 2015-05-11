@@ -1,0 +1,25 @@
+# Touhou Canon
+:sign
+Rabbit Sign
+Moon-Viewing
+Moon-Viewing Sake
+:adj
+Strawberry
+Berry Berry
+Dango
+September
+Lunatic
+:noun
+Dango
+Influence
+Full Moon
+September
+:noun2
+:formatter
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+the Moon Rabbit
+:formatter
