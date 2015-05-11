@@ -112,6 +112,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [14.5] Kasen Ibaraki "Kasen", "Ibarakasen"						<br>
 [15] Seiran "Seiran", "YandereBunny"							<br>
 [15] Ringo "Ringo", "Dango"								<br>
+[15] Doremy Sweet "Doremy", "Dreamy"							<br>
 
 ###IDO###
 

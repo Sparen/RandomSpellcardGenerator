@@ -1,0 +1,31 @@
+# Touhou Canon
+:sign
+Dream Sign
+Moon Sign
+:adj
+Scarlet
+Ochre
+Azure
+Dream
+Ultramarine Lunatic
+:noun
+Nightmare
+Oppressive Nightmare
+Indigo Dream
+Indigo Three-Layered Dream
+Dream
+Delusion
+Labyrinthine Delusion
+Catcher
+:noun2
+Sorrow
+Eternal Sorrow
+:formatter
+Losing Oneself in a _
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+the Baku
+:formatter
