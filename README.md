@@ -90,7 +90,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [12] Ichirin Kumoi "Ichirin", "Unzan"							<br>
 [12] Minamitsu Murasa "Minamitsu", "Murasa"						<br>
 [12] Shou Toramaru "Shou", "Syou"							<br>
-[12] Byakuren Hijiri "Byakuren"								<br>
+[12] Byakuren Hijiri "Byakuren", "TurboGranny"						<br>
 [12] Nue Houjuu "Nue"									<br>
 [12.5] Hatate Himekaidou "Hatate" {+MPP}						<br>
 [13] Kyouko Kasodani "Kyouko"								<br>
