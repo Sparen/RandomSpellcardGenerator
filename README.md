@@ -110,6 +110,7 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [14] Shinmyoumaru Sukuna "Shinmyoumaru", "Sukuna"					<br>
 [14] Raiko Korikawa "Raiko"								<br>
 [14.5] Kasen Ibaraki "Kasen", "Ibarakasen"						<br>
+[15] Seiran "Seiran", "YandereBunny"							<br>
 
 ###IDO###
 

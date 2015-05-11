@@ -1,0 +1,22 @@
+# Touhou Canon
+:sign
+Evil Bullet
+Bullet Sign
+Gun Sign
+:adj
+Speed
+Eagle
+Lunatic
+:noun
+Strike
+Shooting
+Gun
+:noun2
+:formatter
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+the Moon Rabbit
+:formatter
