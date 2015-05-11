@@ -90,7 +90,7 @@ Please note that the names you type in are the ones in quotes. Any of the names 
 [12] Ichirin Kumoi "Ichirin", "Unzan"							<br>
 [12] Minamitsu Murasa "Minamitsu", "Murasa"						<br>
 [12] Shou Toramaru "Shou", "Syou"							<br>
-[12] Byakuren Hijiri "Byakuren", "TurboGranny"						<br>
+[12] Byakuren Hijiri "Byakuren", "Namusan", "TurboGranny"				<br>
 [12] Nue Houjuu "Nue"									<br>
 [12.5] Hatate Himekaidou "Hatate" {+MPP}						<br>
 [13] Kyouko Kasodani "Kyouko"								<br>
