@@ -68,8 +68,19 @@ Colorful Rainbow
 :formatter
 # Touhou Fanon
 :sign
+Color Sign
 :adj
+# Concealed the Conclusion
+Rain-Summoning
 :noun
+Rainbow
+# START Concealed the Conclusion
+Paradise Blossom
+Seven Revolving Stars
+Fourteen Revolving Stars
+# END Concealed the Conclusion
 :noun2
 the Gatekeeper
+# Concealed the Conclusion
+the Peacock
 :formatter

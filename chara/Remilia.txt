@@ -76,7 +76,25 @@ All the World in _
 # Touhou Fanon
 :sign
 Fate
+# START Concealed the Conclusion
+Curse Sign
+Scarlet Drop
+SUdden Sign
+# END Concealed the Conclusion
 :adj
+# START Concealed the Conclusion
+Tepes
+Angel
+# END Concealed the Conclusion
 :noun
+# START Concealed the Conclusion
+Vision
+Rain of Blood
+Circulation
+Vortex
+Maneuver
+# END Concealed the Conclusion
 :noun2
 :formatter
+# Concealed the Conclusion
+_ in Elysium

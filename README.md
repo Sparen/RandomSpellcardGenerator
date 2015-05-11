@@ -27,7 +27,6 @@ Please credit this generator if you use it for a project.
 ## Supported Characters ##
 
 Please note that the names you type in are the ones in quotes. Any of the names in quotes is acceptable. Try to use the first one, however.<br>
-Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br>
 [+Name] means that spellcard names from the given scripter's work have been added into the database. e.g. [+Darkness1, AJS]<br>
 {+Name} means that spellcard names from the given game have been added into the database. e.g. {+CtC, FoS, WNSP}
 
@@ -40,12 +39,12 @@ Non-Reimu/Marisa PC-98 Characters are shown by their first Windows appearance<br
 [05] Alice Margatroid "Alice"								<br>
 [06] Rumia "Rumia"									<br>
 [06] Cirno "Cirno"									<br>
-[06] Hong Meiling "Meiling", "Meirin", "Hong"						<br>
-[06] Koakuma "Koakuma" [+Lunarethic]							<br>
-[06] Patchouli Knowledge "Patchy", "Patchouli", "Patche"				<br>
-[06] Sakuya Izayoi "Sakuya"								<br>
-[06] Remilia Scarlet "Remilia", "Remi"							<br>
-[06] Flandre Scarlet "Flandre", "Frandle", "Frandre" [+PhantomSong]			<br>
+[06] Hong Meiling "Meiling", "Meirin", "Hong" {+CtC}					<br>
+[06] Koakuma "Koakuma" [+Lunarethic] {+CtC}						<br>
+[06] Patchouli Knowledge "Patchy", "Patchouli", "Patche" {+CtC}				<br>
+[06] Sakuya Izayoi "Sakuya" {+CtC}							<br>
+[06] Remilia Scarlet "Remilia", "Remi" {+CtC}						<br>
+[06] Flandre Scarlet "Flandre", "Frandle", "Frandre" [+PhantomSong] {+CtC}		<br>
 [07] Letty Whiterock "Letty" [+TalosMistake, Ultima]					<br>
 [07] Chen "Chen" [+Rikako]								<br>
 [07] Lyrica Prismriver "Lyrica"								<br>

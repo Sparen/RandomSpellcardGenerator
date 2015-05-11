@@ -77,9 +77,15 @@ Magic
 :formatter
 # Touhou Fanon
 :sign
+# Concealed the Conclusion
+Blade Sign
 :adj
 :noun
+# Concealed the Conclusion
+Beginning
 :noun2
 the Time Stopper
 the Perfect and Elegant Maid
+# Concealed the Conclusion
+Trembling
 :formatter

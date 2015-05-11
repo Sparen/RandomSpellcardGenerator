@@ -26,9 +26,15 @@ Forbidden Game
 Forbidden Tool
 Destruction
 # END PhantomSong Flandre
+# Concealed the Conclusion
+Star Sign
 :adj
 # PhantomSong Flandre
 Ancient
 Broken Scarlet
+# Concealed the Conclusion
+Comet
 :noun
 Moon
+# Concealed the Conclusion
+Bow

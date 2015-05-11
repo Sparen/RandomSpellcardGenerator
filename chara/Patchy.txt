@@ -90,7 +90,25 @@ _ Shake
 _ Forty Days
 # Touhou Fanon
 :sign
+Wood & Earth Sign
+Moon & Water Sign
+# Concealed the Conclusion
+Heaven Sign
 :adj
+# START Concealed the Conclusion
+Cyclops
+Hephaestus
+Trigger
+Moonlight
+Prominence
+Jacob's
+# END Concealed the Conclusion
 :noun
+# START Concealed the Conclusion
+Engine
+Plants
+Squall
+Ladder
+# END Concealed the Conclusion
 :noun2
 :formatter

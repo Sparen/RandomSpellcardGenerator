@@ -5,15 +5,21 @@
 Hailstorm
 Magic Fire
 # END Lunarethic Koakuma
+# Concealed the Conclusion
+Cold Sign
 :adj
 # START Lunarethic Koakuma
 Climate
 Heat
 # END Lunarethic Koakuma
+# Concealed the Conclusion
+Icicle
 :noun
 # START Lunarethic Koakuma
 Change
 Wave
 # END Lunarethic Koakuma
+# Concealed the Conclusion
+Mist
 :noun2
 the Devil
