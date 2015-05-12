@@ -1,0 +1,30 @@
+# Touhou Canon
+:sign
+Psychokinesis
+Gun Sign
+:adj
+Illegal
+3D Printer
+Psychokinesis
+Radio
+:noun
+Dumping
+Psychoexplosion
+Occultician
+Esoteric Seven
+App
+Telekinesis
+Tower
+Visions
+Gun
+:noun2
+the Other World's Lunacy
+Profound Secrets
+the Present World
+:formatter
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

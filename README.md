@@ -110,6 +110,7 @@ Please note that the names you type in are the ones in quotes. Any of the names 
 [14] Shinmyoumaru Sukuna "Shinmyoumaru", "Sukuna"					<br>
 [14] Raiko Korikawa "Raiko"								<br>
 [14.5] Kasen Ibaraki "Kasen", "Ibarakasen"						<br>
+[14.5] Sumireko Usami "Sumireko"							<br>
 [15] Seiran "Seiran", "YandereBunny"							<br>
 [15] Ringo "Ringo", "Dango"								<br>
 [15] Doremy Sweet "Doremy", "Dreamy"							<br>
