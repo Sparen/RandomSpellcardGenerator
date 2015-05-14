@@ -183,7 +183,7 @@ Most characters have two names each)
 [05] Esel, Rygen "C_Rygen", "Rygen" | Hiroe, Nikou "Nikou"			<br>
 [05] Mernen "C_Mernen", "Mernen"						<br>
 [05] Cssysencyras, Sesae "C_Sesae", "Sesae" | Haganesuzu, Satsuri "Satsuri"	<br>
-[05] Vanar #13007 "C_Vanar13007", "Vanar13007" | Masetsu #13007 "Masetsu13007"	<br>
+[05] Vanar \#13007 "C_Vanar13007", "Vanar13007" | Masetsu \#13007 "Masetsu13007"	<br>
 [05] Erynor, Canden "C_Canden", "Canden"	<br>
 [05] Alarysesmala, Yronšyncra "C_Yronsyncra", "Yronsyncra" | Nekonomi, Konnen "Konnen"	<br>
 [05] Cynreon, Etelos "C_Etelos", "Etelos" | Hakutaku, Sakana "Sakana"	<br>
