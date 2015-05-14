@@ -1,0 +1,48 @@
+# Chouyou Canon
+:sign
+Earth Sign
+Leaf Sign
+Forest Sign
+:adj
+Two Hundred Fifty Needle
+Four Thousand Needle
+Sixty-Five Thousand Needle
+Million Needle
+Seventeen Million Needle
+Arboreal Needle
+Unnatural
+Green
+Little
+Zenith
+Celestial
+Grove
+Tremble
+Illumination
+Mirror
+Forbidden
+:noun
+Earthquake
+Needles
+Ritual
+Storm
+Madness
+Armatos-eas-Mjoros
+Wind
+Star
+View
+Prayer
+Night
+Moonscape
+:noun2
+the Dark Path
+:formatter
+_ Quaking in Profusion
+_ - False
+Spin the _
+Thirteen _s and Thirteen _s
+# Chouyou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

@@ -1,0 +1,12 @@
+# Chouyou Canon
+:sign
+:adj
+:noun
+:noun2
+:formatter
+# Chouyou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

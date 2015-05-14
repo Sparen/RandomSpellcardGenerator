@@ -2,7 +2,7 @@ Missing Characters:
 
 The following are missing completely
 
-**PC-98 are done on a case by case basis as the only spellcard names we really have are canon
+**PC-98 are done on a case by case basis as the only spellcard names we really have are fanon
 
 Touhou:
 Daiyousei
@@ -21,11 +21,6 @@ Len'en
 N/A
 
 Chouyou
-C_Vanar13007 (C_Masetsu13007)
-C_Canden (C_Shiki)
-C_Yronsyncra (C_Konen)
-C_Etelos (C_Sakana) // '???' denotes that there is not yet a name
-??? (???)
 C_Vija (C_Hasuike)
 ??? (C_Ririto)
 ??? (C_Ririka)
