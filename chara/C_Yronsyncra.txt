@@ -1,0 +1,49 @@
+# Chouyou Canon
+:sign
+Sand Insect
+Ancient Curse
+Heaven's Punishment
+Red Flash
+Rekindling
+:adj
+Locust
+Scarab
+Time-Worn
+Molten
+Slithering
+Cat's
+Sandstone
+Solar
+Inferno
+Divine
+Life-Guiding
+:noun
+Swarm
+Ingition
+Curse
+Sandstone
+River
+Snake
+Rain
+Deceit
+Return
+Debris
+Wind
+Afterlife
+Rise
+Wrath
+Light
+:noun2
+Forty Days
+Red Cat
+Revived Spirits
+the Sun God
+:formatter
+_ Inscribed in
+Return from _
+# Chouyou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

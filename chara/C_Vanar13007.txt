@@ -1,0 +1,42 @@
+# Chouyou Canon
+:sign
+Night Bird
+Complete Darkness
+Black Butterfly
+Pitch Black
+Absorb and Eject
+Clear Demarcation
+:adj
+Midnight's
+Ersan's
+Censan
+Momentary
+Thousand
+Umbra
+Dark
+Saint's
+Otherworldly
+Six
+:noun
+Fluttering
+Wind
+Lift and Weight
+Bursts
+Spear
+Candles
+Pulsation
+Nova
+Mathematics
+Short
+:noun2
+Wings
+Light
+:formatter
+_ in the Environs
+_ in a Dark Graveyard
+# Chouyou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

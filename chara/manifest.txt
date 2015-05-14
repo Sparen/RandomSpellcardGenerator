@@ -135,3 +135,8 @@ C_Rencron Rencron Reiri
 C_Rygen Rygen Nikou
 C_Mernen Mernen
 C_Sesae Sesae Satsuri
+C_Vanar13007 Vanar13007 Masetsu13007
+C_Canden Canden
+C_Yronsyncra Yronsyncra Konnen
+C_Etelos Etelos Sakana
+C_Narendani Narendani Arekku

@@ -1,0 +1,48 @@
+# Chouyou Canon
+:sign
+Water Sign
+Wave Sign
+Lake Sign
+Sacred Spring
+:adj
+Blue
+Current
+Bubbling
+Still
+Immortal
+Charged
+Rushing
+River
+Broken
+Great
+Bubble
+Abysmal
+Aquatic
+:noun
+Ripple
+Wheel
+Current
+Battle
+Sea
+Wave
+Waves
+Carrier
+Cessaedan
+Bubble
+Sword
+Ardssa-Reavos
+Whirlpool
+Boundary
+Abyss
+:noun2
+Arenen
+Drowned Corpses
+:formatter
+_ under the _
+_ - Current, Bubble, and Abyss
+# Chouyou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter
