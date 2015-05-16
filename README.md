@@ -188,3 +188,4 @@ Most characters have two names each)
 [05] Alarysesmala, Yronšyncra "C_Yronsyncra", "Yronsyncra" | Nekonomi, Konnen "Konnen"	<br>
 [05] Cynreon, Etelos "C_Etelos", "Etelos" | Hakutaku, Sakana "Sakana"	<br>
 [05] Genreto, Narendani "C_Narendani", "Narendani" | Ritsuta, Arekku "Arekku"	<br>
+[05] Vija "C_Vija", "Vija" | Hasuike "Hasuike"	<br>
