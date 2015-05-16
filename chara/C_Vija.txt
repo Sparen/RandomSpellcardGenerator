@@ -1,0 +1,69 @@
+# Chouyou Canon
+:sign
+Seeking Sign
+Lightning Sign
+Condensation
+Light Barrage
+DNA
+:adj
+Angle
+Enemy
+Pursuing
+Two-Way
+Three-Way
+Erratic
+Shock
+Vengeful
+Charged
+Air
+Rain-Gathering
+Water
+Pneumatic
+Wind
+Tunnel
+Vija's
+Secret
+Robot
+Laser
+Automaton
+Four-Colored
+Double
+Light
+Counter
+Human
+Extermination
+:noun
+Plot
+Detector
+Orb
+Railgun
+Weapon
+Shooting
+Well
+Saber
+Vapor
+Barrage
+Experiment
+Advancement
+Invasion
+Apocalypse
+Nightmare
+Helix
+Blood
+Show
+Square
+Plan
+:noun2
+Inheritance
+:formatter
+_ in Eight Directions
+_ Condensation Pseudo-Ritual
+_ from Two Sides
+The _ is Cursed; Abandon It Completely
+_ - Vija -
+# Chouyou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

@@ -140,3 +140,4 @@ C_Canden Canden
 C_Yronsyncra Yronsyncra Konnen
 C_Etelos Etelos Sakana
 C_Narendani Narendani Arekku
+C_Vija Vija Hasuike
