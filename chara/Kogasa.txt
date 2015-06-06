@@ -37,6 +37,37 @@ Traveler
 Cyclone
 Flash
 # Touhou Fanon
+:sign
+# START FondueMaster Kogasa
+Unpredictability
+Dispersion
+Jarring Nature
+Scare Sign
+Surprising Attack
+# END FondueMaster Kogasa
+:adj
+Advanced
+Parasol
+# START FondueMaster Kogasa
+Another Rainy
+Surprisingly Gentle
+Karakasa's Surprising
+Unforseen
+Detached Ghost Town's
+# END FondueMaster Kogasa
+:noun
+Day
+# START FondueMaster Kogasa
+Breakthrough
+Capillary Waves
+Tactics
+Blitz
+Attack Sequence
+Bewilderment
+# END FondueMaster Kogasa
 :noun2
 Light
 Rain
+# FondueMaster Kogasa
+Trickery
+:formatter
