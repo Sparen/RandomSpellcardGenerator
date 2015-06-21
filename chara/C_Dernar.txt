@@ -1,0 +1,89 @@
+# Chouyou Canon
+:sign
+Ice Sign
+Frozen Spring
+Snow Sign
+Strange Weather
+Freeze Sign
+Frozen River
+Snow Snake
+Flight Sign
+Leaf Sign
+:adj
+Icicle
+Freezing
+Deformed
+Perfect
+Eight-Pointed
+Glimmering
+Eleven-Pointed
+Unnatural
+Summer
+Impenetrable
+Snow
+Great
+Super
+Ice
+Slither
+Seeking
+Crystallized
+Endless
+Pine
+Ice-Coated
+Reverse
+Up-Down
+Salamander and Fox's
+Black
+Arcame
+:noun
+Legion
+Waterfall
+Snowflake
+Star
+Snowfall
+Blizzard
+Solstice
+Blanket
+Sword
+Wall
+Bazooka
+Illusion
+Snake
+Wings
+Lift
+Snow
+Needles
+Ice
+Trees
+Leaves
+Memories
+Arrowheads
+Nightmare
+Paranoia
+Hailstorm
+Codex
+# translated from NCS
+Genar-Edan
+Cave
+Elsereyn
+Mysteries
+:noun2
+Vjenger
+Snowflakes
+Near Past
+Distant Past
+:formatter
+_ on the _
+The _, _
+_ - Hail -
+_ from the Land of _
+_ in _
+_ Shedding _
+_ - And There Will Be None? -
+Singing in the _
+# Chouyou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

@@ -189,3 +189,5 @@ Most characters have two names each)
 [05] Cynreon, Etelos "C_Etelos", "Etelos" | Hakutaku, Sakana "Sakana"	<br>
 [05] Genreto, Narendani "C_Narendani", "Narendani" | Ritsuta, Arekku "Arekku"	<br>
 [05] Vija "C_Vija", "Vija" | Hasuike "Hasuike"	<br>
+[05] Arcame, Čyrden "C_Cyrden", "Cyrden", "Tyden" | Fuyuzato, Ririto "Ririto"	<br>
+[05] Arcame, Dernar "C_Dernar", "Dernar", | Fuyuzato, Ririka "Ririka"	<br>
