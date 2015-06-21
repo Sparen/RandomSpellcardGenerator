@@ -1,4 +1,4 @@
-#Touhou Canon
+# Touhou Canon
 :sign
 Ice Sign
 Hail Sign
@@ -40,7 +40,11 @@ Tornado
 Crusher
 Glacialist
 King
-#Touhou Fanon
+# Touhou Fanon
+:sign
+:adj
+:noun
 :noun2
 Absolute Zero
 Permafrost
+:formatter
