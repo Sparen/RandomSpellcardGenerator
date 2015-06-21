@@ -141,3 +141,5 @@ C_Yronsyncra Yronsyncra Konnen
 C_Etelos Etelos Sakana
 C_Narendani Narendani Arekku
 C_Vija Vija Hasuike
+C_Cyrden Cyrden Tyrden Ririto
+C_Dernar Dernar Ririka

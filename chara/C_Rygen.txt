@@ -24,6 +24,25 @@ First
 Second
 Spiral
 Cumulonimbus-Ascending
+Red
+Barrier
+Four-Tailed
+Vengeful Fox's
+Erratic
+Perfect
+Glass
+Light
+Silver-Coated
+Pristine
+Neo
+Brush
+Double
+Rainbow
+Flying
+Colorful
+Heavy
+Rygen's
+Chaotic
 :noun
 Beam
 Quake
@@ -39,6 +58,31 @@ Optics
 Paddle
 Clock
 Ladder
+Shift
+Advancement
+Walls
+Chase
+Sphere
+Bending
+Wings
+Reality
+Impressionism
+Red Violet
+Ladders
+Scroll
+Seal
+Sigt
+Rain
+Dance
 :noun2
 Nine Colors
 the Rainbow
+a Sky
+:formatter
+_ Expanding Farther and Farther
+_ from All Sides
+Fading into _
+_ that Paints from _ to _
+_ of Fate
+_ after _
+_ - Wave -

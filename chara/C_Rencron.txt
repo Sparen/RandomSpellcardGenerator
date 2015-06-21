@@ -1,25 +1,67 @@
+# Chouyou Canon
 # TODO add more stuff
 :sign
 Leaf Sign
-Earth Sign
-Wind Sign
 Tree Sign
 Seed Sign
 Grass Sign
+Sprout Sign
+Forest Sign
+Howl Sign
+Salamander Sign
+Birch Sign
 :adj
+Spiked
+Whole
+Great
+Vengeful
+Sylphae
+Rainbow
 Leaf-Ejecting
-Unknown
+Summer
+Amphibious
 Wily
-Silver
+Armadereyn
+Unknown
+Fantastic
+Green-Yellow
+Open
 :noun
-Salamander
-Wind
-Sword
-Bow
-Guard
-Arrows
-Sunrise
+Seed
+Corpse
+Forest
 Namu-Tori
+Trunks
+Forest
+Constellations
+Wind
+Chase
+Crossing
+Salamander
+Beacon
+Lighthouse
+Sword
+Arrows
+Seal
+Dance
+Night
+Universe
+:noun2
+Fate
+Four Swords
+:formatter
+_ Formation
+_ Storm
+Planting into the _
+From One _ a _ is Planted
+_ under the _
+_ Dance
+_ at 2 A. M.
+One _ in the _
+# Chouyou Fanon
+:sign
+Earth Sign
+Wind Sign
 :noun2
 the Deep Forest
 the Horizon

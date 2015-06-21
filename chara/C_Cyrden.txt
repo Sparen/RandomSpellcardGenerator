@@ -1,0 +1,75 @@
+# Chouyou Canon
+:sign
+Getting Lost
+Scratch Sign
+Rope Sign
+Justice
+Wall Sign
+Rotation
+Liquid Sign
+Direction Sign
+:adj
+Tranced
+Black
+Distance
+Reverse
+Rainbow
+Concentric
+Magic
+Fluid
+Reversing
+:noun
+Sparrows
+Nowhere
+Decoy
+Tangent
+Earth
+Stars
+Wounds
+Mirror
+Aroma
+Skin
+Sword
+Criminal
+Execution
+Flesh
+Knife
+Wall
+Maze
+Danmaku
+Border
+Life
+Universe
+Everything
+Reverse
+Repolarization
+Curse
+Death
+Line
+Curve
+End
+Retrograde
+:noun2
+Fresh Blood
+Arcame
+Sea
+the Right-Side-Up
+:formatter
+_ Reaching _
+Sailing at a _ to _, toward the _
+_ Seen through a _
+_ Cut Apart by the _
+_ Hanged Upside-Down
+_ Joined Together by the _
+_ Appearing in the Same Place
+The Answer to _, _, and _
+The _ and the _
+_ is (Not) _
+The _ that Never Ends
+# Chouyou Fanon
+:sign
+:adj
+:noun
+Reverser
+:noun2
+:formatter
