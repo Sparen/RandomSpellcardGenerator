@@ -32,7 +32,7 @@ Please note that the names you type in are the ones in quotes. Any of the names 
 
 ###TOUHOU###
 
-[01] Reimu Hakurei "Reimu"								<br>
+[01] Reimu Hakurei "Reimu" [+Python, Naut, Shadow]					<br>
 [02] Marisa Kirisame "Marisa" [+Lunarethic, TalosMistake, PhantomSong]			<br>
 [03] Yumemi Okazaki "Yumemi" [+Lunarethic, GTBot]					<br>
 [04] Yuuka Kazami "Yuuka", "Yuka" [+Darkness1]						<br>

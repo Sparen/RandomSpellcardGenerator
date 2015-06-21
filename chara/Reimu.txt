@@ -1,4 +1,4 @@
-#Touhou Canon
+# Touhou Canon
 :sign
 Spirit Sign
 Dream Sign
@@ -55,4 +55,37 @@ Scattering
 Exorcism
 Light
 Sealing
-#Touhou Fanon
+# Touhou Fanon
+:sign
+# START Naut Reimu
+Balance
+Dream Seal
+# END Naut Reimu
+:adj
+Hakurei God's
+Dream
+# START Naut Reimu
+Sealing
+Amulet
+# END Naut Reimu
+# Shadow Reimu
+High-Speed
+:noun
+# START Python Night at the Hakurei Shrine
+Breaker Beam
+Blessing
+Binding
+# END Python Night at the Hakurei Shrine
+# START Naut Reimu
+Evil
+Flurry
+# END Naut Reimu
+# START Shadow Reimu
+Purification
+Transmigration
+# END Shadow Reimu
+:noun2
+Hakurei
+:formatter
+# Python Night at the Hakurei Shrine
+_ Traversing Unreality
