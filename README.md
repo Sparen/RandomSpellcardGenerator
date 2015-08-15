@@ -59,7 +59,7 @@ Please note that the names you type in are the ones in quotes. Any of the names 
 [08] Mystia Lorelei "Mystia"								<br>
 [08] Keine Kamishirasawa "Keine"							<br>
 [08] Tewi Inaba "Tewi", "Tei"								<br>
-[08] Reisen Udongein Inaba "Udonge", "Reisen"						<br>
+[08] Reisen Udongein Inaba "Udonge", "Reisen" [+TresserT]				<br>
 [08] Kaguya Houraisan "Kaguya"								<br>
 [08] Eirin Yagokoro "Eirin" [+AJS]							<br>
 [08] Fujiwara no Mokou "Mokou"								<br>

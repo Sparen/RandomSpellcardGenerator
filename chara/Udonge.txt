@@ -22,6 +22,7 @@ Illusion Bullet
 Farsight
 Shortsight
 Red Eye
+Red Eyes
 :adj
 Red-Eyed
 Mind
@@ -107,8 +108,24 @@ an Empty Heart
 :formatter
 # Touhou Fanon
 :sign
+Rabbit Sign
 :adj
+# START Tressert Reisen
+Eyesight
+Violet
+Shadow
+Red Moon
+Hyper
+# END Tressert Reisen
 :noun
+# START Tressert Reisen
+Clearing
+Eye
+Cloning
+Bend
+Training
+Delusion
+# END Tressert Reisen
 :noun2
 the Moon Rabbit
 Madness
