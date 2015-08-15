@@ -1,0 +1,24 @@
+# Len'en Canon
+:sign
+Konohana
+Dragon Face
+:adj
+Beautiful
+Hammer
+:noun
+Flowers
+Form
+Mirror
+Toss
+Life Expectancy
+:noun2
+a Rock
+:formatter
+The _ Reflected in the _
+_ to Mount Ryuubusa
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter
