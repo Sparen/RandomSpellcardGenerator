@@ -12,6 +12,8 @@ Taiji
 Sumeru
 Bright Disaster
 Shining Card
+Dizzy Card
+Bright Slash
 :adj
 Cross
 Stubby
@@ -24,6 +26,8 @@ Glittering
 Laser
 Blitz
 Constricting
+Sparkling
+Fatal
 :noun
 Radiance
 Crossfire
@@ -43,6 +47,9 @@ Universe
 Constricting Universe
 Meteor Shower
 Chainsaw
+Meteor
+Blade
+Sword
 :noun2
 the Halo Effect
 One Billion Worlds
