@@ -173,6 +173,7 @@ Absent any naming conflicts, there will be an alias without a prefix.)
 [04] Medias Moritake "L_Medias", "Medias"				<br>
 [04] Kaisen Azuma "L_Kaisen", "Kaisen"					<br>
 [04] Kunimitsu Ooya "L_Kunimitsu", "Kunimitsu"				<br>
+[04] Suzumi Kuzu "L_Suzumi", "Suzumi"					<br>
 
 ###NANSEI (LENK64)###
 

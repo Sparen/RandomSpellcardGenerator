@@ -27,5 +27,5 @@ _ from the Shadows
 :adj
 :noun
 :noun2
-Youkai Exterminator
+the Youkai Exterminator
 :formatter

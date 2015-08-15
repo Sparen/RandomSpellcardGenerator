@@ -1,0 +1,31 @@
+# Len'en Canon
+:sign
+Reverse Time
+Return Time
+Stop Time
+Halt Time
+Projection and Reality
+:adj
+Returning
+Adverse
+Halting
+Disappearing
+:noun
+Memories
+History
+Remembrance
+Form
+Future
+Past
+Replay
+:noun2
+:formatter
+_ Being Lost
+_ Being Destroyed
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+the Informer
+:formatter
