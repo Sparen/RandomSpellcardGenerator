@@ -9,6 +9,7 @@ Mysterious Card
 Closing Curtain
 Dye
 Mysterious Origin
+Bird's Eye
 :adj
 Mysterious
 Picture
@@ -18,6 +19,8 @@ Inky
 Black
 Silver
 Monochrome
+Vertex
+Deep-Red
 :noun
 Ink and Silver
 Crane
@@ -30,12 +33,15 @@ Storm
 Blackout
 Game Over
 Notebook
+Emit
+Eye
 :noun2
 :formatter
 _ -Fruitlessness-
 _ -Hahakigi-
 _ -All Range-
 _ -Spiral-
+_ -Flash-
 # Len'en Fanon
 :sign
 :adj

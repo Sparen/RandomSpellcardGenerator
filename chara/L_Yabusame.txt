@@ -23,6 +23,9 @@ Dimensional
 Screen
 Repeated
 Danmaku
+Maiden
+Higgs
+Slightly Dislocated
 :noun
 Ink and Silver
 Rain
@@ -38,6 +41,9 @@ Division
 Illusion
 Shuffle
 Duplication
+Pit
+Juice
+Dimension
 :noun2
 Repeated Dimensional Rupture
 :formatter
