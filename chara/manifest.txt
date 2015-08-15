@@ -131,6 +131,7 @@ L_Tenkai Tenkai
 L_Mitsumo Mitsumo
 L_Souko Souko
 L_Kujiru Kujiru
+L_Medias Medias
 # SeitenTouji (Sparen)
 # Nansei (LENK64)
 # Chouyou (Fluffy8x)

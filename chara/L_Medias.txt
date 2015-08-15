@@ -1,0 +1,32 @@
+# Len'en Canon
+:sign
+Cold Claw
+Frozen Claw
+Cold Path
+Frozen Path
+Cold River
+Frozen River
+Royal River
+:adj
+Flightless
+Emperor
+Penguin
+Iceberg's
+Emperor's
+:noun
+Bird
+Dance
+Road
+Highway
+Claw
+Sword
+:noun2
+:formatter
+_ Standing on its Claws
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+the Penguin
+:formatter
