@@ -130,6 +130,7 @@ L_Shion Shion
 L_Tenkai Tenkai
 L_Mitsumo Mitsumo
 L_Souko Souko
+L_Kujiru Kujiru
 # SeitenTouji (Sparen)
 # Nansei (LENK64)
 # Chouyou (Fluffy8x)

@@ -168,7 +168,8 @@ Absent any naming conflicts, there will be an alias without a prefix.)
 [03] Shion "L_Shion", "Shion"						<br>
 [03] Tenkai Zuifeng "L_Tenkai", "Tenkai"				<br>
 [04] Mitsumo "L_Mitsumo", "Mitsumo"					<br>
-[04] Souko "L_Souko", "Souko"						<br>
+[04] Souko Shirami "L_Souko", "Souko"					<br>
+[04] Kujiru Kesa "L_Kujiru", "Kujiru"					<br>
 
 ###NANSEI (LENK64)###
 

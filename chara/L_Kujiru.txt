@@ -1,0 +1,25 @@
+# Len'en Canon
+:sign
+Sliminess
+Stickiness
+Turmoil
+:adj
+Slug
+Slimy Slug
+Homing
+Great Slug
+Original Slug
+:noun
+Stop
+Trap
+War
+Scramble
+:noun2
+:formatter
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+the Slug
+:formatter
