@@ -132,6 +132,8 @@ L_Mitsumo Mitsumo
 L_Souko Souko
 L_Kujiru Kujiru
 L_Medias Medias
+L_Kaisen Kaisen
+L_Kunimitsu Kunimitsu
 # SeitenTouji (Sparen)
 # Nansei (LENK64)
 # Chouyou (Fluffy8x)

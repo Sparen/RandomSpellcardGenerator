@@ -1,0 +1,31 @@
+# Len'en Canon
+:sign
+Slow Skill
+Slow Art
+Fast Skill
+Fast Work
+Swift Work
+:adj
+Commoner's
+Wind
+Slash
+View
+Sudden
+Great Sudden
+Giant
+:noun
+Sword Strike
+Attack
+Slashing
+Upset
+Killing
+:noun2
+:formatter
+_ from the Shadows
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+Youkai Exterminator
+:formatter

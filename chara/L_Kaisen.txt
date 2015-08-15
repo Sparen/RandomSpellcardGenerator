@@ -1,0 +1,29 @@
+# Len'en Canon
+:sign
+Strange Art
+Frog Art
+Leaping Medicine
+Drunken Dance
+Spirit Beast
+:adj
+Toad
+Tsukuba
+Pyon-Pyon
+Shiroku
+:noun
+Downpour
+Frog
+Toad Oil
+Eccentric Clown
+Toad
+:noun2
+Green Toad God
+:formatter
+The _ in the Moon
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+Toad
+:formatter

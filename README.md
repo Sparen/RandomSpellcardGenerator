@@ -171,6 +171,8 @@ Absent any naming conflicts, there will be an alias without a prefix.)
 [04] Souko Shirami "L_Souko", "Souko"					<br>
 [04] Kujiru Kesa "L_Kujiru", "Kujiru"					<br>
 [04] Medias Moritake "L_Medias", "Medias"				<br>
+[04] Kaisen Azuma "L_Kaisen", "Kaisen"					<br>
+[04] Kunimitsu Ooya "L_Kunimitsu", "Kunimitsu"				<br>
 
 ###NANSEI (LENK64)###
 
