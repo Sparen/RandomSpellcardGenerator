@@ -8,10 +8,12 @@ Blind
 Melanistic
 Slit
 Imperceptible
+Remembered
 :noun
 Shot
 Snake
 Dragon
+Remnants
 :noun2
 the Imperceptible
 :formatter

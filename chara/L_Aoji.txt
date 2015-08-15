@@ -14,6 +14,7 @@ Spiral
 Blue
 Plastic
 Eastern
+First-Rate
 :noun
 Blast
 Spiral
@@ -23,6 +24,7 @@ Storm
 Leviathan
 Vortex
 Garbage Patch
+Soul
 :noun2
 :formatter
 # Len'en Fanon
