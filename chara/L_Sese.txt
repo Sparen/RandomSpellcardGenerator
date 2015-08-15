@@ -10,6 +10,8 @@ Bone Piercing
 Circular Canon
 Cruel Death
 Marrow Cannon
+Bone Cannon
+Skeleton Card
 :adj
 Bone
 Cadaver
@@ -17,6 +19,7 @@ Blotchy
 Giant Rotary
 Pleural
 Bone-Cutting
+Suicide
 :noun
 Boomerang
 Bones
@@ -30,6 +33,8 @@ Eulogy
 Punishment
 Buster
 Necropotence
+Spark
+Necro
 :noun2
 Bone Skewers
 :formatter
