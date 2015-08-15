@@ -167,6 +167,7 @@ Absent any naming conflicts, there will be an alias without a prefix.)
 [03] Taira no Fumikado "L_Fumikado", "Fumikado"				<br>
 [03] Shion "L_Shion", "Shion"						<br>
 [03] Tenkai Zuifeng "L_Tenkai", "Tenkai"				<br>
+[04] Mitsumo "L_Mitsumo", "Mitsumo"					<br>
 
 ###NANSEI (LENK64)###
 

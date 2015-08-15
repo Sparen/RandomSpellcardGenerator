@@ -1,0 +1,26 @@
+# Len'en Canon
+:sign
+Self Fear
+Ignorance
+Mental Scars
+Embody
+:adj
+Out-of-Control
+Evil-Illuminating
+:noun
+Scars
+Self
+Nightmare
+Mirror
+:noun2
+:formatter
+What People Fear is their _
+Traumatize
+_ Once More
+# Len'en Fanon
+:sign
+:adj
+:noun
+:noun2
+Shouyoukyou
+:formatter

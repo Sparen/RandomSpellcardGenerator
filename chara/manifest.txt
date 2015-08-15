@@ -128,6 +128,7 @@ L_Iyozane Iyozane
 L_Fumikado Fumikado
 L_Shion Shion
 L_Tenkai Tenkai
+L_Mitsumo Mitsumo
 # SeitenTouji (Sparen)
 # Nansei (LENK64)
 # Chouyou (Fluffy8x)
