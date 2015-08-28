@@ -1,0 +1,33 @@
+# Touhou Canon
+:sign
+Prison Sign
+Hellfire
+Hell
+:adj
+Hell
+Graze
+Striped
+Fake
+Apollo
+:noun
+Eclipse
+Flash
+Star
+Stripe
+Inferno
+Hellish Secrets
+Abyss
+Apollo
+Hoax Theory
+:noun2
+Hell
+Grazing
+:formatter
+_ and _
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+the Hell Fairy
+:formatter

@@ -1,0 +1,23 @@
+# Touhou Canon
+:sign
+Orb Sign
+:adj
+Disorderly Flock's
+Impure Body
+One-Winged
+:noun
+Curse
+Reverse Curse
+Duplex Curse
+Detection Mines
+Shotgun Coronation
+White Heron
+:noun2
+the Gods
+:formatter
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

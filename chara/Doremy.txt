@@ -2,12 +2,17 @@
 :sign
 Dream Sign
 Moon Sign
+Butterfly
+Super-Express
+Crawling Dream
 :adj
 Scarlet
 Ochre
 Azure
 Dream
 Ultramarine Lunatic
+Butterfly
+Creeping
 :noun
 Nightmare
 Oppressive Nightmare
@@ -17,6 +22,9 @@ Dream
 Delusion
 Labyrinthine Delusion
 Catcher
+Supplantation
+Express
+Bullet
 :noun2
 Sorrow
 Eternal Sorrow

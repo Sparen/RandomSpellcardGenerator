@@ -114,6 +114,8 @@ Please note that the names you type in are the ones in quotes. Any of the names 
 [15] Seiran "Seiran", "YandereBunny"							<br>
 [15] Ringo "Ringo", "Dango"								<br>
 [15] Doremy Sweet "Doremy", "Dreamy"							<br>
+[15] Sagume Kishin "Sagume"								<br>
+[15] Clownpiece "Clownpiece"								<br>
 
 ###IDO###
 
