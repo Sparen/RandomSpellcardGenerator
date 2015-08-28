@@ -1,0 +1,38 @@
+# Touhou Canon
+:sign
+Pure Sign
+:adj
+Primordial
+Modern
+Trembling
+Shivering
+Pristine
+Overflowing
+Purely Bullet
+A Pristine Danmaku
+First and Last
+:noun
+Pure Light
+Lilies
+Divine Spirit World
+Star
+Lunacy
+Impurity
+Cleansing
+Hell
+Simple Danmaku
+Pristine Danmaku
+Nameless Danmaku
+:noun2
+the Palm
+Murderous Intent
+Earthen Impurity
+:formatter
+_ for Cornering a Trapped Rat
+_ for Killing a Person
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

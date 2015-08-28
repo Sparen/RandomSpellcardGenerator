@@ -1,0 +1,30 @@
+# Touhou Canon
+:sign
+Otherworld
+Earth
+Moon
+:adj
+Apollo
+Hell's
+Lunatic
+Trinitarian
+First and Last
+:noun
+Impurity
+Reflection Mirror
+Non-Ideal Danmaku
+Rain
+Impact
+Rhapsody
+Nameless Danmaku
+:noun2
+:formatter
+_ Within One's Body
+_ Falling in Hell
+# Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+the Goddess of Hell
+:formatter

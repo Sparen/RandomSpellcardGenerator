@@ -116,6 +116,8 @@ Please note that the names you type in are the ones in quotes. Any of the names 
 [15] Doremy Sweet "Doremy", "Dreamy"							<br>
 [15] Sagume Kishin "Sagume"								<br>
 [15] Clownpiece "Clownpiece"								<br>
+[15] Junko "Junko" "Junk"								<br>
+[15] Hecatia Lapislazuli "Hecatia"							<br>
 
 ###IDO###
 
