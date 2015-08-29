@@ -1,0 +1,44 @@
+# Touhou Canon
+:sign
+:adj
+:noun
+:noun2
+:formatter
+# Touhou Fanon
+:sign
+# START SGYddisac LoTH Rinnosuke
+Shogun
+Hellfire
+Green World
+Judgment
+Star Song
+# END SGYddisac LoTH Rinnosuke
+:adj
+# START SGYddisac LoTH Rinnosuke
+Heavenly
+Flowing
+Shooting
+World-Shaking
+# END SGYddisac LoTH Rinnosuke
+:noun
+# START SGYddisac LoTH Rinnosuke
+Demise
+Hellfire
+Wild Dance
+World
+Forest
+Lightning
+Shining Stars
+Star
+Military Rule
+# END SGYddisac LoTH Rinnosuke
+:noun2
+# START SGYddisac LoTH Rinnosuke
+Freezing Mist
+Traumerel
+# END SGYddisac LoTH Rinnosuke
+:formatter
+# START SGYddisac LoTH Rinnosuke
+Start of _
+The Word for _ is _
+# END SGYddisac LoTH Rinnosuke
