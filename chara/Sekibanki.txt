@@ -16,11 +16,26 @@ Hell's
 Twin Rokuro
 :noun
 Head
+Heads
 Shot
 Flight
 Night
 Long Neck
 Ray
 # Touhou Fanon
+:sign
+# START Sparen Sekibanki
+Rokurokubi
+Visionary Dullahan
+Dullahan
+# END Sparen Sekibanki
+:adj
+# START Sparen Sekibanki
+Remotely Functioning
+Multiple Disconnected
+Extending
+# END Sparen Sekibanki
+:noun
 :noun2
 the Dullahan
+:formatter

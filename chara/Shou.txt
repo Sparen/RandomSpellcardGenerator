@@ -31,3 +31,20 @@ Perfect Buddhism
 Justice
 Purification
 # Touhou Fanon
+:sign
+# TalosMistake Shou Stage
+Holy Sign
+:adj
+# START TalosMistake Shou Stage
+Pagoda
+Sacred
+Heaven's
+# END TalosMistake Shou Stage
+:noun
+# START TalosMistake Shou Stage
+Pillar
+Gate
+Sanctification
+# END TalosMistake Shou Stage
+:noun2
+:formatter

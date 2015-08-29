@@ -89,7 +89,7 @@ Please note that the names you type in are the ones in quotes. Any of the names 
 [12] Kogasa Tatara "Kogasa" [+Fondue, Vigor]						<br>
 [12] Ichirin Kumoi "Ichirin", "Unzan"							<br>
 [12] Minamitsu Murasa "Minamitsu", "Murasa"						<br>
-[12] Shou Toramaru "Shou", "Syou"							<br>
+[12] Shou Toramaru "Shou", "Syou" [+TalosMistake]					<br>
 [12] Byakuren Hijiri "Byakuren", "Namusan", "TurboGranny"				<br>
 [12] Nue Houjuu "Nue"									<br>
 [12.5] Hatate Himekaidou "Hatate" {+MPP}						<br>
@@ -102,7 +102,7 @@ Please note that the names you type in are the ones in quotes. Any of the names 
 [13] Mamizou Futatsuiwa "Mamizou"							<br>
 [13.5] Hata no Kokoro "Kokoro"								<br>
 [14] Wakasagihime "Wakasagihime"							<br>
-[14] Sekibanki "Sekibanki"								<br>
+[14] Sekibanki "Sekibanki" [+Sparen]							<br>
 [14] Kagerou Imaizumi "Kagerou"								<br>
 [14] Benben Tsukumo "Benben"								<br>
 [14] Yatsuhashi Tsukumo "Yatsuhashi"							<br>
