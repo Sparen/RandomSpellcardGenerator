@@ -86,7 +86,7 @@ Please note that the names you type in are the ones in quotes. Any of the names 
 [11] Utsuho Reiuji "Utsuho", "Okuu" [+Rogus]						<br>
 [11] Koishi Komeiji "Koishi" [+PhantomSong, Byzantheryx]				<br>
 [12] Nazrin "Nazrin"									<br>
-[12] Kogasa Tatara "Kogasa" [+Fondue]							<br>
+[12] Kogasa Tatara "Kogasa" [+Fondue, Vigor]						<br>
 [12] Ichirin Kumoi "Ichirin", "Unzan"							<br>
 [12] Minamitsu Murasa "Minamitsu", "Murasa"						<br>
 [12] Shou Toramaru "Shou", "Syou"							<br>

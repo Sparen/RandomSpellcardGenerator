@@ -38,6 +38,7 @@ Cyclone
 Flash
 # Touhou Fanon
 :sign
+Rainbow
 # START FondueMaster Kogasa
 Unpredictability
 Dispersion
@@ -45,6 +46,10 @@ Jarring Nature
 Scare Sign
 Surprising Attack
 # END FondueMaster Kogasa
+# START Vigor Kogasa
+Rainfall
+Sunshower
+# END Vigor Kogasa
 :adj
 Advanced
 Parasol
@@ -55,6 +60,8 @@ Karakasa's Surprising
 Unforseen
 Detached Ghost Town's
 # END FondueMaster Kogasa
+# Vigor Kogasa
+Samidare
 :noun
 Day
 # START FondueMaster Kogasa
@@ -65,9 +72,12 @@ Blitz
 Attack Sequence
 Bewilderment
 # END FondueMaster Kogasa
+# Vigor Kogasa
+Storm
 :noun2
 Light
 Rain
+Rainbows
 # FondueMaster Kogasa
 Trickery
 :formatter
