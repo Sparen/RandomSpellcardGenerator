@@ -32,7 +32,16 @@ _ for Cornering a Trapped Rat
 _ for Killing a Person
 # Touhou Fanon
 :sign
+Purity Sign
 :adj
+# Python Junko/Hecatia
+Pure Heart
 :noun
+# START Python Junko/Hecatia
+Fancy Danmaku
+Radiance
+# END Python Junko/Hecatia
 :noun2
 :formatter
+# Python Junko/Hecatia
+_ for Irritating the Impure

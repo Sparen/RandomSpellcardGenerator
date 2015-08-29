@@ -24,7 +24,20 @@ _ Falling in Hell
 # Touhou Fanon
 :sign
 :adj
+# START Python Junko/Hecatia
+Earthen
+Moonlight
+# END Python Junko/Hecatia
 :noun
+# START Python Junko/Hecatia
+Gates
+Rainstorm
+Flash
+# END Python Junko/Hecatia
 :noun2
 the Goddess of Hell
+# START Python Junko/Hecatia
+Hell
+the Unholy Trinity
+# END Python Junko/Hecatia
 :formatter
