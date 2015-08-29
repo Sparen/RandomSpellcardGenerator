@@ -59,7 +59,7 @@ Please note that the names you type in are the ones in quotes. Any of the names 
 [08] Mystia Lorelei "Mystia"								<br>
 [08] Keine Kamishirasawa "Keine"							<br>
 [08] Tewi Inaba "Tewi", "Tei"								<br>
-[08] Reisen Udongein Inaba "Udonge", "Reisen" [+TresserT]				<br>
+[08] Reisen Udongein Inaba "Udonge", "Reisen" [+TresserT, Conarnar]			<br>
 [08] Kaguya Houraisan "Kaguya"								<br>
 [08] Eirin Yagokoro "Eirin" [+AJS]							<br>
 [08] Fujiwara no Mokou "Mokou"								<br>
@@ -114,7 +114,7 @@ Please note that the names you type in are the ones in quotes. Any of the names 
 [15] Seiran "Seiran", "YandereBunny"							<br>
 [15] Ringo "Ringo", "Dango"								<br>
 [15] Doremy Sweet "Doremy", "Dreamy"							<br>
-[15] Sagume Kishin "Sagume"								<br>
+[15] Sagume Kishin "Sagume" [+Conarnar]							<br>
 [15] Clownpiece "Clownpiece"								<br>
 [15] Junko "Junko" "Junk" [+Python]							<br>
 [15] Hecatia Lapislazuli "Hecatia" [+Python]						<br>

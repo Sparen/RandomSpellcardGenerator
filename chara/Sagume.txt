@@ -17,7 +17,21 @@ the Gods
 :formatter
 # Touhou Fanon
 :sign
+# START Conarnar Sagume
+False Words
+Reverse Words
+# END Conarnar Sagume
 :adj
+# START Conarnar Sagume
+Mysterious
+Infinite
+Orderly
+# END Conarnar Sagume
 :noun
+# START Conarnar Sagume
+Assault
+Life
+Defense Line
+# END Conarnar Sagume
 :noun2
 :formatter

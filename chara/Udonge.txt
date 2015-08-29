@@ -109,6 +109,11 @@ an Empty Heart
 # Touhou Fanon
 :sign
 Rabbit Sign
+# START Conarnar Reisen
+Afterimage
+Insanity
+Lunatic Eyes
+# END Conarnar Reisen
 :adj
 # START Tressert Reisen
 Eyesight
@@ -117,6 +122,11 @@ Shadow
 Red Moon
 Hyper
 # END Tressert Reisen
+# START Conarnar Reisen
+Vision
+Illusionary
+Wave
+# END Conarnar Reisen
 :noun
 # START Tressert Reisen
 Clearing
@@ -126,8 +136,13 @@ Bend
 Training
 Delusion
 # END Tressert Reisen
+# START Conarnar Reisen
+Shifting
+Film
+Fear
+Distortion
+# END Conarnar Reisen
 :noun2
 the Moon Rabbit
 Madness
-Insanity
 :formatter
