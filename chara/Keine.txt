@@ -51,3 +51,8 @@ Phantasm
 the East
 Edo
 # Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

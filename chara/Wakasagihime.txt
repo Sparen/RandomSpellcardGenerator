@@ -20,3 +20,8 @@ the Reversed Scale
 the Lake
 Fish
 # Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

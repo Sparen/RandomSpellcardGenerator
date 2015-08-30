@@ -26,5 +26,8 @@ Scream
 Circle
 Nianfo
 # Touhou Fanon
+:sign
+:adj
+:noun
 :noun2
 the Yamabiko

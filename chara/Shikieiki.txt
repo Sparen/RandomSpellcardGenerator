@@ -17,3 +17,8 @@ Guilt
 Wolf
 the Ten Kings
 # Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

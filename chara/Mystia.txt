@@ -31,3 +31,8 @@ Cage
 the Horned Owl
 the Night Sparrow
 # Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

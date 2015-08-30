@@ -41,5 +41,8 @@ a Former Hell
 Yore
 Dead Ashes
 # Touhou Fanon
+:sign
+:adj
+:noun
 :noun2
 the Kasha

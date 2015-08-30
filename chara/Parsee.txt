@@ -24,3 +24,8 @@ Hate
 the Kind and Lovely
 the Humble and Rich
 # Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

@@ -13,3 +13,8 @@ Windrow
 :noun2
 Madness
 # Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

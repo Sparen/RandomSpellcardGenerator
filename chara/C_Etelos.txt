@@ -27,15 +27,12 @@ Sea
 Wave
 Waves
 Carrier
-Cessaedan
 Bubble
 Sword
-Ardssa-Reavos
 Whirlpool
 Boundary
 Abyss
 :noun2
-Arenen
 Drowned Corpses
 :formatter
 _ under the _

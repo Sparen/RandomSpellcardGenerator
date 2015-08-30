@@ -15,3 +15,8 @@ Dark Side
 :noun2
 the Moon
 # Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

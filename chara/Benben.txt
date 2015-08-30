@@ -39,3 +39,8 @@ Song
 :noun2
 Falling Stars
 # Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

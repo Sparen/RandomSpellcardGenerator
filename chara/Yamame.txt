@@ -21,5 +21,8 @@ Fever
 Rope
 Spider
 # Touhou Fanon
+:sign
+:adj
+:noun
 :noun2
 the Earth Spider

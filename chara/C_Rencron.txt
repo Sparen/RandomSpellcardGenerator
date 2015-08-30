@@ -1,5 +1,4 @@
 # Chouyou Canon
-# TODO add more stuff
 :sign
 Leaf Sign
 Tree Sign
@@ -55,8 +54,6 @@ _ Storm
 Planting into the _
 From One _ a _ is Planted
 _ under the _
-_ Dance
-_ at 2 A. M.
 One _ in the _
 # Chouyou Fanon
 :sign

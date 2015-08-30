@@ -19,3 +19,8 @@ Room
 :noun2
 the Wheat God
 # Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter

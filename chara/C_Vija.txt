@@ -21,7 +21,6 @@ Water
 Pneumatic
 Wind
 Tunnel
-Vija's
 Secret
 Robot
 Laser
@@ -60,7 +59,6 @@ _ in Eight Directions
 _ Condensation Pseudo-Ritual
 _ from Two Sides
 The _ is Cursed; Abandon It Completely
-_ - Vija -
 # Chouyou Fanon
 :sign
 :adj

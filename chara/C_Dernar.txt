@@ -63,18 +63,14 @@ Paranoia
 Hailstorm
 Codex
 # translated from NCS
-Genar-Edan
 Cave
-Elsereyn
 Mysteries
 :noun2
-Vjenger
 Snowflakes
 Near Past
 Distant Past
 :formatter
 _ on the _
-The _, _
 _ - Hail -
 _ from the Land of _
 _ in _

@@ -31,6 +31,9 @@ Concerto
 Riverside
 Concerto Grosso
 # Touhou Fanon
+:sign
+:adj
+:noun
 :noun2
 Melody
 Harmony

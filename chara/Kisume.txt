@@ -9,5 +9,8 @@ Well
 Apparition
 Destructor
 # Touhou Fanon
+:sign
+:adj
+:noun
 :noun2
 Fire

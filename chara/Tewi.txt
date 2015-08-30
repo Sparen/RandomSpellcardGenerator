@@ -15,3 +15,8 @@ Vulnerary
 Inaba
 Ohnamuji-sama
 # Touhou Fanon
+:sign
+:adj
+:noun
+:noun2
+:formatter
