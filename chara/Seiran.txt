@@ -15,8 +15,23 @@ Gun
 :formatter
 # Touhou Fanon
 :sign
+# START Lunarethic Seiran
+Eagle Shooting
+Eagle Ravi
+Bullet Warping
+# END Lunarethic Seiran
 :adj
+# START Lunarethic Seiran
+Mach
+Rabbit's
+Dimensional
+# END Lunarethic Seiran
 :noun
+# START Lunarethic Seiran
+Bullet
+Foot
+Crossfire
+# END Lunarethic Seiran
 :noun2
 the Moon Rabbit
 :formatter
